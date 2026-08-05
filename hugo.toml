@@ -393,3 +393,7 @@ showJobCard = true # Set to false to hide the job card
       precision = 0
     [minify.tdewolff.js]
       precision = 0
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
