@@ -95,7 +95,6 @@ sameAs = [
   'https://github.com/thanhchu.github.io'
 ]
 
-[params]
 sections = [
   "showcase",
   "about",
