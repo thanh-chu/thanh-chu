@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thanh Chu — Software Engineering Student</title><link>http://localhost:57152/</link><description>Recent content on Thanh Chu — Software Engineering Student</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:57152/index.xml" rel="self" type="application/rss+xml"/><item><title>Exercise Session Leader</title><link>http://localhost:57152/experience/job-3/</link><pubDate>Sat, 01 Aug 2026 00:00:00 +0100</pubDate><guid>http://localhost:57152/experience/job-3/</guid><description>&lt;h2 id="mathematics-exercise-leader--discrete-mathematics--algorithms"&gt;Mathematics Exercise Leader — Discrete Mathematics &amp;amp; Algorithms&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thanh Chu — Software Engineering Student</title><link>http://localhost:1313/</link><description>Recent content on Thanh Chu — Software Engineering Student</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Exercise Session Leader</title><link>http://localhost:1313/experience/job-3/</link><pubDate>Sat, 01 Aug 2026 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-3/</guid><description>&lt;h2 id="mathematics-exercise-leader--discrete-mathematics--algorithms"&gt;Mathematics Exercise Leader — Discrete Mathematics &amp;amp; Algorithms&lt;/h2&gt;
 &lt;p&gt;Personally recommended by the course lecturer to the Head of the Mathematics Department and selected as 1 of only 3 students trusted to lead weekly exercise sessions for first-year students.&lt;/p&gt;
-&lt;p&gt;Co-designing the exercise curriculum from scratch, pacing it to the lectures and shaping it around student feedback to give first-years the best possible route into the subject.&lt;/p&gt;</description></item><item><title>Continuous Performance Monitoring Framework</title><link>http://localhost:57152/projects/swiss-fintech/</link><pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate><guid>http://localhost:57152/projects/swiss-fintech/</guid><description>&lt;p&gt;&lt;strong&gt;Student project for Ericsson, Karlskrona&lt;/strong&gt; · Team of 5 · Feb – May 2026 · &lt;strong&gt;Grade A&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Co-designing the exercise curriculum from scratch, pacing it to the lectures and shaping it around student feedback to give first-years the best possible route into the subject.&lt;/p&gt;</description></item><item><title>Continuous Performance Monitoring Framework</title><link>http://localhost:1313/projects/swiss-fintech/</link><pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate><guid>http://localhost:1313/projects/swiss-fintech/</guid><description>&lt;p&gt;&lt;strong&gt;Student project for Ericsson, Karlskrona&lt;/strong&gt; · Team of 5 · Feb – May 2026 · &lt;strong&gt;Grade A&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A feedback-controlled framework for continuous performance monitoring — detects saturation points, tracks trends, and visualises system health in real time.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Built a feedback-controlled load-testing framework in Python with Locust&lt;/li&gt;
@@ -9,30 +9,30 @@
 &lt;li&gt;Acted as Project Owner for the first and last sprints; contributed code and reviews across nearly all modules&lt;/li&gt;
 &lt;li&gt;Delivered every client and academic demo as lead presenter&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Python, Locust, Grafana, Prometheus, SQLite, Docker, Minikube, pytest, Cypress, GitLab&lt;/p&gt;</description></item><item><title>Showcase</title><link>http://localhost:57152/showcase/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><guid>http://localhost:57152/showcase/</guid><description>&lt;p&gt;These are real websites built by the community using the Adritian Hugo theme.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Is your site missing?&lt;/strong&gt; &lt;a href="https://github.com/zetxek/adritian-free-hugo-theme/issues/new?template=showcase-submission.md"&gt;Submit it via GitHub&lt;/a&gt; — we&amp;rsquo;d love to feature it here!&lt;/p&gt;</description></item><item><title>Graph Editor</title><link>http://localhost:57152/projects/robo-advisor/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0200</pubDate><guid>http://localhost:57152/projects/robo-advisor/</guid><description>&lt;p&gt;&lt;strong&gt;Individual project&lt;/strong&gt; · &lt;strong&gt;Grade A&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Python, Locust, Grafana, Prometheus, SQLite, Docker, Minikube, pytest, Cypress, GitLab&lt;/p&gt;</description></item><item><title>Showcase</title><link>http://localhost:1313/showcase/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/showcase/</guid><description>&lt;p&gt;These are real websites built by the community using the Adritian Hugo theme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Is your site missing?&lt;/strong&gt; &lt;a href="https://github.com/zetxek/adritian-free-hugo-theme/issues/new?template=showcase-submission.md"&gt;Submit it via GitHub&lt;/a&gt; — we&amp;rsquo;d love to feature it here!&lt;/p&gt;</description></item><item><title>Graph Editor</title><link>http://localhost:1313/projects/robo-advisor/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0200</pubDate><guid>http://localhost:1313/projects/robo-advisor/</guid><description>&lt;p&gt;&lt;strong&gt;Individual project&lt;/strong&gt; · &lt;strong&gt;Grade A&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An interactive graph visualiser and editor for creating, exploring, and analysing networks such as knowledge graphs, dependencies, and social interactions.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Designed and built an interactive graph visualiser/editor for knowledge and dependency graphs&lt;/li&gt;
 &lt;li&gt;Implemented a TypeScript front end backed by Neo4j queries&lt;/li&gt;
 &lt;li&gt;Learned Neo4j and TypeScript from scratch for this project and delivered a fully working tool&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; JavaScript, TypeScript, Neo4j&lt;/p&gt;</description></item><item><title>Cashier</title><link>http://localhost:57152/experience/job-4/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate><guid>http://localhost:57152/experience/job-4/</guid><description>&lt;h2 id="cashier--lee-baguette"&gt;Cashier — Lee Baguette&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; JavaScript, TypeScript, Neo4j&lt;/p&gt;</description></item><item><title>Cashier</title><link>http://localhost:1313/experience/job-4/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-4/</guid><description>&lt;h2 id="cashier--lee-baguette"&gt;Cashier — Lee Baguette&lt;/h2&gt;
 &lt;p&gt;Assisted customers with menu selections and special requests. Processed transactions accurately and efficiently while maintaining a clean, organised checkout area.&lt;/p&gt;
-&lt;p&gt;Kept service fast and reliable through the busy weekday lunch rush and peak summer tourist season, when customers needed to be served quickly to get back to work on time.&lt;/p&gt;</description></item><item><title>Restaurant Ordering System &amp; Kitchen Dashboard</title><link>http://localhost:57152/projects/radity-finance-uikit/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0200</pubDate><guid>http://localhost:57152/projects/radity-finance-uikit/</guid><description>&lt;p&gt;&lt;strong&gt;Team of 5 (first-year project)&lt;/strong&gt; · &lt;strong&gt;Grade A&lt;/strong&gt; (individual &amp;amp; team)&lt;/p&gt;
+&lt;p&gt;Kept service fast and reliable through the busy weekday lunch rush and peak summer tourist season, when customers needed to be served quickly to get back to work on time.&lt;/p&gt;</description></item><item><title>Restaurant Ordering System &amp; Kitchen Dashboard</title><link>http://localhost:1313/projects/radity-finance-uikit/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0200</pubDate><guid>http://localhost:1313/projects/radity-finance-uikit/</guid><description>&lt;p&gt;&lt;strong&gt;Team of 5 (first-year project)&lt;/strong&gt; · &lt;strong&gt;Grade A&lt;/strong&gt; (individual &amp;amp; team)&lt;/p&gt;
 &lt;p&gt;A small ordering website for customers, paired with a kitchen dashboard to track incoming orders and mark them complete.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Built a Flask ordering site plus a real-time kitchen dashboard for order tracking&lt;/li&gt;
 &lt;li&gt;Tested with pytest and shipped in Docker&lt;/li&gt;
 &lt;li&gt;Led planning and reporting and contributed code across nearly every part of the project&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Python, Flask, SQLite, pytest, Docker&lt;/p&gt;</description></item><item><title>Blekinge Institute of Technology (BTH)</title><link>http://localhost:57152/education/high-school/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0200</pubDate><guid>http://localhost:57152/education/high-school/</guid><description/></item><item><title>Preschool Teacher</title><link>http://localhost:57152/experience/job-2/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0100</pubDate><guid>http://localhost:57152/experience/job-2/</guid><description>&lt;h2 id="preschool-teacher--rödeby-förskola-tallbacken-sweden-sep-2022--aug-2024"&gt;Preschool Teacher — Rödeby Förskola Tallbacken, Sweden (Sep 2022 – Aug 2024)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Python, Flask, SQLite, pytest, Docker&lt;/p&gt;</description></item><item><title>Blekinge Institute of Technology (BTH)</title><link>http://localhost:1313/education/high-school/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0200</pubDate><guid>http://localhost:1313/education/high-school/</guid><description/></item><item><title>Preschool Teacher</title><link>http://localhost:1313/experience/job-2/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-2/</guid><description>&lt;h2 id="preschool-teacher--rödeby-förskola-tallbacken-sweden-sep-2022--aug-2024"&gt;Preschool Teacher — Rödeby Förskola Tallbacken, Sweden (Sep 2022 – Aug 2024)&lt;/h2&gt;
 &lt;p&gt;Designed engaging lesson plans tailored to diverse learning styles and developmental needs. Facilitated daily classroom activities to build social skills and cooperation among children. Collaborated with parents on child progress and supported fellow teachers with planning and classroom management.&lt;/p&gt;
-&lt;p&gt;Trusted with responsibilities beyond the role&amp;rsquo;s scope: writing classroom activity reports for the bulletin board and sending weekly newsletters and important updates to parents.&lt;/p&gt;</description></item><item><title>Vietnam Maritime Commercial Joint Stock Bank</title><link>http://localhost:57152/experience/job-1/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate><guid>http://localhost:57152/experience/job-1/</guid><description>&lt;h2 id="vietnam-maritime-commercial-joint-stock-bank--8-years-20112019"&gt;Vietnam Maritime Commercial Joint Stock Bank — 8 Years (2011–2019)&lt;/h2&gt;
+&lt;p&gt;Trusted with responsibilities beyond the role&amp;rsquo;s scope: writing classroom activity reports for the bulletin board and sending weekly newsletters and important updates to parents.&lt;/p&gt;</description></item><item><title>Vietnam Maritime Commercial Joint Stock Bank</title><link>http://localhost:1313/experience/job-1/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-1/</guid><description>&lt;h2 id="vietnam-maritime-commercial-joint-stock-bank--8-years-20112019"&gt;Vietnam Maritime Commercial Joint Stock Bank — 8 Years (2011–2019)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Operations Process Officer&lt;/strong&gt; · Sep 2017 – Oct 2019&lt;/p&gt;
 &lt;p&gt;Selected as 1 of 2 officers to lead process design for a bank-wide transformation migrating the entire customer service division from operations to specialised retail banking — owned procedure writing, staff training, department-wide newsletters, cross-department procedure reviews, and overtime-policy negotiations with HR.&lt;/p&gt;
-&lt;p&gt;Chosen as 1 of 3 department representatives on the bank&amp;rsquo;s core-system migration project, responsible for the payment account and savings account modules.&lt;/p&gt;</description></item><item><title>Academy of Finance, Hanoi</title><link>http://localhost:57152/education/university-of-life/</link><pubDate>Sun, 01 Aug 2010 00:00:00 +0200</pubDate><guid>http://localhost:57152/education/university-of-life/</guid><description/></item><item><title>General Accountant</title><link>http://localhost:57152/experience/job-5/</link><pubDate>Sat, 01 Aug 2009 00:00:00 +0100</pubDate><guid>http://localhost:57152/experience/job-5/</guid><description>&lt;h2 id="general-accountant--198-trading--services-co-ltd"&gt;General Accountant — 19.8 Trading &amp;amp; Services Co., Ltd.&lt;/h2&gt;
-&lt;p&gt;Managed accounts payable/receivable and prepared monthly financial statements. Reconciled bank statements and performed month-end closing procedures.&lt;/p&gt;</description></item><item><title>University of Labour &amp; Social Affairs (ULSA2)</title><link>http://localhost:57152/education/ulsa2/</link><pubDate>Mon, 01 Aug 2005 00:00:00 +0200</pubDate><guid>http://localhost:57152/education/ulsa2/</guid><description/></item><item><title>Buscar</title><link>http://localhost:57152/es/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:57152/es/search/</guid><description>search</description></item><item><title>Footer</title><link>http://localhost:57152/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:57152/footer/footer/</guid><description>&lt;section id="contact" class="section section--border-bottom rad-animation-group"&gt;
+&lt;p&gt;Chosen as 1 of 3 department representatives on the bank&amp;rsquo;s core-system migration project, responsible for the payment account and savings account modules.&lt;/p&gt;</description></item><item><title>Academy of Finance, Hanoi</title><link>http://localhost:1313/education/university-of-life/</link><pubDate>Sun, 01 Aug 2010 00:00:00 +0200</pubDate><guid>http://localhost:1313/education/university-of-life/</guid><description/></item><item><title>General Accountant</title><link>http://localhost:1313/experience/job-5/</link><pubDate>Sat, 01 Aug 2009 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-5/</guid><description>&lt;h2 id="general-accountant--198-trading--services-co-ltd"&gt;General Accountant — 19.8 Trading &amp;amp; Services Co., Ltd.&lt;/h2&gt;
+&lt;p&gt;Managed accounts payable/receivable and prepared monthly financial statements. Reconciled bank statements and performed month-end closing procedures.&lt;/p&gt;</description></item><item><title>University of Labour &amp; Social Affairs (ULSA2)</title><link>http://localhost:1313/education/ulsa2/</link><pubDate>Mon, 01 Aug 2005 00:00:00 +0200</pubDate><guid>http://localhost:1313/education/ulsa2/</guid><description/></item><item><title>Buscar</title><link>http://localhost:1313/es/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/es/search/</guid><description>search</description></item><item><title>Footer</title><link>http://localhost:1313/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/footer/footer/</guid><description>&lt;section id="contact" class="section section--border-bottom rad-animation-group"&gt;
  &lt;div class="container"&gt;
  &lt;div class="row rad-fade-down"&gt;
  &lt;div class="col-12 text-center"&gt;
@@ -52,7 +52,7 @@
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
-&lt;/section&gt;</description></item><item><title>Home</title><link>http://localhost:57152/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:57152/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+&lt;/section&gt;</description></item><item><title>Home</title><link>http://localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
  &lt;div&gt;
  
 
@@ -94,14 +94,14 @@
  
  
 
- &lt;source srcset="http://localhost:57152/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:57152/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:57152/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:57152/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:1313/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:1313/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
 
  &lt;img
  width="790"
  height="768"
  class="lozad img-responsive "
- data-src="http://localhost:57152/images/showcase/showcase_hu_3f0255b2c18af728.png"
+ data-src="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -205,14 +205,14 @@
  
  
 
- &lt;source srcset="http://localhost:57152/images/about/user-picture_hu_5ab8f0706d32817e.webp 1x, http://localhost:57152/images/about/user-picture_hu_d002c64a15dbdab1.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:57152/images/about/user-picture_hu_c6123c8480eb20f1.png 1x, http://localhost:57152/images/about/user-picture_hu_bd13866e68de8578.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_5ab8f0706d32817e.webp 1x, http://localhost:1313/images/about/user-picture_hu_d002c64a15dbdab1.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png 1x, http://localhost:1313/images/about/user-picture_hu_bd13866e68de8578.png 2x" type="image/png"&gt;
 
  &lt;img
  width="400"
  height="550"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:57152/images/about/user-picture_hu_c6123c8480eb20f1.png"
+ data-src="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -227,7 +227,7 @@
  I am a Software Engineering student at BTH, Sweden, transitioning into tech after 15+ years in banking, finance, and early childhood education. I bring a rare combination of hands-on coding skills, disciplined process thinking, and strong communication ability — proven by delivering a student project for Ericsson, leading client demos, and being personally selected to lead exercise sessions for first-year students.&lt;br/&gt;&lt;br/&gt;Comfortable working across the stack: backend services, databases, CI/CD, monitoring, and containerised deployments.
  &lt;/div&gt;
  
- &lt;a href="http://localhost:57152/skills" class="btn btn-primary mt-3"&gt;
+ &lt;a href="http://localhost:1313/skills" class="btn btn-primary mt-3"&gt;
  &lt;i class="icon-user"&gt;&lt;/i&gt;
  Check my skills
  &lt;/a&gt;
@@ -313,7 +313,7 @@
 
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/experience/job-3/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/experience/job-3/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -336,7 +336,7 @@ Co-designing the exercise curriculum from scratch, pacing it to the lectures and
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/experience/job-4/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/experience/job-4/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -359,7 +359,7 @@ Kept service fast and reliable through the busy weekday lunch rush and peak summ
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/experience/job-2/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/experience/job-2/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -386,7 +386,7 @@ Converted from a two-week trial to a direct contract at Tallbackens Förskola, g
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/experience/job-1/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/experience/job-1/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -417,7 +417,7 @@ Passed the competitive Controller examination in 2013. Processed deposits, withd
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/experience/job-5/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/experience/job-5/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -514,5 +514,5 @@ Passed the competitive Controller examination in 2013. Processed deposits, withd
  &lt;div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto even"&gt;
  &lt;h3&gt;Continuous Performance Monitoring Framework&lt;/h3&gt;
  &lt;div class="lead"&gt;
- &lt;p&gt;&lt;strong&gt;Student project for Ericsson, Karlskrona&lt;/strong&gt; · Team of 5 · Feb – May 2026 · &lt;strong&gt;Grade A&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Printable CV — Thanh Chu</title><link>http://localhost:57152/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:57152/cv/</guid><description>&lt;h3 id="about-me"&gt;About me&lt;/h3&gt;
-&lt;p&gt;I am a Software Engineering student at Blekinge Institute of Technology (BTH), Sweden, transitioning into tech after a career spanning banking operations, finance, and early childhood education. I bring a rare combination of hands-on coding skills, disciplined process thinking, and strong communication ability — proven by delivering a student project for Ericsson, leading client demos, and being personally selected to lead exercise sessions for first-year students. Comfortable working across the stack, from backend services and databases to CI/CD, monitoring, and containerised deployments.&lt;/p&gt;</description></item><item><title>Search</title><link>http://localhost:57152/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:57152/search/</guid><description>search</description></item><item><title>Search Hidden Content</title><link>http://localhost:57152/search-optout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:57152/search-optout/</guid><description>&lt;p&gt;This content should never appear in search results. Unique keyword: omitfromsearch.&lt;/p&gt;</description></item></channel></rss>
+ &lt;p&gt;&lt;strong&gt;Student project for Ericsson, Karlskrona&lt;/strong&gt; · Team of 5 · Feb – May 2026 · &lt;strong&gt;Grade A&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Printable CV — Thanh Chu</title><link>http://localhost:1313/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/cv/</guid><description>&lt;h3 id="about-me"&gt;About me&lt;/h3&gt;
+&lt;p&gt;I am a Software Engineering student at Blekinge Institute of Technology (BTH), Sweden, transitioning into tech after a career spanning banking operations, finance, and early childhood education. I bring a rare combination of hands-on coding skills, disciplined process thinking, and strong communication ability — proven by delivering a student project for Ericsson, leading client demos, and being personally selected to lead exercise sessions for first-year students. Comfortable working across the stack, from backend services and databases to CI/CD, monitoring, and containerised deployments.&lt;/p&gt;</description></item><item><title>Search</title><link>http://localhost:1313/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/search/</guid><description>search</description></item><item><title>Search Hidden Content</title><link>http://localhost:1313/search-optout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/search-optout/</guid><description>&lt;p&gt;This content should never appear in search results. Unique keyword: omitfromsearch.&lt;/p&gt;</description></item></channel></rss>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Thanh Chu — Software Engineering Student</title><link>http://localhost:57152/home/</link><description>Recent content in Homes on Thanh Chu — Software Engineering Student</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:57152/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>http://localhost:57152/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:57152/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Thanh Chu — Software Engineering Student</title><link>http://localhost:1313/home/</link><description>Recent content in Homes on Thanh Chu — Software Engineering Student</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>http://localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
  &lt;div&gt;
  
 
@@ -40,14 +40,14 @@
  
  
 
- &lt;source srcset="http://localhost:57152/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:57152/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:57152/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:57152/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:1313/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:1313/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
 
  &lt;img
  width="790"
  height="768"
  class="lozad img-responsive "
- data-src="http://localhost:57152/images/showcase/showcase_hu_3f0255b2c18af728.png"
+ data-src="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -151,14 +151,14 @@
  
  
 
- &lt;source srcset="http://localhost:57152/images/about/user-picture_hu_5ab8f0706d32817e.webp 1x, http://localhost:57152/images/about/user-picture_hu_d002c64a15dbdab1.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:57152/images/about/user-picture_hu_c6123c8480eb20f1.png 1x, http://localhost:57152/images/about/user-picture_hu_bd13866e68de8578.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_5ab8f0706d32817e.webp 1x, http://localhost:1313/images/about/user-picture_hu_d002c64a15dbdab1.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png 1x, http://localhost:1313/images/about/user-picture_hu_bd13866e68de8578.png 2x" type="image/png"&gt;
 
  &lt;img
  width="400"
  height="550"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:57152/images/about/user-picture_hu_c6123c8480eb20f1.png"
+ data-src="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -173,7 +173,7 @@
  I am a Software Engineering student at BTH, Sweden, transitioning into tech after 15+ years in banking, finance, and early childhood education. I bring a rare combination of hands-on coding skills, disciplined process thinking, and strong communication ability — proven by delivering a student project for Ericsson, leading client demos, and being personally selected to lead exercise sessions for first-year students.&lt;br/&gt;&lt;br/&gt;Comfortable working across the stack: backend services, databases, CI/CD, monitoring, and containerised deployments.
  &lt;/div&gt;
  
- &lt;a href="http://localhost:57152/skills" class="btn btn-primary mt-3"&gt;
+ &lt;a href="http://localhost:1313/skills" class="btn btn-primary mt-3"&gt;
  &lt;i class="icon-user"&gt;&lt;/i&gt;
  Check my skills
  &lt;/a&gt;
@@ -259,7 +259,7 @@
 
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/experience/job-3/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/experience/job-3/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -282,7 +282,7 @@ Co-designing the exercise curriculum from scratch, pacing it to the lectures and
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/experience/job-4/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/experience/job-4/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -305,7 +305,7 @@ Kept service fast and reliable through the busy weekday lunch rush and peak summ
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/experience/job-2/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/experience/job-2/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -332,7 +332,7 @@ Converted from a two-week trial to a direct contract at Tallbackens Förskola, g
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/experience/job-1/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/experience/job-1/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -363,7 +363,7 @@ Passed the competitive Controller examination in 2013. Processed deposits, withd
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/experience/job-5/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/experience/job-5/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  

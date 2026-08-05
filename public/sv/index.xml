@@ -1,17 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thanh Chu — Mjukvaruingenjörsstudent</title><link>http://localhost:57152/sv/</link><description>Recent content on Thanh Chu — Mjukvaruingenjörsstudent</description><generator>Hugo</generator><language>sv</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:57152/sv/index.xml" rel="self" type="application/rss+xml"/><item><title>Övningsledare i Matematik</title><link>http://localhost:57152/sv/experience/job-3/</link><pubDate>Sat, 01 Aug 2026 00:00:00 +0100</pubDate><guid>http://localhost:57152/sv/experience/job-3/</guid><description>&lt;h2 id="mathematics-exercise-leader--diskret-matematik--algoritmer"&gt;Mathematics Exercise Leader — Diskret matematik &amp;amp; Algoritmer&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thanh Chu — Mjukvaruingenjörsstudent</title><link>http://localhost:1313/sv/</link><description>Recent content on Thanh Chu — Mjukvaruingenjörsstudent</description><generator>Hugo</generator><language>sv</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/sv/index.xml" rel="self" type="application/rss+xml"/><item><title>Övningsledare i Matematik</title><link>http://localhost:1313/sv/experience/job-3/</link><pubDate>Sat, 01 Aug 2026 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-3/</guid><description>&lt;h2 id="mathematics-exercise-leader--diskret-matematik--algoritmer"&gt;Mathematics Exercise Leader — Diskret matematik &amp;amp; Algoritmer&lt;/h2&gt;
 &lt;p&gt;Personligen rekommenderad av kursläraren till matematikavdelningens chef och utvald som en av endast 3 studenter som leder veckovisa övningssessioner för förstaårsstudenter.&lt;/p&gt;
-&lt;p&gt;Medverkar i att utforma övningskurrikulumet från grunden, anpassar det till föreläsningarna och formar det utifrån studentfeedback för att ge nybörjare den bästa möjliga introduktionen till ämnet.&lt;/p&gt;</description></item><item><title>Kassör</title><link>http://localhost:57152/sv/experience/job-4/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate><guid>http://localhost:57152/sv/experience/job-4/</guid><description>&lt;h2 id="kassör--lee-baguette"&gt;Kassör — Lee Baguette&lt;/h2&gt;
+&lt;p&gt;Medverkar i att utforma övningskurrikulumet från grunden, anpassar det till föreläsningarna och formar det utifrån studentfeedback för att ge nybörjare den bästa möjliga introduktionen till ämnet.&lt;/p&gt;</description></item><item><title>Kontinuerligt prestandaövervakningsramverk</title><link>http://localhost:1313/sv/projects/swiss-fintech/</link><pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/projects/swiss-fintech/</guid><description>&lt;p&gt;&lt;strong&gt;Studentprojekt för Ericsson, Karlskrona&lt;/strong&gt; · Team om 5 · Feb – maj 2026 · &lt;strong&gt;Betyg A&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ett återkopplingsbaserat ramverk för kontinuerlig prestandaövervakning — detekterar mättnadspunkter, spårar trender och visualiserar systemhälsa i realtid.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Byggde ett återkopplingsbaserat lasttestningsramverk i Python med Locust&lt;/li&gt;
+&lt;li&gt;Automatiserade mättnadsdetektering, trendrapportering och historiklagring i SQLite&lt;/li&gt;
+&lt;li&gt;Containeriserade systemet med Docker/Minikube; byggde live-dashboardar i Grafana och Prometheus&lt;/li&gt;
+&lt;li&gt;Agerade som projektägare under de första och sista sprintarna; bidrog med kod och granskningar i nästan alla moduler&lt;/li&gt;
+&lt;li&gt;Genomförde alla klient- och akademiska demos som huvudpresentatör&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Källkoden finns på Ericssons interna GitLab och kan inte delas offentligt enligt Ericssons sekretesspolicy.&lt;/p&gt;</description></item><item><title>Grafedigerare</title><link>http://localhost:1313/sv/projects/robo-advisor/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/projects/robo-advisor/</guid><description>&lt;p&gt;&lt;strong&gt;Individuellt projekt&lt;/strong&gt; · &lt;strong&gt;Betyg A&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;En interaktiv grafvisualiserare och -redigerare för att skapa, utforska och analysera nätverk som kunskapsgrafer, beroenden och sociala interaktioner.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designade och byggde en interaktiv grafvisualiserare/-redigerare för kunskaps- och beroendegrafer&lt;/li&gt;
+&lt;li&gt;Implementerade ett TypeScript-gränssnitt med Neo4j-frågor i bakgrunden&lt;/li&gt;
+&lt;li&gt;Lärde sig Neo4j och TypeScript från grunden för detta projekt och levererade ett fullt fungerande verktyg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; JavaScript, TypeScript, Neo4j&lt;/p&gt;</description></item><item><title>Kassör</title><link>http://localhost:1313/sv/experience/job-4/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-4/</guid><description>&lt;h2 id="kassör--lee-baguette"&gt;Kassör — Lee Baguette&lt;/h2&gt;
 &lt;p&gt;Hjälpte kunder med menyval och specialönskemål. Hanterade transaktioner noggrant och effektivt med ett välorganiserat kassaområde.&lt;/p&gt;
-&lt;p&gt;Upprätthöll snabb och pålitlig service under den hektiska lunchrushen på vardagar och under högsäsongen på sommaren.&lt;/p&gt;</description></item><item><title>Blekinge Tekniska Högskola (BTH)</title><link>http://localhost:57152/sv/education/high-school/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0200</pubDate><guid>http://localhost:57152/sv/education/high-school/</guid><description/></item><item><title>Förskollärare</title><link>http://localhost:57152/sv/experience/job-2/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0100</pubDate><guid>http://localhost:57152/sv/experience/job-2/</guid><description>&lt;h2 id="förskollärare--rödeby-förskola-tallbacken-sep-2022--aug-2024"&gt;Förskollärare — Rödeby Förskola Tallbacken (Sep 2022 – Aug 2024)&lt;/h2&gt;
+&lt;p&gt;Upprätthöll snabb och pålitlig service under den hektiska lunchrushen på vardagar och under högsäsongen på sommaren.&lt;/p&gt;</description></item><item><title>Restaurangbeställningssystem &amp; Köksdashboard</title><link>http://localhost:1313/sv/projects/radity-finance-uikit/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/projects/radity-finance-uikit/</guid><description>&lt;p&gt;&lt;strong&gt;Team om 5 (förstaårsprojekt)&lt;/strong&gt; · &lt;strong&gt;Betyg A&lt;/strong&gt; (individuellt &amp;amp; team)&lt;/p&gt;
+&lt;p&gt;En liten beställningswebbplats för kunder, tillsammans med en köksdashboard för att spåra inkommande beställningar och markera dem som klara.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Byggde en Flask-beställningssajt och en realtidsköksdashboard för orderhantering&lt;/li&gt;
+&lt;li&gt;Testad med pytest och levererad i Docker&lt;/li&gt;
+&lt;li&gt;Ledde planering och rapportering och bidrog med kod i nästan varje del av projektet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Python, Flask, SQLite, pytest, Docker&lt;/p&gt;</description></item><item><title>Blekinge Tekniska Högskola (BTH)</title><link>http://localhost:1313/sv/education/high-school/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/education/high-school/</guid><description/></item><item><title>Förskollärare</title><link>http://localhost:1313/sv/experience/job-2/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-2/</guid><description>&lt;h2 id="förskollärare--rödeby-förskola-tallbacken-sep-2022--aug-2024"&gt;Förskollärare — Rödeby Förskola Tallbacken (Sep 2022 – Aug 2024)&lt;/h2&gt;
 &lt;p&gt;Utformade engagerande lektionsplaner anpassade till olika inlärningsstilar och utvecklingsbehov. Ledde dagliga klassrumsaktiviteter för att bygga sociala färdigheter och samarbetsförmåga bland barnen. Samarbetade med föräldrar om barnens framsteg och stöttade kollegor med planering och klassrumshantering.&lt;/p&gt;
 &lt;p&gt;Anförtrodd ansvar utöver rollens räckvidd: skrev aktivitetsrapporter till anslagstavlan och skickade veckobrev och viktig information till föräldrar.&lt;/p&gt;
-&lt;p&gt;Vald av skolledningen för att sam-planera och leda sommarverksamheten under veckorna då tre förskolor slogs ihop till en på grund av lägre närvaro.&lt;/p&gt;</description></item><item><title>Vietnam Maritime Commercial Joint Stock Bank</title><link>http://localhost:57152/sv/experience/job-1/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate><guid>http://localhost:57152/sv/experience/job-1/</guid><description>&lt;h2 id="vietnam-maritime-commercial-joint-stock-bank--8-år-20092019"&gt;Vietnam Maritime Commercial Joint Stock Bank — 8 år (2009–2019)&lt;/h2&gt;
+&lt;p&gt;Vald av skolledningen för att sam-planera och leda sommarverksamheten under veckorna då tre förskolor slogs ihop till en på grund av lägre närvaro.&lt;/p&gt;</description></item><item><title>Vietnam Maritime Commercial Joint Stock Bank</title><link>http://localhost:1313/sv/experience/job-1/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-1/</guid><description>&lt;h2 id="vietnam-maritime-commercial-joint-stock-bank--8-år-20092019"&gt;Vietnam Maritime Commercial Joint Stock Bank — 8 år (2009–2019)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Driftsprocessansvarig&lt;/strong&gt; · Sep 2017 – Okt 2019&lt;/p&gt;
 &lt;p&gt;Utsedd till en av 2 ansvariga för att leda processdesign för en bankövergripande transformation som migrerade hela kundtjänstavdelningen från operativ drift till specialiserad privatbanksverksamhet — ansvarade för processkrivning, personalutbildning, avdelningsövergripande nyhetsbrev, tvärfunktionella procedurgranskningar och övertidspolicydiskussioner med HR.&lt;/p&gt;
 &lt;p&gt;Vald som en av 3 avdelningsrepresentanter i bankens kärnssystemsmigrationsprojekt, ansvarig för modulerna betalningskonton och sparkonton.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Controller&lt;/strong&gt; · Apr 2015 – Sep 2017&lt;/p&gt;</description></item><item><title>Finanshögskolan, Hanoi</title><link>http://localhost:57152/sv/education/university-of-life/</link><pubDate>Sun, 01 Aug 2010 00:00:00 +0200</pubDate><guid>http://localhost:57152/sv/education/university-of-life/</guid><description/></item><item><title>Redovisningsekonom</title><link>http://localhost:57152/sv/experience/job-5/</link><pubDate>Sat, 01 Aug 2009 00:00:00 +0100</pubDate><guid>http://localhost:57152/sv/experience/job-5/</guid><description>&lt;h2 id="redovisningsekonom--198-trading--services-co-ltd"&gt;Redovisningsekonom — 19.8 Trading &amp;amp; Services Co., Ltd.&lt;/h2&gt;
-&lt;p&gt;Hanterade leverantörsskulder/kundfordringar och upprättade månadsresultaträkningar. Stämde av bankutdrag och genomförde bokslutsprocedurer vid månadsslut.&lt;/p&gt;</description></item><item><title>Högskolan för Arbete &amp; Sociala Frågor (ULSA2)</title><link>http://localhost:57152/sv/education/ulsa2/</link><pubDate>Mon, 01 Aug 2005 00:00:00 +0200</pubDate><guid>http://localhost:57152/sv/education/ulsa2/</guid><description/></item><item><title>Hem</title><link>http://localhost:57152/sv/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:57152/sv/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+&lt;p&gt;&lt;strong&gt;Controller&lt;/strong&gt; · Apr 2015 – Sep 2017&lt;/p&gt;</description></item><item><title>Finanshögskolan, Hanoi</title><link>http://localhost:1313/sv/education/university-of-life/</link><pubDate>Sun, 01 Aug 2010 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/education/university-of-life/</guid><description/></item><item><title>Redovisningsekonom</title><link>http://localhost:1313/sv/experience/job-5/</link><pubDate>Sat, 01 Aug 2009 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-5/</guid><description>&lt;h2 id="redovisningsekonom--198-trading--services-co-ltd"&gt;Redovisningsekonom — 19.8 Trading &amp;amp; Services Co., Ltd.&lt;/h2&gt;
+&lt;p&gt;Hanterade leverantörsskulder/kundfordringar och upprättade månadsresultaträkningar. Stämde av bankutdrag och genomförde bokslutsprocedurer vid månadsslut.&lt;/p&gt;</description></item><item><title>Högskolan för Arbete &amp; Sociala Frågor (ULSA2)</title><link>http://localhost:1313/sv/education/ulsa2/</link><pubDate>Mon, 01 Aug 2005 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/education/ulsa2/</guid><description/></item><item><title>Hem</title><link>http://localhost:1313/sv/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/sv/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
  &lt;div&gt;
  
 
@@ -53,14 +77,14 @@
  
  
 
- &lt;source srcset="http://localhost:57152/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:57152/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:57152/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:57152/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:1313/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:1313/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
 
  &lt;img
  width="790"
  height="768"
  class="lozad img-responsive "
- data-src="http://localhost:57152/images/showcase/showcase_hu_3f0255b2c18af728.png"
+ data-src="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -164,14 +188,14 @@
  
  
 
- &lt;source srcset="http://localhost:57152/images/about/user-picture_hu_5ab8f0706d32817e.webp 1x, http://localhost:57152/images/about/user-picture_hu_d002c64a15dbdab1.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:57152/images/about/user-picture_hu_c6123c8480eb20f1.png 1x, http://localhost:57152/images/about/user-picture_hu_bd13866e68de8578.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_5ab8f0706d32817e.webp 1x, http://localhost:1313/images/about/user-picture_hu_d002c64a15dbdab1.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png 1x, http://localhost:1313/images/about/user-picture_hu_bd13866e68de8578.png 2x" type="image/png"&gt;
 
  &lt;img
  width="400"
  height="550"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:57152/images/about/user-picture_hu_c6123c8480eb20f1.png"
+ data-src="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -186,7 +210,7 @@
  Jag är mjukvaruingenjörsstudent vid BTH, Sverige, och byter bransch till teknik efter 15+ år inom bankverksamhet, finans och förskoleundervisning. Jag kombinerar praktiska kodningsfärdigheter, disciplinerat processtänkande och stark kommunikationsförmåga — bevisat genom att leverera ett studentprojekt för Ericsson, leda klientdemos och bli personligen utvald att leda övningssessioner för förstaårsstudenter.&lt;br/&gt;&lt;br/&gt;Bekväm med att arbeta i hela stacken: backend-tjänster, databaser, CI/CD, övervakning och containeriserade driftsättningar.
  &lt;/div&gt;
  
- &lt;a href="http://localhost:57152/sv/skills" class="btn btn-primary mt-3"&gt;
+ &lt;a href="http://localhost:1313/sv/skills" class="btn btn-primary mt-3"&gt;
  &lt;i class="icon-user"&gt;&lt;/i&gt;
  Se mina kompetenser
  &lt;/a&gt;
@@ -272,7 +296,7 @@
 
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/sv/experience/job-3/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/sv/experience/job-3/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -295,7 +319,7 @@ Medverkar i att utforma övningskurrikulumet från grunden, anpassar det till f�
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/sv/experience/job-4/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/sv/experience/job-4/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -318,7 +342,7 @@ Upprätthöll snabb och pålitlig service under den hektiska lunchrushen på var
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/sv/experience/job-2/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/sv/experience/job-2/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -344,7 +368,7 @@ Täckte lärarfrånvaro på flera förskolor och utförde samma arbetsuppgifter 
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/sv/experience/job-1/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/sv/experience/job-1/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -373,7 +397,7 @@ Bäst presterande kassör i Cầu Giấy-regionen (2011–2012); anförtrodd ban
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/sv/experience/job-5/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/sv/experience/job-5/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -460,17 +484,17 @@ Bäst presterande kassör i Cầu Giấy-regionen (2011–2012); anförtrodd ban
  &lt;/div&gt;
  
  
- &lt;/div&gt;
-&lt;/section&gt;
-
-
-
-
-
  
-
-
-&lt;div class="spacer pt-5 mt-4"&gt;&lt;/div&gt;</description></item><item><title>Sidfot</title><link>http://localhost:57152/sv/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:57152/sv/footer/footer/</guid><description>&lt;section id="contact" class="section section--border-bottom rad-animation-group"&gt;
+ 
+ &lt;div
+ class="row row--padded rad-animation-group rad-fade-down 
+ flex-column-reverse flex-md-row even-row"
+ &gt;
+ 
+ &lt;div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto even"&gt;
+ &lt;h3&gt;Kontinuerligt prestandaövervakningsramverk&lt;/h3&gt;
+ &lt;div class="lead"&gt;
+ &lt;p&gt;&lt;strong&gt;Studentprojekt för Ericsson, Karlskrona&lt;/strong&gt; · Team om 5 · Feb – maj 2026 · &lt;strong&gt;Betyg A&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Sidfot</title><link>http://localhost:1313/sv/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/sv/footer/footer/</guid><description>&lt;section id="contact" class="section section--border-bottom rad-animation-group"&gt;
  &lt;div class="container"&gt;
  &lt;div class="row rad-fade-down"&gt;
  &lt;div class="col-12 text-center"&gt;
@@ -490,4 +514,4 @@ Bäst presterande kassör i Cầu Giấy-regionen (2011–2012); anförtrodd ban
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
-&lt;/section&gt;</description></item><item><title>Sök</title><link>http://localhost:57152/sv/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:57152/sv/search/</guid><description/></item></channel></rss>
+&lt;/section&gt;</description></item><item><title>Sök</title><link>http://localhost:1313/sv/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/sv/search/</guid><description/></item></channel></rss>

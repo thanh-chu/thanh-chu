@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Thanh Chu — Mjukvaruingenjörsstudent</title><link>http://localhost:57152/sv/home/</link><description>Recent content in Homes on Thanh Chu — Mjukvaruingenjörsstudent</description><generator>Hugo</generator><language>sv</language><atom:link href="http://localhost:57152/sv/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Hem</title><link>http://localhost:57152/sv/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:57152/sv/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Thanh Chu — Mjukvaruingenjörsstudent</title><link>http://localhost:1313/sv/home/</link><description>Recent content in Homes on Thanh Chu — Mjukvaruingenjörsstudent</description><generator>Hugo</generator><language>sv</language><atom:link href="http://localhost:1313/sv/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Hem</title><link>http://localhost:1313/sv/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/sv/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
  &lt;div&gt;
  
 
@@ -40,14 +40,14 @@
  
  
 
- &lt;source srcset="http://localhost:57152/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:57152/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:57152/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:57152/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:1313/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:1313/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
 
  &lt;img
  width="790"
  height="768"
  class="lozad img-responsive "
- data-src="http://localhost:57152/images/showcase/showcase_hu_3f0255b2c18af728.png"
+ data-src="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -151,14 +151,14 @@
  
  
 
- &lt;source srcset="http://localhost:57152/images/about/user-picture_hu_5ab8f0706d32817e.webp 1x, http://localhost:57152/images/about/user-picture_hu_d002c64a15dbdab1.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:57152/images/about/user-picture_hu_c6123c8480eb20f1.png 1x, http://localhost:57152/images/about/user-picture_hu_bd13866e68de8578.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_5ab8f0706d32817e.webp 1x, http://localhost:1313/images/about/user-picture_hu_d002c64a15dbdab1.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png 1x, http://localhost:1313/images/about/user-picture_hu_bd13866e68de8578.png 2x" type="image/png"&gt;
 
  &lt;img
  width="400"
  height="550"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:57152/images/about/user-picture_hu_c6123c8480eb20f1.png"
+ data-src="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -173,7 +173,7 @@
  Jag är mjukvaruingenjörsstudent vid BTH, Sverige, och byter bransch till teknik efter 15+ år inom bankverksamhet, finans och förskoleundervisning. Jag kombinerar praktiska kodningsfärdigheter, disciplinerat processtänkande och stark kommunikationsförmåga — bevisat genom att leverera ett studentprojekt för Ericsson, leda klientdemos och bli personligen utvald att leda övningssessioner för förstaårsstudenter.&lt;br/&gt;&lt;br/&gt;Bekväm med att arbeta i hela stacken: backend-tjänster, databaser, CI/CD, övervakning och containeriserade driftsättningar.
  &lt;/div&gt;
  
- &lt;a href="http://localhost:57152/sv/skills" class="btn btn-primary mt-3"&gt;
+ &lt;a href="http://localhost:1313/sv/skills" class="btn btn-primary mt-3"&gt;
  &lt;i class="icon-user"&gt;&lt;/i&gt;
  Se mina kompetenser
  &lt;/a&gt;
@@ -259,7 +259,7 @@
 
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/sv/experience/job-3/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/sv/experience/job-3/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -282,7 +282,7 @@ Medverkar i att utforma övningskurrikulumet från grunden, anpassar det till f�
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/sv/experience/job-4/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/sv/experience/job-4/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -305,7 +305,7 @@ Upprätthöll snabb och pålitlig service under den hektiska lunchrushen på var
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/sv/experience/job-2/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/sv/experience/job-2/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -331,7 +331,7 @@ Täckte lärarfrånvaro på flera förskolor och utförde samma arbetsuppgifter 
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/sv/experience/job-1/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/sv/experience/job-1/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -360,7 +360,7 @@ Bäst presterande kassör i Cầu Giấy-regionen (2011–2012); anförtrodd ban
  &lt;/div&gt;
  
  &lt;div class="experience"&gt;
- &lt;a href="http://localhost:57152/sv/experience/job-5/" class="experience__link"&gt;
+ &lt;a href="http://localhost:1313/sv/experience/job-5/" class="experience__link"&gt;
  &lt;div class="experience__header"&gt;
  
  
@@ -447,14 +447,14 @@ Bäst presterande kassör i Cầu Giấy-regionen (2011–2012); anförtrodd ban
  &lt;/div&gt;
  
  
- &lt;/div&gt;
-&lt;/section&gt;
-
-
-
-
-
  
-
-
-&lt;div class="spacer pt-5 mt-4"&gt;&lt;/div&gt;</description></item></channel></rss>
+ 
+ &lt;div
+ class="row row--padded rad-animation-group rad-fade-down 
+ flex-column-reverse flex-md-row even-row"
+ &gt;
+ 
+ &lt;div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto even"&gt;
+ &lt;h3&gt;Kontinuerligt prestandaövervakningsramverk&lt;/h3&gt;
+ &lt;div class="lead"&gt;
+ &lt;p&gt;&lt;strong&gt;Studentprojekt för Ericsson, Karlskrona&lt;/strong&gt; · Team om 5 · Feb – maj 2026 · &lt;strong&gt;Betyg A&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>

@@ -62,22 +62,26 @@
 /* ============================================================
    5. Get in touch — full centre alignment for text and buttons
    ============================================================ */
-#contact {
-  text-align: center !important;
-}
+#contact,
+#contact .row,
 #contact .col-12 {
+  text-align: center !important;
   display: flex !important;
   flex-direction: column !important;
   align-items: center !important;
+  width: 100%;
 }
 #contact h2,
-#contact p {
+#contact p,
+#contact .lead {
   text-align: center !important;
   width: 100%;
 }
 #contact .d-flex {
   justify-content: center !important;
-  flex-wrap: wrap;
+  align-items: center !important;
+  flex-wrap: wrap !important;
+  width: 100%;
 }
 </style>
 

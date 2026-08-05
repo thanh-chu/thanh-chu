@@ -195,11 +195,6 @@ name = "Search"
 URL = "/search"
 weight = 7
 
-[[languages.en.menus.footer]]
-name = "Home"
-URL = "/"
-weight = 1
-weight = 4
 
 
 [languages.es]
@@ -273,23 +268,6 @@ pre = "search"
 name = "Sök"
 URL = "/search"
 weight = 7
-
-[[languages.sv.menus.footer]]
-name = "Hem"
-URL = "/sv/"
-weight = 1
-[[languages.sv.menus.footer]]
-name = "Om mig"
-URL = "/sv/#about"
-weight = 2
-[[languages.sv.menus.footer]]
-name = "Projekt"
-URL = "/sv/#client-and-work-section"
-weight = 3
-[[languages.sv.menus.footer]]
-name = "Kontakt"
-URL = "/sv/#contact"
-weight = 4
 
 
 # Plugins
