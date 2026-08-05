@@ -90,7 +90,12 @@ twitter = ''
 [params.seo.person]
 name = 'Thanh Chu'
 url = 'https://www.linkedin.com/in/thanh-chu-06481b2ba/'
-sameAs = ['https://github.com/Me-Bim-Bi', 'https://github.com/thanhchu.github.io']
+sameAs = [
+  'https://github.com/Me-Bim-Bi',
+  'https://github.com/thanhchu.github.io'
+]
+
+[params]
 sections = [
   "showcase",
   "about",
@@ -101,8 +106,6 @@ sections = [
   "contact",
   "newsletter",
 ]
-# If you want to display an image logo in the header, you can add it here
-# logo = '/img/hugo.svg'
 
 homepageExperienceCount = 6
 
