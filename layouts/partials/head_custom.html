@@ -1,0 +1,142 @@
+{{/* Custom head additions for thanhchu.github.io */}}
+
+<style>
+/* ============================================================
+   1. Navbar — always solid background, not transparent
+   ============================================================ */
+.header {
+  background-color: #fff !important;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+  transition: box-shadow 0.2s ease;
+}
+.header--sticky-triggered {
+  background-color: #fff !important;
+  box-shadow: 0 2px 14px rgba(0,0,0,0.13) !important;
+}
+[data-bs-theme="dark"] .header,
+[data-bs-theme="dark"] .header--sticky-triggered {
+  background-color: #1a1a1a !important;
+}
+
+/* ============================================================
+   2. Education — plain text, no overflow issues
+   ============================================================ */
+.education__logo { display: none !important; }
+.education { overflow: visible; word-break: break-word; }
+.education__title { white-space: normal; overflow: visible; }
+
+/* ============================================================
+   3. About profile picture — centred in its column
+   ============================================================ */
+.about__profile-picture {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: flex-start !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  flex: 0 0 100% !important;
+  overflow: hidden;
+}
+@media (min-width: 768px) {
+  .about__profile-picture {
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+    width: 50% !important;
+  }
+}
+.about__profile-picture picture { width: 100%; }
+.about__profile-picture img {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 100% !important;
+  display: block !important;
+}
+
+/* ============================================================
+   4. Hide "View all" / "And X more" in experience section
+   ============================================================ */
+.all-experience-container { display: none !important; }
+
+/* ============================================================
+   5. Get in touch — full centre alignment for text and buttons
+   ============================================================ */
+#contact {
+  text-align: center !important;
+}
+#contact .col-12 {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+}
+#contact h2,
+#contact p {
+  text-align: center !important;
+  width: 100%;
+}
+#contact .d-flex {
+  justify-content: center !important;
+  flex-wrap: wrap;
+}
+</style>
+
+<!-- Ericsson GitLab Modal -->
+<div
+  id="ericsson-modal"
+  role="dialog"
+  aria-modal="true"
+  aria-labelledby="ericsson-modal-title"
+  style="display:none; position:fixed; inset:0; z-index:9999; background:rgba(0,0,0,0.6); align-items:center; justify-content:center; cursor:pointer;"
+  onclick="if(event.target===this) closeEricssonModal()"
+>
+  <div style="background:var(--bs-body-bg,#fff); color:var(--bs-body-color,#212529); border-radius:14px; padding:2rem 2rem 1.75rem; max-width:440px; width:90%; box-shadow:0 12px 40px rgba(0,0,0,0.3); position:relative; text-align:center; cursor:default;">
+    <button
+      onclick="closeEricssonModal()"
+      aria-label="Close"
+      style="position:absolute; top:0.85rem; right:1rem; background:none; border:none; font-size:1.5rem; cursor:pointer; color:var(--bs-body-color,#555); line-height:1; opacity:0.65;"
+    >✕</button>
+    <div style="font-size:2.5rem; margin-bottom:0.5rem;">🔒</div>
+    <h3 id="ericsson-modal-title" style="margin-bottom:0.75rem; font-size:1.15rem; font-weight:700;">Code not publicly available</h3>
+    <p style="margin-bottom:1.75rem; line-height:1.65; font-size:0.95rem; color:var(--bs-secondary-color,#666);">
+      All source code for this project is stored on <strong>Ericsson's internal GitLab</strong>
+      and cannot be shared publicly, in accordance with Ericsson's intellectual property
+      and confidentiality policy.
+    </p>
+    <button
+      onclick="closeEricssonModal()"
+      class="btn btn-primary"
+      style="min-width:140px;"
+    >OK</button>
+  </div>
+</div>
+
+<script>
+  function openEricssonModal(e) {
+    if (e) { e.preventDefault(); e.stopPropagation(); }
+    var m = document.getElementById('ericsson-modal');
+    m.style.display = 'flex';
+    document.addEventListener('keydown', _escHandler);
+  }
+  function closeEricssonModal() {
+    document.getElementById('ericsson-modal').style.display = 'none';
+    document.removeEventListener('keydown', _escHandler);
+  }
+  function _escHandler(e) {
+    if (e.key === 'Escape') closeEricssonModal();
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    // Find any link/button whose visible text contains "ericsson" or "gitlab"
+    document.querySelectorAll('a, button').forEach(function (el) {
+      var text = (el.textContent || '').trim().toLowerCase();
+      if (text.includes('ericsson') || text.includes('gitlab')) {
+        el.addEventListener('click', openEricssonModal);
+        // Prevent navigation for anchor tags
+        if (el.tagName === 'A') {
+          el.setAttribute('href', 'javascript:void(0)');
+        }
+      }
+    });
+  });
+</script>

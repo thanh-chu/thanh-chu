@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Thanh Chu — Mjukvaruingenjörsstudent</title><link>http://localhost:1313/sv/projects/</link><description>Recent content in Projects on Thanh Chu — Mjukvaruingenjörsstudent</description><generator>Hugo</generator><language>sv</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/sv/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Restaurangbeställningssystem &amp; Köksdashboard</title><link>http://localhost:1313/sv/projects/radity-finance-uikit/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/projects/radity-finance-uikit/</guid><description>&lt;p&gt;&lt;strong&gt;Team om 5 (förstaårsprojekt)&lt;/strong&gt; · &lt;strong&gt;Betyg A&lt;/strong&gt; (individuellt &amp;amp; team)&lt;/p&gt;
+&lt;p&gt;En liten beställningswebbplats för kunder, tillsammans med en köksdashboard för att spåra inkommande beställningar och markera dem som klara.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Byggde en Flask-beställningssajt och en realtidsköksdashboard för orderhantering&lt;/li&gt;
+&lt;li&gt;Testad med pytest och levererad i Docker&lt;/li&gt;
+&lt;li&gt;Ledde planering och rapportering och bidrog med kod i nästan varje del av projektet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Python, Flask, SQLite, pytest, Docker&lt;/p&gt;</description></item></channel></rss>

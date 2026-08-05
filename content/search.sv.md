@@ -1,0 +1,4 @@
+---
+title: "Sök"
+layout: "search"
+---

@@ -1,0 +1,39 @@
+{{- $contextType := printf "%T" . -}}
+{{- $isShortcode := (eq $contextType "*hugolib.ShortcodeWithPage") -}}
+
+{{- $title := "" -}}
+{{- if $isShortcode }}
+  {{- $title = .Get "title" | default ( i18n "education_title" ) -}}
+{{ else }}
+  {{- $title = i18n "education_title" -}}
+{{ end }}
+
+{{ $sectionId := "education" }}
+{{ with .Get "sectionId" }}
+  {{ $sectionId = . }}
+{{ end }}
+
+<section
+  id="{{ $sectionId }}"
+  class="section section--border-bottom rad-animation-group"
+>
+  <div class="container-education">
+    <div class="row rad-fade-down">
+      <div class="col-12">
+        <h2>{{ $title }}</h2>
+        <div class="row pt-2 pt-md-4">
+          {{ range where .Site.RegularPages "Type" "education" }}
+          {{- $edu := . -}}
+          <div class="col-12 col-sm-6 mb-4">
+            <div class="education">
+              <div class="education__date">{{ $edu.Params.year }}</div>
+              <div class="education__title">{{ $edu.Params.university }}</div>
+              <div class="education__degree">{{ $edu.Params.degree }}</div>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
