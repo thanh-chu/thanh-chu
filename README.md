@@ -56,6 +56,8 @@ What that looks like in practice: I was trusted to co-own a bank-wide system mig
 
 <br/>
 
+<div align="center">
+
 ### Let's build something together
 
 Open to software development internships and new opportunities — I reply fast and I'm easy to talk to.
