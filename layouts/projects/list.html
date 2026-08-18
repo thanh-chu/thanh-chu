@@ -51,7 +51,7 @@
         {{ end }}
 
         {{ with .Params.button }}
-        <a href="{{ .URL | absURL }}" class="btn btn-primary project-card__cta"{{ if not (strings.Contains .URL "/cv") }} target="_blank" rel="noopener"{{ end }}>
+        <a href="{{ .URL | absURL }}" class="btn btn-primary project-card__cta"{{ if not (strings.Contains .URL "cv#") }} target="_blank" rel="noopener"{{ end }}>
           {{ with .icon }}<i class="{{ . }}" aria-hidden="true"></i>{{ end }}
           {{ .btnText }}
         </a>

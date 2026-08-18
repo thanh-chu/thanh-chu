@@ -10,7 +10,7 @@ draft = false
     subtitle="Software Engineering Student — Building on 15+ Years of Cross-Industry Experience"
     button_text="See My CV"
     button_icon="icon-file-pdf"
-    button_url="/cv/Thanh-Chu-CV-EN.pdf"
+    button_url="cv/Thanh-Chu-CV-EN.pdf"
     description="Software Engineering student at <strong>Blekinge Institute of Technology (BTH)</strong>, Sweden, who ships working full-stack applications end-to-end. Delivered a production-grade monitoring framework for Ericsson that earned direct praise from the client team for technical quality, initiative, and professionalism — shaped by a career that already spans banking operations and early-childhood education."
     imgSrc="images/showcase/showcase.png"
     imgScale="0.5"
@@ -18,7 +18,7 @@ draft = false
 
 {{< platform-links >}}
     {{< link icon="linkedin" url="https://www.linkedin.com/in/thanh-chu-06481b2ba" >}}
-    {{< link icon="square-github" url="https://github.com/Me-Bim-Bi" >}}
+    {{< link icon="square-github" url="https://github.com/thanh-chu" >}}
 {{< /platform-links >}}
 
 {{< /showcase-section >}}
@@ -28,7 +28,7 @@ draft = false
     content="My path into software wasn't a straight line: eight years in banking operations in Vietnam, two years teaching preschool in Sweden, and now a Software Engineering degree at BTH — each stage sharpening a different edge I bring to a dev team.<br/><br/>What that looks like in practice: I was trusted to co-own a bank-wide system migration before I ever wrote a line of production code, and I carried that same ownership into my first real engineering project — a monitoring framework built for Ericsson that earned direct praise from their team for technical quality and initiative. BTH's Mathematics Department later hand-picked me as 1 of just 3 students to lead exercise sessions for first-year students.<br/><br/>Day to day, that means backend services, databases, CI/CD, monitoring, and containerised deployments — learned fast, and owned end-to-end."
     button_icon="icon-user"
     button_text="Check my skills"
-    button_url="/skills"
+    button_url="skills"
     imgSrc="images/about/user-picture.png"
     imgScale="0.5"
     v_align="center"
@@ -49,7 +49,7 @@ draft = false
       <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">✅ pytest &amp; Cypress</span>
       <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">🔀 Git / CI/CD</span>
     </div>
-    <a href="/skills" class="btn btn-primary btn-lg">
+    <a href="skills" class="btn btn-primary btn-lg">
       <i class="icon-circle-arrow-right" aria-hidden="true"></i>&nbsp; View Full Skill Breakdown
     </a>
   </div>

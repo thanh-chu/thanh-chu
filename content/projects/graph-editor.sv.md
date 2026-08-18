@@ -5,7 +5,7 @@ draft: false
 summary: "En interaktiv grafvisualiserare, byggd på egen hand — tre nya tekniker lärda från grunden för att kunna leverera den."
 meta: "Soloprojekt · 3 nya tekniker lärda från grunden för detta bygge"
 
-link: "https://github.com/Me-Bim-Bi/GraphEditor"
+link: "https://github.com/thanh-chu/GraphEditor"
 
 highlights:
   - "Designade och levererade självständigt en interaktiv grafvisualiserare/-redigerare för kunskaps- och beroendegrafer"
@@ -18,7 +18,7 @@ params:
     button:
         icon: "icon-square-github"
         btnText: "GitHub"
-        URL: "https://github.com/Me-Bim-Bi/GraphEditor"
+        URL: "https://github.com/thanh-chu/GraphEditor"
     image:
         src: "images/works/graph-editor.png"
         scale: 0.5

@@ -1,0 +1,62 @@
+{{/*
+  Local override of the theme's 404.html.
+
+  The theme original builds the "back to home" link with
+  `{{ "/" | absLangURL }}` and does its language-redirect JS with a
+  hardcoded root-relative path ('/' + lang + '/404.html'). Both assume
+  the site is deployed at the domain root. This site is deployed as a
+  GitHub Pages *project* page (https://thanh-chu.github.io/thanhchu.github.io/),
+  so baseURL has its own path segment — leading-slash strings bypass
+  that segment (Hugo/browsers treat them as domain-root-relative),
+  which broke both the button and the JS redirect. Fixed by:
+  - using "" instead of "/" with absLangURL (baseURL-relative, keeps
+    the site's sub-path)
+  - passing that sub-path into the script so it can be stripped before
+    detecting the language segment, and re-prepended on redirect
+*/}}
+{{ define "main" }}
+    <section id="main-content" tabindex="-1" class="section four-o-four">
+      <div class="container text-center">
+        <h1 class="display-1">404</h1>
+        <h4 id="error-title">{{ i18n "404_title" }}</h4>
+        <p id="error-description">
+          {{ i18n "404_description" }}
+        </p>
+        <a id="error-button" href='{{ "" | absLangURL }}' class="btn btn-primary">{{ i18n "404_button" }}</a>
+      </div>
+    </section>
+
+    {{/* Get available languages for redirect logic */}}
+    {{- $languages := slice }}
+    {{ with .Rotate "language" }}
+      {{- range . }}
+        {{- if ne .Site.Language "en" }}
+          {{- $languages = $languages | append .Lang }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+    <script>
+      (function() {
+        // Available non-default languages from Hugo config
+        const languages = {{ $languages | jsonify | safeJS }};
+
+        // Site's own sub-path prefix (e.g. "/thanhchu.github.io/" for a
+        // GitHub Pages project page, or "/" if served at the domain root)
+        const basePath = {{ "" | relURL | safeJS }};
+
+        // Detect language from URL path, ignoring the site's sub-path prefix
+        let path = window.location.pathname;
+        if (basePath !== '/' && path.startsWith(basePath)) {
+          path = path.slice(basePath.length - 1);
+        }
+        const pathParts = path.split('/').filter(p => p);
+        const firstPart = pathParts[0] || '';
+
+        // If URL starts with a known language code and we're not already on the 404.html page,
+        // redirect to the language-specific 404 page for full localization (header, footer, etc.)
+        if (languages.includes(firstPart) && !path.endsWith('/404.html')) {
+          window.location.replace(basePath.replace(/\/$/, '') + '/' + firstPart + '/404.html');
+        }
+      })();
+    </script>
+{{ end }}

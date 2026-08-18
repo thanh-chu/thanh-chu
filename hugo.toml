@@ -1,4 +1,4 @@
-baseURL = "https://thanhchu.github.io/"
+baseURL = "https://thanh-chu.github.io/thanhchu.github.io/"
 title = "Thanh Chu — Software Engineering Student"
 languageCode = "en"
 
@@ -77,13 +77,13 @@ target = "assets/css/bootstrap-print.css"
 logo_text1 = 'Thanh Chu'
 title = 'Thanh Chu — Software Engineer building full-stack systems, from Ericsson-grade monitoring to production-style apps.'
 description = 'Thanh Chu ships full-stack, production-style software as a Software Engineering student at Blekinge Institute of Technology — including a monitoring framework delivered for Ericsson and praised by their team.'
-images = ['/img/og-img.png']
+images = ['img/og-img.png']
 themeColor = '#478079'
 
 [params.seo]
 siteName = 'Thanh Chu'
 siteDescription = 'Software Engineer who ships working full-stack applications, not just coursework — delivered a production-grade monitoring framework for Ericsson, backed by 15+ years of cross-industry discipline.'
-siteImage = '/img/og-img.png'
+siteImage = 'img/og-img.png'
 
 [params.social]
 twitter = ''
@@ -92,8 +92,7 @@ twitter = ''
 name = 'Thanh Chu'
 url = 'https://www.linkedin.com/in/thanh-chu-06481b2ba/'
 sameAs = [
-  'https://github.com/Me-Bim-Bi',
-  'https://github.com/thanhchu.github.io'
+  'https://github.com/thanh-chu'
 ]
 
 sections = [
@@ -114,7 +113,10 @@ homepageExperienceCount = 6
 source = "icons/favicon.png"
 
 # Optional: override any generated file with a static one
-# favicon = "/favicon.ico"
+# (no leading slash — the theme's own default has one, which makes
+# absURL resolve it against the domain root instead of baseURL's
+# sub-path, breaking the favicon on a project-page deployment)
+favicon = "favicon.ico"
 # icon16 = "/icons/icon-16.png"
 # icon32 = "/icons/icon-32.png"
 # appleTouch = "/icons/apple-touch-icon.png"

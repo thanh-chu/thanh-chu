@@ -1,5 +1,5 @@
 <!---
-Me-Bim-Bi/Me-Bim-Bi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+thanh-chu/thanh-chu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
 <div align="center">
@@ -48,7 +48,7 @@ What that looks like in practice: I was trusted to co-own a bank-wide system mig
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Graph Editor](https://github.com/Me-Bim-Bi/GraphEditor)** | Interactive graph visualiser/editor for knowledge & dependency graphs — solo build, 3 new technologies learned from scratch specifically for it | `JavaScript` `TypeScript` `Neo4j` |
+| **[Graph Editor](https://github.com/thanh-chu/GraphEditor)** | Interactive graph visualiser/editor for knowledge & dependency graphs — solo build, 3 new technologies learned from scratch specifically for it | `JavaScript` `TypeScript` `Neo4j` |
 | **Performance Monitoring Framework** — for Ericsson | Feedback-controlled framework that detects saturation points before they become incidents, with real-time dashboards delivered to a live client team *(internal repo)* | `Python` `Locust` `Prometheus` `Grafana` `Docker` |
 | **[Restaurant Ordering System & Kitchen Dashboard](https://github.com/HaileyLV/PA1489-project)** | Full-stack Flask ordering platform with a live kitchen dashboard — full marks on every requirement, plus extra credit | `Python` `Flask` `SQLite` `Docker Compose` |
 
@@ -59,8 +59,8 @@ What that looks like in practice: I was trusted to co-own a bank-wide system mig
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Me-Bim-Bi&show_icons=true&hide_border=true&title_color=478079&icon_color=478079&text_color=555555" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Me-Bim-Bi&layout=compact&hide_border=true&title_color=478079&text_color=555555" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thanh-chu&show_icons=true&hide_border=true&title_color=478079&icon_color=478079&text_color=555555" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-chu&layout=compact&hide_border=true&title_color=478079&text_color=555555" />
 </div>
 
 <br/>

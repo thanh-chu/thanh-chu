@@ -5,7 +5,7 @@ button1_url: "https://www.linkedin.com/in/thanh-chu-06481b2ba"
 button1_icon: icon-linkedin
 
 button2_text: "GitHub"
-button2_url: "https://github.com/Me-Bim-Bi"
+button2_url: "https://github.com/thanh-chu"
 button2_icon: icon-square-github
 
 ---

@@ -5,7 +5,7 @@ draft: false
 summary: "Một công cụ trực quan hoá đồ thị tương tác, tự phát triển một mình — làm chủ ba công nghệ mới hoàn toàn để hoàn thiện nó."
 meta: "Dự án cá nhân · Làm chủ 3 công nghệ hoàn toàn mới cho dự án này"
 
-link: "https://github.com/Me-Bim-Bi/GraphEditor"
+link: "https://github.com/thanh-chu/GraphEditor"
 
 highlights:
   - "Tự thiết kế và hoàn thiện một công cụ trực quan hoá/chỉnh sửa đồ thị tương tác cho đồ thị tri thức và quan hệ phụ thuộc"
@@ -18,7 +18,7 @@ params:
     button:
         icon: "icon-square-github"
         btnText: "GitHub"
-        URL: "https://github.com/Me-Bim-Bi/GraphEditor"
+        URL: "https://github.com/thanh-chu/GraphEditor"
     image:
         src: "images/works/graph-editor.png"
         scale: 0.5

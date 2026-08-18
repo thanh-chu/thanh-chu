@@ -83,7 +83,7 @@
         </div>
         {{ if $buttonText }}
         <a
-          href="{{ $buttonURL }}"
+          href="{{ if strings.HasPrefix $buttonURL "http" }}{{ $buttonURL }}{{ else }}{{ $buttonURL | relURL }}{{ end }}"
           class="btn btn-primary"
           target="_blank"
           rel="noopener noreferrer"

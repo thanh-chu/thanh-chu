@@ -17,7 +17,7 @@ draft = false
           <a href="https://www.linkedin.com/in/thanh-chu-06481b2ba" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
             <i class="icon-linkedin"></i>&nbsp; LinkedIn
           </a>
-          <a href="https://github.com/Me-Bim-Bi" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+          <a href="https://github.com/thanh-chu" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
             <i class="icon-square-github"></i>&nbsp; GitHub
           </a>
         </div>

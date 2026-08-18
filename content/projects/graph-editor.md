@@ -5,7 +5,7 @@ draft: false
 summary: "An interactive graph visualiser and editor, built solo — three new technologies mastered from scratch to ship it."
 meta: "Solo project · 3 new technologies learned from scratch for this build"
 
-link: "https://github.com/Me-Bim-Bi/GraphEditor"
+link: "https://github.com/thanh-chu/GraphEditor"
 
 highlights:
   - "Independently designed and delivered an interactive graph visualiser/editor for knowledge and dependency graphs"
@@ -18,7 +18,7 @@ params:
     button:
         icon: "icon-square-github"
         btnText: "GitHub"
-        URL: "https://github.com/Me-Bim-Bi/GraphEditor"
+        URL: "https://github.com/thanh-chu/GraphEditor"
     image:
         src: "images/works/graph-editor.png"
         scale: 0.5
