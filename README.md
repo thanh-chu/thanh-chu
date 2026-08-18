@@ -10,7 +10,7 @@ thanh-chu/thanh-chu is a ✨ special ✨ repository because its `README.md` (thi
 
 15+ years across banking, education, and now software — from an Ericsson monitoring framework to a solo-built graph editor.
 
-<a href="https://thanh-chu.github.io/thanhchu.github.io/"><img src="https://img.shields.io/badge/Portfolio-478079?style=flat-square" /></a>
+<a href="https://thanh-chu.github.io/thanh-chu"><img src="https://img.shields.io/badge/Portfolio-478079?style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/thanh-chu-06481b2ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:thanhhachu87@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
 
@@ -52,26 +52,15 @@ What that looks like in practice: I was trusted to co-own a bank-wide system mig
 | **Performance Monitoring Framework** — for Ericsson | Feedback-controlled framework that detects saturation points before they become incidents, with real-time dashboards delivered to a live client team *(internal repo)* | `Python` `Locust` `Prometheus` `Grafana` `Docker` |
 | **[Restaurant Ordering System & Kitchen Dashboard](https://github.com/HaileyLV/PA1489-project)** | Full-stack Flask ordering platform with a live kitchen dashboard — full marks on every requirement, plus extra credit | `Python` `Flask` `SQLite` `Docker Compose` |
 
-<p align="center"><i>See the full write-up of each project, with screenshots and client feedback, on my <a href="https://thanh-chu.github.io/thanhchu.github.io/projects/">portfolio</a>.</i></p>
+<p align="center"><i>See the full write-up of each project, with screenshots and client feedback, on my <a href="https://thanh-chu.github.io/thanh-chu/projects/">portfolio</a>.</i></p>
 
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thanh-chu&show_icons=true&hide_border=true&title_color=478079&icon_color=478079&text_color=555555" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-chu&layout=compact&hide_border=true&title_color=478079&text_color=555555" />
-</div>
-
-<br/>
-
-<div align="center">
 
 ### Let's build something together
 
 Open to software development internships and new opportunities — I reply fast and I'm easy to talk to.
 
-<a href="https://thanh-chu.github.io/thanhchu.github.io/"><img src="https://img.shields.io/badge/Portfolio-478079?style=flat-square" /></a>
+<a href="https://thanh-chu.github.io/thanh-chu/"><img src="https://img.shields.io/badge/Portfolio-478079?style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/thanh-chu-06481b2ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:thanhhachu87@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
 
