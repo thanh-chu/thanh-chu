@@ -74,14 +74,15 @@ target = "assets/css/bootstrap-print.css"
 
 
 [params]
-title = 'Thanh Chu — Software Engineering Student at BTH, Sweden. Building reliable software with 15+ years of cross-industry experience.'
-description = 'Explore the projects, experience, and journey of Thanh Chu — software engineering student at Blekinge Institute of Technology, Sweden.'
+logo_text1 = 'Thanh Chu'
+title = 'Thanh Chu — Software Engineer building full-stack systems, from Ericsson-grade monitoring to production-style apps.'
+description = 'Thanh Chu ships full-stack, production-style software as a Software Engineering student at Blekinge Institute of Technology — including a monitoring framework delivered for Ericsson and praised by their team.'
 images = ['/img/og-img.png']
 themeColor = '#478079'
 
 [params.seo]
 siteName = 'Thanh Chu'
-siteDescription = 'Software Engineering student at BTH, Sweden, transitioning into tech after 15+ years in banking, finance, and early childhood education.'
+siteDescription = 'Software Engineer who ships working full-stack applications, not just coursework — delivered a production-grade monitoring framework for Ericsson, backed by 15+ years of cross-industry discipline.'
 siteImage = '/img/og-img.png'
 
 [params.social]
@@ -180,7 +181,7 @@ URL = '/skills'
 weight = 3
 [[languages.en.menus.header]]
 name = 'Projects'
-URL = '#client-and-work-section'
+URL = '/projects'
 weight = 4
 [[languages.en.menus.header]]
 name = "Experience"
@@ -199,37 +200,46 @@ weight = 7
 
 
 
-[languages.es]
-disabled = true
-languageCode = 'es'
+[languages.vi]
+disabled = false
+languageCode = 'vi'
 languageDirection = 'ltr'
-languageName = 'Español'
-title = 'Thanh Chu — Mjukvaruingenjörsstudent'
+languageName = 'Tiếng Việt'
+title = 'Thanh Chu — Sinh viên Kỹ thuật Phần mềm'
 weight = 2
 
-[languages.fr]
-disabled = true
-languageCode = 'fr'
-languageDirection = 'ltr'
-languageName = 'Français'
-title = 'Thanh Chu'
+[languages.vi.menus]
+[[languages.vi.menus.header]]
+name = "Trang chủ"
+URL = "/vi/"
+weight = 1
+[[languages.vi.menus.header]]
+name = 'Giới thiệu'
+URL = '/vi/#about'
+weight = 2
+[[languages.vi.menus.header]]
+name = 'Kỹ năng'
+URL = '/vi/skills'
 weight = 3
-
-[languages.ar]
-disabled = true
-languageCode = 'ar'
-languageDirection = 'rtl'
-languageName = 'العربية'
-title = 'Thanh Chu'
+[[languages.vi.menus.header]]
+name = 'Dự án'
+URL = '/vi/projects'
 weight = 4
-
-[languages.he]
-disabled = true
-languageCode = 'he'
-languageDirection = 'rtl'
-languageName = 'עברית'
-title = 'Thanh Chu'
+[[languages.vi.menus.header]]
+name = "Kinh nghiệm"
+URL = "/vi/experience"
 weight = 5
+[[languages.vi.menus.header]]
+pre = "email"
+name = "Liên hệ"
+URL = "/vi/#contact"
+weight = 6
+[[languages.vi.menus.header]]
+pre = "search"
+name = "Tìm kiếm"
+URL = "/search"
+weight = 7
+
 
 [languages.sv]
 disabled = false
@@ -254,7 +264,7 @@ URL = "/sv/skills"
 weight = 3
 [[languages.sv.menus.header]]
 name = "Projekt"
-URL = "/sv/#client-and-work-section"
+URL = "/sv/projects"
 weight = 4
 [[languages.sv.menus.header]]
 name = "Erfarenhet"

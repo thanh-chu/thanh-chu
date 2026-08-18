@@ -83,6 +83,712 @@
   flex-wrap: wrap !important;
   width: 100%;
 }
+/* Resting state: solid, theme-appropriate (this footer band is always
+   a solid-black bar in both themes, so the button inverts per theme
+   for contrast). Fixes a real bug where the theme's own :hover rule
+   set color:#000 with a transparent background — invisible black-on-
+   black text over this always-black footer. */
+#contact .btn-primary,
+#contact .btn-primary:visited {
+  color: #fff !important;
+  background-color: #000 !important;
+  border-color: #000 !important;
+}
+#contact .btn-primary i,
+#contact .btn-primary:visited i {
+  color: #fff !important;
+}
+[data-bs-theme="dark"] #contact .btn-primary,
+[data-bs-theme="dark"] #contact .btn-primary:visited {
+  color: #000 !important;
+  background-color: #fff !important;
+  border-color: #fff !important;
+}
+[data-bs-theme="dark"] #contact .btn-primary i,
+[data-bs-theme="dark"] #contact .btn-primary:visited i {
+  color: #000 !important;
+}
+/* Interaction feedback (hover / focus / press): turn into a white-
+   outline "ghost" button whose background blends into the footer's
+   own black — a clear, deliberate click/hover cue, and always
+   readable since the footer band is solid black in both themes.
+   LinkedIn/GitHub open in a new tab, so after the first click the
+   browser marks them :visited — some browsers (notably Safari/
+   WebKit, for privacy reasons) resolve a plain `:hover` differently
+   once a link is `:visited`, so every state below is spelled out
+   explicitly combined with :visited too rather than relying on it
+   to just inherit the plain-link version. The icon glyph is targeted
+   directly as well since icon fonts don't always inherit color the
+   same way plain text does. */
+#contact .btn-primary:hover,
+#contact .btn-primary:visited:hover,
+#contact .btn-primary:focus,
+#contact .btn-primary:visited:focus,
+#contact .btn-primary:focus-visible,
+#contact .btn-primary:visited:focus-visible,
+#contact .btn-primary:active,
+#contact .btn-primary:visited:active {
+  color: #fff !important;
+  background-color: transparent !important;
+  border-color: #fff !important;
+}
+#contact .btn-primary:hover i,
+#contact .btn-primary:visited:hover i,
+#contact .btn-primary:focus i,
+#contact .btn-primary:visited:focus i,
+#contact .btn-primary:active i,
+#contact .btn-primary:visited:active i {
+  color: #fff !important;
+}
+
+/* ============================================================
+   6. Mobile header — keep the hamburger toggle from overlapping
+   the site title. The toggle is pinned with position:absolute at
+   left:0 by the theme so the centred brand can never be pushed by
+   normal flex flow; instead we reserve clear space for it on each
+   side and make the title itself truncate gracefully as a backstop.
+   ============================================================ */
+@media (max-width: 991.98px) {
+  .header .navbar > .container-fluid {
+    padding-left: 56px;
+    padding-right: 56px;
+  }
+  .header .navbar-brand {
+    max-width: 100%;
+    overflow: hidden;
+  }
+  .header .navbar-brand span {
+    display: inline-block;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .header .navbar-toggler:not(.nav-link) {
+    z-index: 10;
+  }
+}
+
+/* ============================================================
+   7. Language selector — flag + name instead of a plain "Language"
+   label, and theme selector — live sun/moon icon for current mode
+   ============================================================ */
+.language-selector .flag {
+  font-size: 1.05em;
+  margin-right: 0.35rem;
+  line-height: 1;
+}
+.language-selector .dropdown-item.choice a {
+  gap: 0.35rem;
+}
+.language-selector .dropdown-item.current .flag {
+  margin-right: 0.35rem;
+}
+.theme-selector .resolved-theme-icon {
+  font-size: 1.15em;
+  line-height: 1;
+}
+
+/* ============================================================
+   8. Skills page — icon-driven cards, no percentage bars
+   ============================================================ */
+.site-skills-section .skill-category__title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  font-weight: 700;
+}
+.site-skills-section .skill-category__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 50%;
+  background: var(--bs-primary-bg-subtle, #cfe2ff);
+  font-size: 1.15rem;
+  flex-shrink: 0;
+}
+.skill-card {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  padding: 1.25rem 1.35rem;
+  border-radius: 14px;
+  background: var(--bs-body-bg, #fff);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+  text-align: left;
+}
+.skill-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.1);
+  border-color: var(--bs-primary, #0d6efd);
+}
+[data-bs-theme="dark"] .skill-card {
+  background: #232323;
+  border-color: rgba(255, 255, 255, 0.08);
+}
+.skill-card__icon {
+  font-size: 1.75rem;
+  line-height: 1;
+  flex-shrink: 0;
+  width: 2.75rem;
+  height: 2.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background: var(--bs-secondary-bg, #f1f3f5);
+}
+[data-bs-theme="dark"] .skill-card__icon {
+  background: rgba(255, 255, 255, 0.06);
+}
+.skill-card__body { flex: 1; min-width: 0; }
+.skill-card__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.skill-card__name {
+  font-size: 1.02rem;
+  font-weight: 700;
+  margin: 0;
+}
+.skill-card__years {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--bs-primary, #0d6efd);
+  background: var(--bs-primary-bg-subtle, #cfe2ff);
+  border-radius: 999px;
+  padding: 0.15rem 0.55rem;
+  white-space: nowrap;
+}
+.skill-card__description {
+  margin: 0.3rem 0 0;
+  font-size: 0.88rem;
+  color: var(--bs-secondary-color, #6c757d);
+  line-height: 1.5;
+}
+
+/* ============================================================
+   9. Experience — timeline treatment for the job list, reused on
+   the homepage teaser, the full /experience page, and the sidebar
+   list on a single job page (all three render .experience-list)
+   ============================================================ */
+.experience-list {
+  position: relative;
+  padding-left: 1.75rem;
+}
+.experience-list::before {
+  content: "";
+  position: absolute;
+  top: 0.35rem;
+  bottom: 0.35rem;
+  left: 0.4rem;
+  width: 2px;
+  background: linear-gradient(to bottom, var(--bs-primary, #0d6efd), rgba(13, 110, 253, 0.08));
+}
+.experience-list .experience {
+  position: relative;
+  padding: 0 0 1.6rem 1rem;
+}
+.experience-list .experience:last-child { padding-bottom: 0; }
+.experience-list .experience::before {
+  content: "";
+  position: absolute;
+  top: 0.4rem;
+  left: -1.75rem;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  background: var(--bs-body-bg, #fff);
+  border: 2px solid var(--bs-primary, #0d6efd);
+  z-index: 1;
+}
+.experience-list .experience.selected::before,
+.experience-list .experience:hover::before {
+  background: var(--bs-primary, #0d6efd);
+}
+.experience-list .experience__link,
+.experience-list .experience > a {
+  display: block;
+  border-radius: 10px;
+  margin-left: -0.75rem;
+  transition: background 0.15s ease;
+}
+/* Selected/hover keep the theme's own solid-fill + white-text combo
+   (defined in _experience.scss) — it already has correct contrast,
+   so we only round its corners here rather than re-coloring it. */
+.experience-list .experience.selected a,
+.experience-list .experience:hover a {
+  border-radius: 10px;
+}
+.experience-list .experience__date {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--bs-primary, #0d6efd);
+  text-transform: uppercase;
+}
+.experience-list .experience__title {
+  font-weight: 700;
+  margin-top: 0.15rem;
+}
+.experience-list .experience__company {
+  font-size: 0.85rem;
+  color: var(--bs-secondary-color, #6c757d);
+}
+/* Dark mode: the job-card box on a single job page sets its own
+   background + base text color, but the heading and the location/
+   date lines don't inherit it (Bootstrap's heading/text-muted
+   variables resolve against the page, not this box), which left
+   them low-contrast against the card. Force them to match. */
+[data-bs-theme="dark"] .job-card {
+  --bs-heading-color: #fff;
+}
+[data-bs-theme="dark"] .job-card h1,
+[data-bs-theme="dark"] .job-card__location,
+[data-bs-theme="dark"] .job-card__dates {
+  color: #fff !important;
+}
+[data-bs-theme="dark"] .job-card__location,
+[data-bs-theme="dark"] .job-card__dates {
+  opacity: 0.85;
+}
+
+/* ============================================================
+   10. Section distinction — alternating tints + a small accent
+   eyebrow bar above each major heading, so About / Skills /
+   Education / Experience / Projects read as visually separate
+   chapters instead of one undifferentiated scroll
+   ============================================================ */
+#about,
+#education,
+#projects-teaser,
+#client-and-work-section {
+  background: var(--bs-secondary-bg, #f8f9fb);
+}
+[data-bs-theme="dark"] #about,
+[data-bs-theme="dark"] #education,
+[data-bs-theme="dark"] #projects-teaser,
+[data-bs-theme="dark"] #client-and-work-section {
+  background: #1f1f1f;
+}
+#skills-teaser,
+#experience-single,
+#experience {
+  background: var(--bs-body-bg, #fff);
+}
+#about h2,
+#skills-teaser h2,
+#education h2,
+#experience-single h2,
+#experience h2,
+#projects-teaser h2,
+#client-and-work-section h2,
+.site-skills-section .site-skills-title,
+.site-projects-section .site-projects-title {
+  position: relative;
+  display: inline-block;
+  padding-top: 1.1rem;
+}
+#about h2::before,
+#skills-teaser h2::before,
+#education h2::before,
+#experience-single h2::before,
+#experience h2::before,
+#projects-teaser h2::before,
+#client-and-work-section h2::before,
+.site-skills-section .site-skills-title::before,
+.site-projects-section .site-projects-title::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3rem;
+  height: 4px;
+  border-radius: 999px;
+  background: var(--bs-primary, #0d6efd);
+}
+/* These headings sit inside a text-center wrapper in the markup,
+   so their accent bar is centred to match */
+#skills-teaser h2::before,
+#projects-teaser h2::before,
+.site-skills-section .site-skills-title::before,
+.site-projects-section .site-projects-title::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* ============================================================
+   11. Selected Projects — compact homepage teaser cards
+   ============================================================ */
+.project-teaser-card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 14px;
+  overflow: hidden;
+  background: var(--bs-body-bg, #fff);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+.project-teaser-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 26px rgba(0, 0, 0, 0.12);
+  border-color: var(--bs-primary, #0d6efd);
+  color: inherit;
+}
+[data-bs-theme="dark"] .project-teaser-card {
+  background: #232323;
+  border-color: rgba(255, 255, 255, 0.08);
+}
+.project-teaser-card__media {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding-top: 62.5%; /* 16:10 aspect-ratio box; robust against very tall
+                          intrinsic image sizes in a flex column layout */
+  overflow: hidden;
+}
+.project-teaser-card__img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.project-teaser-card__body {
+  padding: 1.1rem 1.25rem 1.35rem;
+}
+.project-teaser-card__title {
+  font-size: 1.08rem;
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+}
+.project-teaser-card__summary {
+  font-size: 0.9rem;
+  color: var(--bs-secondary-color, #6c757d);
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* ============================================================
+   12. Projects page — full detail cards
+   ============================================================ */
+.site-projects-section .site-projects-title {
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+.site-projects-section .site-projects-description {
+  max-width: 640px;
+  margin: 0.75rem auto 0;
+  color: var(--bs-secondary-color, #6c757d);
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+.project-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0;
+  margin: 3.5rem 0;
+  border-radius: 18px;
+  overflow: hidden;
+  background: var(--bs-body-bg, #fff);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05);
+  scroll-margin-top: 100px;
+}
+[data-bs-theme="dark"] .project-card {
+  background: #202020;
+  border-color: rgba(255, 255, 255, 0.08);
+}
+@media (min-width: 900px) {
+  .project-card {
+    grid-template-columns: 42% 1fr;
+  }
+  .project-card:nth-of-type(even) {
+    grid-template-columns: 1fr 42%;
+  }
+  .project-card:nth-of-type(even) .project-card__media {
+    order: 2;
+  }
+}
+.project-card__media {
+  position: relative;
+  min-height: 220px;
+  background: var(--bs-secondary-bg, #f1f3f5);
+}
+.project-card__img {
+  width: 100%;
+  height: 100%;
+  min-height: 220px;
+  object-fit: cover;
+  display: block;
+}
+.project-card__body {
+  padding: 2rem 2.25rem;
+}
+@media (min-width: 900px) {
+  .project-card__body {
+    padding: 2.5rem 3rem;
+  }
+}
+.project-card__title {
+  font-size: 1.6rem;
+  font-weight: 800;
+  margin-bottom: 0.4rem;
+}
+.project-card__meta {
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: var(--bs-primary, #0d6efd);
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+.project-card__lead {
+  font-size: 1.02rem;
+  line-height: 1.65;
+  margin-bottom: 1.1rem;
+}
+.project-card__highlights {
+  padding-left: 1.15rem;
+  margin-bottom: 1.25rem;
+}
+.project-card__highlights li {
+  font-size: 0.94rem;
+  line-height: 1.55;
+  margin-bottom: 0.55rem;
+  color: var(--bs-body-color, #212529);
+}
+.project-card__quote {
+  position: relative;
+  margin: 0 0 1.5rem;
+  padding: 1rem 1.25rem 1rem 2.75rem;
+  border-radius: 12px;
+  background: var(--bs-primary-bg-subtle, #eaf2ff);
+}
+[data-bs-theme="dark"] .project-card__quote {
+  background: rgba(13, 110, 253, 0.12);
+}
+.project-card__quote::before {
+  content: "\201C";
+  position: absolute;
+  top: 0.35rem;
+  left: 0.85rem;
+  font-size: 2.25rem;
+  line-height: 1;
+  font-family: Georgia, serif;
+  color: var(--bs-primary, #0d6efd);
+  opacity: 0.55;
+}
+.project-card__quote p {
+  font-style: italic;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  margin-bottom: 0.35rem;
+}
+.project-card__quote cite {
+  font-style: normal;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--bs-secondary-color, #6c757d);
+}
+.project-card__stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 1.4rem;
+}
+.project-card__stack .badge {
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.4rem 0.75rem;
+}
+.project-card__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+/* Real product/app screenshots (forms, dashboards with readable text)
+   should never be cropped by object-fit:cover the way a decorative
+   photo can be — opt in per-project with image.fit: "contain" */
+.project-card__media--contain {
+  background: var(--bs-secondary-bg, #f1f3f5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+.project-card__media--contain .project-card__img {
+  object-fit: contain;
+  min-height: 0;
+  max-height: 640px;
+}
+.project-teaser-card--contain .project-teaser-card__img {
+  object-fit: contain;
+  background: var(--bs-secondary-bg, #f1f3f5);
+  padding: 0.5rem;
+}
+[data-bs-theme="dark"] .project-card__media--contain,
+[data-bs-theme="dark"] .project-teaser-card--contain .project-teaser-card__img {
+  background: #1a1a1a;
+}
+
+/* Supporting screenshots strip — extra real evidence shots (e.g. a
+   confirmation page, an admin view) shown smaller below the main story */
+.project-card__gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+  margin-bottom: 1.4rem;
+}
+.project-card__gallery-item {
+  flex: 1 1 200px;
+  max-width: 260px;
+  margin: 0;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--bs-secondary-bg, #f1f3f5);
+}
+[data-bs-theme="dark"] .project-card__gallery-item {
+  border-color: rgba(255, 255, 255, 0.08);
+  background: #1a1a1a;
+}
+.project-card__gallery-img {
+  width: 100%;
+  height: 130px;
+  object-fit: contain;
+  display: block;
+  padding: 0.4rem;
+}
+.project-card__gallery-item figcaption {
+  font-size: 0.75rem;
+  color: var(--bs-secondary-color, #6c757d);
+  text-align: center;
+  padding: 0.35rem 0.5rem 0.6rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+}
+[data-bs-theme="dark"] .project-card__gallery-item figcaption {
+  border-top-color: rgba(255, 255, 255, 0.08);
+}
+
+/* ============================================================
+   13. Homepage hero — typography & spacing polish. The theme
+   default rendered the subtitle almost as large as the name
+   (48px vs 60px, both heavy), wrapping to four lines and making
+   the block feel oversized without a clear hierarchy.
+   ============================================================ */
+#showcase h1.display-1 {
+  font-size: clamp(2.5rem, 1.6rem + 3vw, 3.5rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
+}
+#showcase h2.display-5 {
+  font-size: clamp(1.2rem, 1rem + 0.7vw, 1.45rem);
+  font-weight: 600;
+  line-height: 1.45;
+  color: var(--bs-primary, #478079);
+  letter-spacing: 0;
+  margin-bottom: 1.1rem;
+}
+#showcase .lead {
+  font-size: 1.05rem;
+  font-weight: 400;
+  line-height: 1.7;
+  color: var(--bs-secondary-color, #495057);
+  max-width: 540px;
+  margin-bottom: 1.5rem;
+}
+/* The social icon row is emitted as an "inner content" block after
+   BOTH hero columns close, so it used to land far below the (short)
+   text column, level with the tall portrait photo instead of right
+   under the description. Pull it back up, right under the text. */
+#showcase .col-md-6:first-child .inner-content {
+  margin-top: 0;
+}
+#showcase .showcase-section .platform-links.shortcode {
+  margin-left: 0 !important;
+  margin-top: 0.25rem;
+}
+#showcase .platform-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.14);
+  margin-right: 0.6rem;
+  transition: border-color 0.18s ease, transform 0.18s ease;
+}
+#showcase .platform-links a:hover {
+  border-color: var(--bs-primary, #478079);
+  transform: translateY(-2px);
+}
+#showcase .platform-links [class^="icon-"] {
+  font-size: 1.15rem;
+  color: var(--bs-body-color, #1a1a1a);
+  transition: color 0.18s ease;
+  margin-right: 0 !important;
+}
+#showcase .platform-links a:hover [class^="icon-"] {
+  color: var(--bs-primary, #478079);
+}
+[data-bs-theme="dark"] #showcase .platform-links a {
+  border-color: rgba(255, 255, 255, 0.18);
+}
+
+/* ============================================================
+   14. Education — the theme's decorative skewed shape behind each
+   entry rendered as a pale, misaligned artifact overlapping the
+   institution name (looked like a rendering glitch). Replace it
+   with a clean accent border and a clearer type scale.
+   ============================================================ */
+.education::before {
+  display: none;
+}
+.education {
+  min-height: 0;
+  padding-left: 1.1rem;
+  padding-bottom: 0.25rem;
+  margin-bottom: 1.75rem;
+  border-left: 3px solid var(--bs-primary, #478079);
+}
+/* Entries fill each grid column top-to-bottom before wrapping to the
+   next, so on desktop two entries can land stacked in the same
+   column — the grid's own mb-4/mb-sm-0 utility only spaces them on
+   mobile, leaving none between stacked entries at wider widths. */
+.education__date {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--bs-primary, #478079);
+  margin-bottom: 0.35rem;
+}
+.education__title {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+  color: var(--bs-body-color, #1a1a1a);
+}
+.education__degree {
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: var(--bs-secondary-color, #6c757d);
+}
 </style>
 
 <!-- Ericsson GitLab Modal -->
@@ -131,16 +837,33 @@
   }
 
   document.addEventListener('DOMContentLoaded', function () {
-    // Find any link/button whose visible text contains "ericsson" or "gitlab"
-    document.querySelectorAll('a, button').forEach(function (el) {
-      var text = (el.textContent || '').trim().toLowerCase();
-      if (text.includes('ericsson') || text.includes('gitlab')) {
-        el.addEventListener('click', openEricssonModal);
-        // Prevent navigation for anchor tags
-        if (el.tagName === 'A') {
-          el.setAttribute('href', 'javascript:void(0)');
-        }
-      }
+    // Only the dedicated "Ericsson GitLab (internal)" buttons should open
+    // this modal — matched by their distinctive href target, not by text
+    // content. Matching on visible text (e.g. "contains ericsson") used to
+    // also catch unrelated links/cards that merely mention Ericsson in a
+    // title or description (like the Selected Projects teaser card),
+    // hijacking normal navigation on those.
+    document.querySelectorAll('a[href*="ericsson-code-policy"]').forEach(function (el) {
+      el.addEventListener('click', openEricssonModal);
+      el.setAttribute('href', 'javascript:void(0)');
     });
   });
+</script>
+
+<!-- Live sun/moon icon reflecting the resolved (actually applied) colour theme,
+     even while "Auto" is selected — updates immediately when the theme changes. -->
+<script>
+  (function () {
+    function updateThemeIcons() {
+      var resolved = document.documentElement.getAttribute('data-bs-theme') || 'light';
+      var icon = resolved === 'dark' ? '🌙' : '☀️';
+      document.querySelectorAll('.resolved-theme-icon').forEach(function (el) {
+        el.textContent = icon;
+      });
+    }
+    updateThemeIcons();
+    document.addEventListener('DOMContentLoaded', updateThemeIcons);
+    var observer = new MutationObserver(updateThemeIcons);
+    observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-bs-theme'] });
+  })();
 </script>

@@ -1,43 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thanh Chu — Software Engineering Student</title><link>http://localhost:1313/</link><description>Recent content on Thanh Chu — Software Engineering Student</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Exercise Session Leader</title><link>http://localhost:1313/experience/job-3/</link><pubDate>Sat, 01 Aug 2026 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-3/</guid><description>&lt;h2 id="mathematics-exercise-leader--discrete-mathematics--algorithms"&gt;Mathematics Exercise Leader — Discrete Mathematics &amp;amp; Algorithms&lt;/h2&gt;
-&lt;p&gt;Personally recommended by the course lecturer to the Head of the Mathematics Department and selected as 1 of only 3 students trusted to lead weekly exercise sessions for first-year students.&lt;/p&gt;
-&lt;p&gt;Co-designing the exercise curriculum from scratch, pacing it to the lectures and shaping it around student feedback to give first-years the best possible route into the subject.&lt;/p&gt;</description></item><item><title>Continuous Performance Monitoring Framework</title><link>http://localhost:1313/projects/swiss-fintech/</link><pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate><guid>http://localhost:1313/projects/swiss-fintech/</guid><description>&lt;p&gt;&lt;strong&gt;Student project for Ericsson, Karlskrona&lt;/strong&gt; · Team of 5 · Feb – May 2026 · &lt;strong&gt;Grade A&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A feedback-controlled framework for continuous performance monitoring — detects saturation points, tracks trends, and visualises system health in real time.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Built a feedback-controlled load-testing framework in Python with Locust&lt;/li&gt;
-&lt;li&gt;Automated saturation detection, trend reporting, and history storage in SQLite&lt;/li&gt;
-&lt;li&gt;Containerised the system with Docker/Minikube; built live dashboards in Grafana and Prometheus&lt;/li&gt;
-&lt;li&gt;Acted as Project Owner for the first and last sprints; contributed code and reviews across nearly all modules&lt;/li&gt;
-&lt;li&gt;Delivered every client and academic demo as lead presenter&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Python, Locust, Grafana, Prometheus, SQLite, Docker, Minikube, pytest, Cypress, GitLab&lt;/p&gt;</description></item><item><title>Showcase</title><link>http://localhost:1313/showcase/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/showcase/</guid><description>&lt;p&gt;These are real websites built by the community using the Adritian Hugo theme.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Is your site missing?&lt;/strong&gt; &lt;a href="https://github.com/zetxek/adritian-free-hugo-theme/issues/new?template=showcase-submission.md"&gt;Submit it via GitHub&lt;/a&gt; — we&amp;rsquo;d love to feature it here!&lt;/p&gt;</description></item><item><title>Graph Editor</title><link>http://localhost:1313/projects/robo-advisor/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0200</pubDate><guid>http://localhost:1313/projects/robo-advisor/</guid><description>&lt;p&gt;&lt;strong&gt;Individual project&lt;/strong&gt; · &lt;strong&gt;Grade A&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An interactive graph visualiser and editor for creating, exploring, and analysing networks such as knowledge graphs, dependencies, and social interactions.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Designed and built an interactive graph visualiser/editor for knowledge and dependency graphs&lt;/li&gt;
-&lt;li&gt;Implemented a TypeScript front end backed by Neo4j queries&lt;/li&gt;
-&lt;li&gt;Learned Neo4j and TypeScript from scratch for this project and delivered a fully working tool&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; JavaScript, TypeScript, Neo4j&lt;/p&gt;</description></item><item><title>Cashier</title><link>http://localhost:1313/experience/job-4/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-4/</guid><description>&lt;h2 id="cashier--lee-baguette"&gt;Cashier — Lee Baguette&lt;/h2&gt;
-&lt;p&gt;Assisted customers with menu selections and special requests. Processed transactions accurately and efficiently while maintaining a clean, organised checkout area.&lt;/p&gt;
-&lt;p&gt;Kept service fast and reliable through the busy weekday lunch rush and peak summer tourist season, when customers needed to be served quickly to get back to work on time.&lt;/p&gt;</description></item><item><title>Restaurant Ordering System &amp; Kitchen Dashboard</title><link>http://localhost:1313/projects/radity-finance-uikit/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0200</pubDate><guid>http://localhost:1313/projects/radity-finance-uikit/</guid><description>&lt;p&gt;&lt;strong&gt;Team of 5 (first-year project)&lt;/strong&gt; · &lt;strong&gt;Grade A&lt;/strong&gt; (individual &amp;amp; team)&lt;/p&gt;
-&lt;p&gt;A small ordering website for customers, paired with a kitchen dashboard to track incoming orders and mark them complete.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Built a Flask ordering site plus a real-time kitchen dashboard for order tracking&lt;/li&gt;
-&lt;li&gt;Tested with pytest and shipped in Docker&lt;/li&gt;
-&lt;li&gt;Led planning and reporting and contributed code across nearly every part of the project&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Python, Flask, SQLite, pytest, Docker&lt;/p&gt;</description></item><item><title>Blekinge Institute of Technology (BTH)</title><link>http://localhost:1313/education/high-school/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0200</pubDate><guid>http://localhost:1313/education/high-school/</guid><description/></item><item><title>Preschool Teacher</title><link>http://localhost:1313/experience/job-2/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-2/</guid><description>&lt;h2 id="preschool-teacher--rödeby-förskola-tallbacken-sweden-sep-2022--aug-2024"&gt;Preschool Teacher — Rödeby Förskola Tallbacken, Sweden (Sep 2022 – Aug 2024)&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thanh Chu — Software Engineering Student</title><link>http://localhost:1313/</link><description>Recent content on Thanh Chu — Software Engineering Student</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Exercise Session Leader</title><link>http://localhost:1313/experience/job-3/</link><pubDate>Sat, 01 Aug 2026 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-3/</guid><description>&lt;p&gt;Personally recommended by the lecturer of Discrete Mathematics &amp;amp; Algorithms to the Head of the Mathematics Department, and hand-picked as 1 of only 3 students trusted to lead weekly exercise sessions for first-year students.&lt;/p&gt;
+&lt;p&gt;Co-designing the exercise curriculum from scratch, pacing it to the lectures and shaping it around student feedback to give first-years the best possible route into the subject.&lt;/p&gt;</description></item><item><title>Performance Monitoring Framework for Ericsson</title><link>http://localhost:1313/projects/performance-monitoring-framework/</link><pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate><guid>http://localhost:1313/projects/performance-monitoring-framework/</guid><description>A real-time monitoring framework built for Ericsson&amp;rsquo;s engineering team — detects performance saturation before it becomes an incident.</description></item><item><title>Showcase</title><link>http://localhost:1313/showcase/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/showcase/</guid><description>&lt;p&gt;These are real websites built by the community using the Adritian Hugo theme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Is your site missing?&lt;/strong&gt; &lt;a href="https://github.com/zetxek/adritian-free-hugo-theme/issues/new?template=showcase-submission.md"&gt;Submit it via GitHub&lt;/a&gt; — we&amp;rsquo;d love to feature it here!&lt;/p&gt;</description></item><item><title>Graph Editor</title><link>http://localhost:1313/projects/graph-editor/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0200</pubDate><guid>http://localhost:1313/projects/graph-editor/</guid><description>An interactive graph visualiser and editor, built solo — three new technologies mastered from scratch to ship it.</description></item><item><title>Cashier</title><link>http://localhost:1313/experience/job-4/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-4/</guid><description>&lt;p&gt;Assisted customers with menu selections and special requests. Processed transactions accurately and efficiently while maintaining a clean, organised checkout area.&lt;/p&gt;
+&lt;p&gt;Kept service fast and reliable through the busy weekday lunch rush and peak summer tourist season, when customers needed to be served quickly to get back to work on time.&lt;/p&gt;</description></item><item><title>Restaurant Ordering System &amp; Kitchen Dashboard</title><link>http://localhost:1313/projects/burger-order/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0200</pubDate><guid>http://localhost:1313/projects/burger-order/</guid><description>A full-stack ordering platform with a live kitchen dashboard — the team&amp;rsquo;s first production-style delivery.</description></item><item><title>Blekinge Institute of Technology (BTH)</title><link>http://localhost:1313/education/high-school/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0200</pubDate><guid>http://localhost:1313/education/high-school/</guid><description/></item><item><title>Preschool Teacher</title><link>http://localhost:1313/experience/job-2/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-2/</guid><description>&lt;p&gt;&lt;strong&gt;Preschool Teacher&lt;/strong&gt; · Rödeby Förskola Tallbacken · Sep 2022 – Aug 2024&lt;/p&gt;
 &lt;p&gt;Designed engaging lesson plans tailored to diverse learning styles and developmental needs. Facilitated daily classroom activities to build social skills and cooperation among children. Collaborated with parents on child progress and supported fellow teachers with planning and classroom management.&lt;/p&gt;
-&lt;p&gt;Trusted with responsibilities beyond the role&amp;rsquo;s scope: writing classroom activity reports for the bulletin board and sending weekly newsletters and important updates to parents.&lt;/p&gt;</description></item><item><title>Vietnam Maritime Commercial Joint Stock Bank</title><link>http://localhost:1313/experience/job-1/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-1/</guid><description>&lt;h2 id="vietnam-maritime-commercial-joint-stock-bank--8-years-20112019"&gt;Vietnam Maritime Commercial Joint Stock Bank — 8 Years (2011–2019)&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Operations Process Officer&lt;/strong&gt; · Sep 2017 – Oct 2019&lt;/p&gt;
+&lt;p&gt;Trusted with responsibilities beyond the role&amp;rsquo;s scope: writing classroom activity reports for the bulletin board and sending weekly newsletters and important updates to parents.&lt;/p&gt;</description></item><item><title>Vietnam Maritime Commercial Joint Stock Bank</title><link>http://localhost:1313/experience/job-1/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-1/</guid><description>&lt;p&gt;&lt;strong&gt;Operations Process Officer&lt;/strong&gt; · Sep 2017 – Oct 2019&lt;/p&gt;
 &lt;p&gt;Selected as 1 of 2 officers to lead process design for a bank-wide transformation migrating the entire customer service division from operations to specialised retail banking — owned procedure writing, staff training, department-wide newsletters, cross-department procedure reviews, and overtime-policy negotiations with HR.&lt;/p&gt;
-&lt;p&gt;Chosen as 1 of 3 department representatives on the bank&amp;rsquo;s core-system migration project, responsible for the payment account and savings account modules.&lt;/p&gt;</description></item><item><title>Academy of Finance, Hanoi</title><link>http://localhost:1313/education/university-of-life/</link><pubDate>Sun, 01 Aug 2010 00:00:00 +0200</pubDate><guid>http://localhost:1313/education/university-of-life/</guid><description/></item><item><title>General Accountant</title><link>http://localhost:1313/experience/job-5/</link><pubDate>Sat, 01 Aug 2009 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-5/</guid><description>&lt;h2 id="general-accountant--198-trading--services-co-ltd"&gt;General Accountant — 19.8 Trading &amp;amp; Services Co., Ltd.&lt;/h2&gt;
-&lt;p&gt;Managed accounts payable/receivable and prepared monthly financial statements. Reconciled bank statements and performed month-end closing procedures.&lt;/p&gt;</description></item><item><title>University of Labour &amp; Social Affairs (ULSA2)</title><link>http://localhost:1313/education/ulsa2/</link><pubDate>Mon, 01 Aug 2005 00:00:00 +0200</pubDate><guid>http://localhost:1313/education/ulsa2/</guid><description/></item><item><title>Buscar</title><link>http://localhost:1313/es/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/es/search/</guid><description>search</description></item><item><title>Footer</title><link>http://localhost:1313/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/footer/footer/</guid><description>&lt;section id="contact" class="section section--border-bottom rad-animation-group"&gt;
+&lt;p&gt;Chosen as 1 of 3 department representatives on the bank&amp;rsquo;s core-system migration project, owning quality control across operations teams of 5–10 staff and enforcing strict compliance with internal guidelines for the payment account and savings account modules.&lt;/p&gt;</description></item><item><title>Academy of Finance, Hanoi</title><link>http://localhost:1313/education/university-of-life/</link><pubDate>Sun, 01 Aug 2010 00:00:00 +0200</pubDate><guid>http://localhost:1313/education/university-of-life/</guid><description/></item><item><title>General Accountant</title><link>http://localhost:1313/experience/job-5/</link><pubDate>Sat, 01 Aug 2009 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/job-5/</guid><description>&lt;p&gt;Managed accounts payable/receivable and prepared monthly financial statements. Reconciled bank statements and performed month-end closing procedures.&lt;/p&gt;</description></item><item><title>University of Labour &amp; Social Affairs (ULSA2)</title><link>http://localhost:1313/education/ulsa2/</link><pubDate>Mon, 01 Aug 2005 00:00:00 +0200</pubDate><guid>http://localhost:1313/education/ulsa2/</guid><description/></item><item><title>Footer</title><link>http://localhost:1313/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/footer/footer/</guid><description>&lt;section id="contact" class="section section--border-bottom rad-animation-group"&gt;
  &lt;div class="container"&gt;
  &lt;div class="row rad-fade-down"&gt;
  &lt;div class="col-12 text-center"&gt;
- &lt;h2&gt;Get in touch&lt;/h2&gt;
- &lt;p class="lead mb-4"&gt;Feel free to reach out — I'm always open to new opportunities and conversations.&lt;/p&gt;
+ &lt;h2&gt;Let's build something together&lt;/h2&gt;
+ &lt;p class="lead mb-4"&gt;Open to software development internships and new opportunities — I reply fast and I'm easy to talk to.&lt;/p&gt;
  &lt;div class="d-flex flex-wrap justify-content-center gap-3"&gt;
  &lt;a href="mailto:thanhhachu87@gmail.com" class="btn btn-primary"&gt;
  &lt;i class="icon-email"&gt;&lt;/i&gt;&amp;nbsp; Email me
@@ -49,6 +22,10 @@
  &lt;i class="icon-square-github"&gt;&lt;/i&gt;&amp;nbsp; GitHub
  &lt;/a&gt;
  &lt;/div&gt;
+ &lt;p class="mt-3 mb-0 text-muted"&gt;
+ &lt;a href="tel:+46729473704" class="text-muted text-decoration-none"&gt;+46 72 947 37 04&lt;/a&gt;
+ &amp;nbsp;·&amp;nbsp; Karlskrona, Sweden
+ &lt;/p&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
@@ -65,7 +42,55 @@
  &lt;span&gt;Software Engineering Student — Building on 15+ Years of Cross-Industry Experience&lt;/span&gt;
  &lt;/h2&gt;
  &lt;div class="lead"&gt;
- Software Engineering student at &lt;strong&gt;Blekinge Institute of Technology (BTH)&lt;/strong&gt;, Sweden, transitioning into tech after a career spanning banking operations, finance, and early childhood education. Comfortable working across the stack — from backend services and databases to CI/CD, monitoring, and containerised deployments.
+ Software Engineering student at &lt;strong&gt;Blekinge Institute of Technology (BTH)&lt;/strong&gt;, Sweden, who ships working full-stack applications end-to-end. Delivered a production-grade monitoring framework for Ericsson that earned direct praise from the client team for technical quality, initiative, and professionalism — shaped by a career that already spans banking operations and early-childhood education.
+ &lt;/div&gt;
+ 
+ &lt;a
+ href="http://localhost:1313/cv/Thanh-Chu-CV-EN.pdf"
+ class="btn btn-primary"
+ target="_blank"
+ rel="noopener noreferrer"
+ &gt;
+ &lt;i class="icon-file-pdf"&gt;&lt;/i&gt;
+ See My CV
+ &lt;/a&gt;
+ 
+ &lt;div class="inner-content"&gt;
+ 
+
+
+
+
+
+&lt;div class="container"&gt;
+ &lt;div class="row platform-links shortcode"&gt;
+ &lt;div class="col-12"&gt;
+ 
+ 
+ &lt;a
+ href="https://www.linkedin.com/in/thanh-chu-06481b2ba"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="linkedin"
+ &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://github.com/Me-Bim-Bi"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-github"
+ &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
  &lt;/div&gt;
  
  &lt;/div&gt;
@@ -109,57 +134,10 @@
  /&gt;
  &lt;/picture&gt;
 
-
-
-
- &lt;/div&gt;
- &lt;div class="col-12 inner-content"&gt;
- 
-
-
-
-
-
-&lt;div class="container"&gt;
- &lt;div class="row platform-links shortcode"&gt;
- &lt;div class="col-12"&gt;
- 
- 
- &lt;a
- href="https://www.linkedin.com/in/thanh-chu-06481b2ba"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="linkedin"
- &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://github.com/Me-Bim-Bi"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="square-github"
- &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
-&lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-
-
-
- &lt;/div&gt;
- 
-
- &lt;/div&gt;
-
-
- &lt;div class="row platform-links"&gt;
- &lt;div class="col-12"&gt;&lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
- 
+
+ &lt;/div&gt;
 &lt;/section&gt;
 
 
@@ -205,14 +183,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_5ab8f0706d32817e.webp 1x, http://localhost:1313/images/about/user-picture_hu_d002c64a15dbdab1.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png 1x, http://localhost:1313/images/about/user-picture_hu_bd13866e68de8578.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_209e33b4bf860ac9.webp 1x, http://localhost:1313/images/about/user-picture_hu_334e8b6bfaa4ff98.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_feb6b6be87f5277a.png 1x, http://localhost:1313/images/about/user-picture_hu_14372bbf73bf3b1b.png 2x" type="image/png"&gt;
 
  &lt;img
- width="400"
- height="550"
+ width="509"
+ height="700"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png"
+ data-src="http://localhost:1313/images/about/user-picture_hu_feb6b6be87f5277a.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -224,7 +202,7 @@
  &lt;div class="col-12 col-md-6 my-auto"&gt;
  &lt;h2&gt;About me&lt;/h2&gt;
  &lt;div class="about-me content"&gt;
- I am a Software Engineering student at BTH, Sweden, transitioning into tech after 15+ years in banking, finance, and early childhood education. I bring a rare combination of hands-on coding skills, disciplined process thinking, and strong communication ability — proven by delivering a student project for Ericsson, leading client demos, and being personally selected to lead exercise sessions for first-year students.&lt;br/&gt;&lt;br/&gt;Comfortable working across the stack: backend services, databases, CI/CD, monitoring, and containerised deployments.
+ My path into software wasn't a straight line: eight years in banking operations in Vietnam, two years teaching preschool in Sweden, and now a Software Engineering degree at BTH — each stage sharpening a different edge I bring to a dev team.&lt;br/&gt;&lt;br/&gt;What that looks like in practice: I was trusted to co-own a bank-wide system migration before I ever wrote a line of production code, and I carried that same ownership into my first real engineering project — a monitoring framework built for Ericsson that earned direct praise from their team for technical quality and initiative. BTH's Mathematics Department later hand-picked me as 1 of just 3 students to lead exercise sessions for first-year students.&lt;br/&gt;&lt;br/&gt;Day to day, that means backend services, databases, CI/CD, monitoring, and containerised deployments — learned fast, and owned end-to-end.
  &lt;/div&gt;
  
  &lt;a href="http://localhost:1313/skills" class="btn btn-primary mt-3"&gt;
@@ -236,283 +214,8 @@
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/section&gt;
-
-
-
-
-
-&lt;section
- id="education"
- class="section section--border-bottom rad-animation-group"
-&gt;
- &lt;div class="container-education"&gt;
- &lt;div class="row rad-fade-down"&gt;
- &lt;div class="col-12"&gt;
- &lt;h2&gt;Education&lt;/h2&gt;
- &lt;div class="row pt-2 pt-md-4"&gt;
- &lt;div class="col-12 col-sm-6 mb-4"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;Aug 2024 – Present&lt;/div&gt;
- &lt;div class="education__title"&gt;Blekinge Institute of Technology (BTH)&lt;/div&gt;
- &lt;div class="education__degree"&gt;Bachelor&amp;#39;s Degree, Software Engineering&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="col-12 col-sm-6 mb-4"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;Aug 2010 – Jun 2012&lt;/div&gt;
- &lt;div class="education__title"&gt;Academy of Finance, Hanoi, Vietnam&lt;/div&gt;
- &lt;div class="education__degree"&gt;Master&amp;#39;s Degree, Finance and Banking&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="col-12 col-sm-6 mb-4"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;Aug 2005 – Jun 2009&lt;/div&gt;
- &lt;div class="education__title"&gt;University of Labour &amp;amp; Social Affairs (ULSA2), Hanoi, Vietnam&lt;/div&gt;
- &lt;div class="education__degree"&gt;Bachelor&amp;#39;s Degree, Accounting&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-
-
-
-
-
-
-
- 
- 
- 
- 
- 
-
-
-&lt;section id="experience-single" class="section-experience section section--border-bottom rad-animation-group flex-grow-1"&gt;
- &lt;div class="row flex-column-reverse flex-md-row rad-fade-down"&gt;
- &lt;div class="experience-list col-12 col-md-6"&gt;
- &lt;h2&gt;
- 
- My experience
- 
- &lt;/h2&gt;
-
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-3/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;Autumn 2026 – Present&lt;/div&gt;
- &lt;div class="experience__title"&gt;Mathematics Exercise Leader&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Blekinge Institute of Technology (BTH).
- &lt;span class="experience__location"&gt;Karlskrona, Sweden&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Exercise Session Leader&lt;/h1&gt;
- Mathematics Exercise Leader — Discrete Mathematics &amp;amp; Algorithms Personally recommended by the course lecturer to the Head of the Mathematics Department and selected as 1 of only 3 students trusted to lead weekly exercise sessions for first-year students.
-Co-designing the exercise curriculum from scratch, pacing it to the lectures and shaping it around student feedback to give first-years the best possible route into the subject.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-4/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;Jun 2025 – Aug 2025&lt;/div&gt;
- &lt;div class="experience__title"&gt;Cashier&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Lee Baguette.
- &lt;span class="experience__location"&gt;Karlskrona, Sweden&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Cashier&lt;/h1&gt;
- Cashier — Lee Baguette Assisted customers with menu selections and special requests. Processed transactions accurately and efficiently while maintaining a clean, organised checkout area.
-Kept service fast and reliable through the busy weekday lunch rush and peak summer tourist season, when customers needed to be served quickly to get back to work on time.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-2/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2022–2024&lt;/div&gt;
- &lt;div class="experience__title"&gt;Preschool Teacher&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Rödeby Förskola Tallbacken.
- &lt;span class="experience__location"&gt;Karlskrona, Sweden&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Preschool Teacher&lt;/h1&gt;
- Preschool Teacher — Rödeby Förskola Tallbacken, Sweden (Sep 2022 – Aug 2024) Designed engaging lesson plans tailored to diverse learning styles and developmental needs. Facilitated daily classroom activities to build social skills and cooperation among children. Collaborated with parents on child progress and supported fellow teachers with planning and classroom management.
-Trusted with responsibilities beyond the role&amp;rsquo;s scope: writing classroom activity reports for the bulletin board and sending weekly newsletters and important updates to parents.
-Selected by school leadership to co-plan and manage summer operations during the weeks when three preschools merged into one due to lower attendance.
-Substitute Preschool Teacher · Karlskrona Kommun · May 2022 – Aug 2022
-Covered teacher absences across multiple kindergartens, delivering the same responsibilities as a full-time preschool teacher on short notice.
-Converted from a two-week trial to a direct contract at Tallbackens Förskola, going on to work there for two years as a permanent Preschool Teacher.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-1/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2011–2019&lt;/div&gt;
- &lt;div class="experience__title"&gt;Bank Officer&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Vietnam Maritime Commercial Joint Stock Bank (MSB).
- &lt;span class="experience__location"&gt;Hanoi, Vietnam&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Vietnam Maritime Commercial Joint Stock Bank&lt;/h1&gt;
- Vietnam Maritime Commercial Joint Stock Bank — 8 Years (2011–2019) Operations Process Officer · Sep 2017 – Oct 2019
-Selected as 1 of 2 officers to lead process design for a bank-wide transformation migrating the entire customer service division from operations to specialised retail banking — owned procedure writing, staff training, department-wide newsletters, cross-department procedure reviews, and overtime-policy negotiations with HR.
-Chosen as 1 of 3 department representatives on the bank&amp;rsquo;s core-system migration project, responsible for the payment account and savings account modules.
-Controller · Apr 2015 – Sep 2017
-Controlled operations for the Head Office Transaction Center and Hùng Vương branch — the bank&amp;rsquo;s highest-volume site and pilot location for new product launches, serving major corporate clients and financial institutions.
-Ranked top-performing Controller in the region every year, sustaining 150–200% productivity, and served as the right hand to the Regional Customer Service Director.
-Trained staff on updated procedures and supported system testing during software updates and server restarts.
-Bank Teller · Oct 2011 – Apr 2015
-Top-performing Teller in the Cầu Giấy region (2011–2012); entrusted with the bank&amp;rsquo;s newest product lines, including bonds and gold trading.
-Passed the competitive Controller examination in 2013. Processed deposits, withdrawals, and foreign currency exchange; maintained cash drawer accuracy through daily reconciliation.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-5/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;Aug 2009 – Oct 2011&lt;/div&gt;
- &lt;div class="experience__title"&gt;General Accountant&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- 19.8 Trading &amp;amp; Services Co., Ltd..
- &lt;span class="experience__location"&gt;Hanoi, Vietnam&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;General Accountant&lt;/h1&gt;
- General Accountant — 19.8 Trading &amp;amp; Services Co., Ltd. Managed accounts payable/receivable and prepared monthly financial statements. Reconciled bank statements and performed month-end closing procedures.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
-
- 
- &lt;/div&gt;
- &lt;div class="experience-description col-12 col-md-6"&gt;
- 
- 
-
-
-
-
-
-
-
-
-
-&lt;div class="container-experience"&gt;
- &lt;div class="row"&gt;
- &lt;h2&gt;15&amp;#43; Years of Cross-Industry Experience&lt;/h2&gt;
- &lt;div class="lead"&gt;From banking operations and finance in Vietnam to early childhood education and software engineering in Sweden — I bring diverse, real-world experience to every project.&lt;/div&gt;
- &lt;/div&gt;
-
- &lt;div class="row"&gt;
- 
- &lt;div class="col-12 col-lg-4"&gt;
- &lt;a
- href='https://www.linkedin.com/in/thanh-chu-06481b2ba'
- class="btn btn-primary btn-block w-100"
- target="_blank"
- rel="noopener noreferrer"
- &gt;
- &lt;i class="icon-linkedin"&gt;&lt;/i&gt;
- LinkedIn
- &lt;i class="icon-arrow-right"&gt;&lt;/i&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
-
- 
-
- 
- &lt;/div&gt;
-&lt;/div&gt;
-
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-
-
-
-
-
-&lt;section id="client-and-work-section" class="section section--border-bottom"&gt;
- &lt;div class="client-works-container"&gt;
- &lt;h2 class="rad-animation-group rad-fade-down"&gt;
- Selected Projects
- &lt;/h2&gt;
- &lt;div class="row row--padded rad-animation-group rad-fade-down"&gt;
- &lt;div class="col-12"&gt;
- &lt;div class="clients"&gt;
- 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- 
- 
- 
- 
- &lt;div
- class="row row--padded rad-animation-group rad-fade-down 
- flex-column-reverse flex-md-row even-row"
- &gt;
- 
- &lt;div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto even"&gt;
- &lt;h3&gt;Continuous Performance Monitoring Framework&lt;/h3&gt;
- &lt;div class="lead"&gt;
- &lt;p&gt;&lt;strong&gt;Student project for Ericsson, Karlskrona&lt;/strong&gt; · Team of 5 · Feb – May 2026 · &lt;strong&gt;Grade A&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Printable CV — Thanh Chu</title><link>http://localhost:1313/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/cv/</guid><description>&lt;h3 id="about-me"&gt;About me&lt;/h3&gt;
-&lt;p&gt;I am a Software Engineering student at Blekinge Institute of Technology (BTH), Sweden, transitioning into tech after a career spanning banking operations, finance, and early childhood education. I bring a rare combination of hands-on coding skills, disciplined process thinking, and strong communication ability — proven by delivering a student project for Ericsson, leading client demos, and being personally selected to lead exercise sessions for first-year students. Comfortable working across the stack, from backend services and databases to CI/CD, monitoring, and containerised deployments.&lt;/p&gt;</description></item><item><title>Search</title><link>http://localhost:1313/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/search/</guid><description>search</description></item><item><title>Search Hidden Content</title><link>http://localhost:1313/search-optout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/search-optout/</guid><description>&lt;p&gt;This content should never appear in search results. Unique keyword: omitfromsearch.&lt;/p&gt;</description></item></channel></rss>
+&lt;section id="skills-teaser" class="section rad-animation-group pb-0"&gt;
+ &lt;div class="container text-center rad-fade-down"&gt;
+ &lt;h2&gt;Technical Skills&lt;/h2&gt;
+ &lt;p class="lead mb-4"&gt;The tools I reach for most — self-taught, production-tested, and growing every sprint.&lt;/p&gt;</description></item><item><title>Printable CV — Thanh Chu</title><link>http://localhost:1313/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/cv/</guid><description>&lt;h3 id="about-me"&gt;About me&lt;/h3&gt;
+&lt;p&gt;Results-driven Software Engineering student at Blekinge Institute of Technology (BTH), Sweden, who ships working full-stack applications, not just coursework. Delivered a production-grade monitoring framework for Ericsson that earned direct praise from the client team for technical quality, initiative, and professionalism. Brings 15+ years of prior professional discipline — leading quality control at a bank and instructing in Swedish classrooms — into a fast, hands-on approach to learning new technologies and owning problems end-to-end.&lt;/p&gt;</description></item><item><title>Search</title><link>http://localhost:1313/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/search/</guid><description>search</description></item><item><title>Search Hidden Content</title><link>http://localhost:1313/search-optout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/search-optout/</guid><description>&lt;p&gt;This content should never appear in search results. Unique keyword: omitfromsearch.&lt;/p&gt;</description></item></channel></rss>

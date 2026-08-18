@@ -1,0 +1,64 @@
+{{ define "main" }}
+<section id="main-content" tabindex="-1" class="site-projects-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h1 class="site-projects-title">{{ .Title }}</h1>
+        <div class="site-projects-description">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+
+    {{ range .Pages.ByDate.Reverse }}
+    <article class="project-card" id="{{ .File.ContentBaseName }}">
+      <div class="project-card__media{{ if eq .Params.image.fit "contain" }} project-card__media--contain{{ end }}">
+        {{ partial "lazypicture" (dict "src" .Params.image.src "scale" .Params.image.scale "class" "project-card__img" "alt" .Title) }}
+      </div>
+      <div class="project-card__body">
+        <h2 class="project-card__title">{{ .Title }}</h2>
+        {{ with .Params.meta }}<p class="project-card__meta">{{ . }}</p>{{ end }}
+        <div class="project-card__lead">{{ .Content }}</div>
+
+        {{ with .Params.highlights }}
+        <ul class="project-card__highlights">
+          {{ range . }}<li>{{ . }}</li>{{ end }}
+        </ul>
+        {{ end }}
+
+        {{ with .Params.testimonial }}
+        <blockquote class="project-card__quote">
+          <p>&ldquo;{{ .quote }}&rdquo;</p>
+          {{ with .attribution }}<cite>{{ . }}</cite>{{ end }}
+        </blockquote>
+        {{ end }}
+
+        {{ with .Params.gallery }}
+        <div class="project-card__gallery">
+          {{ range . }}
+          <figure class="project-card__gallery-item">
+            {{ partial "lazypicture" (dict "src" .src "scale" .scale "class" "project-card__gallery-img" "alt" .caption) }}
+            {{ with .caption }}<figcaption>{{ . }}</figcaption>{{ end }}
+          </figure>
+          {{ end }}
+        </div>
+        {{ end }}
+
+        {{ with .Params.stack }}
+        <div class="project-card__stack">
+          {{ range . }}<span class="badge rounded-pill bg-primary-subtle text-primary-emphasis">{{ . }}</span>{{ end }}
+        </div>
+        {{ end }}
+
+        {{ with .Params.button }}
+        <a href="{{ .URL | absURL }}" class="btn btn-primary project-card__cta"{{ if not (strings.Contains .URL "/cv") }} target="_blank" rel="noopener"{{ end }}>
+          {{ with .icon }}<i class="{{ . }}" aria-hidden="true"></i>{{ end }}
+          {{ .btnText }}
+        </a>
+        {{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

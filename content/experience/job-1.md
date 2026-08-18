@@ -2,19 +2,17 @@
 date: 2017-09-01T00:00:00+01:00
 draft: false
 title: "Vietnam Maritime Commercial Joint Stock Bank"
-jobTitle: "Bank Officer"
+jobTitle: "Operations Officer & Controller"
 company: "Vietnam Maritime Commercial Joint Stock Bank (MSB)"
 location: "Hanoi, Vietnam"
 duration: "2011–2019"
 
 ---
-## Vietnam Maritime Commercial Joint Stock Bank — 8 Years (2011–2019)
-
 **Operations Process Officer** · Sep 2017 – Oct 2019
 
 Selected as 1 of 2 officers to lead process design for a bank-wide transformation migrating the entire customer service division from operations to specialised retail banking — owned procedure writing, staff training, department-wide newsletters, cross-department procedure reviews, and overtime-policy negotiations with HR.
 
-Chosen as 1 of 3 department representatives on the bank's core-system migration project, responsible for the payment account and savings account modules.
+Chosen as 1 of 3 department representatives on the bank's core-system migration project, owning quality control across operations teams of 5–10 staff and enforcing strict compliance with internal guidelines for the payment account and savings account modules.
 
 ---
 

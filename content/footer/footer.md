@@ -8,8 +8,8 @@ draft = false
   <div class="container">
     <div class="row rad-fade-down">
       <div class="col-12 text-center">
-        <h2>Get in touch</h2>
-        <p class="lead mb-4">Feel free to reach out — I'm always open to new opportunities and conversations.</p>
+        <h2>Let's build something together</h2>
+        <p class="lead mb-4">Open to software development internships and new opportunities — I reply fast and I'm easy to talk to.</p>
         <div class="d-flex flex-wrap justify-content-center gap-3">
           <a href="mailto:thanhhachu87@gmail.com" class="btn btn-primary">
             <i class="icon-email"></i>&nbsp; Email me
@@ -21,6 +21,10 @@ draft = false
             <i class="icon-square-github"></i>&nbsp; GitHub
           </a>
         </div>
+        <p class="mt-3 mb-0 text-muted">
+          <a href="tel:+46729473704" class="text-muted text-decoration-none">+46 72 947 37 04</a>
+          &nbsp;·&nbsp; Karlskrona, Sweden
+        </p>
       </div>
     </div>
   </div>

@@ -1,41 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thanh Chu — Mjukvaruingenjörsstudent</title><link>http://localhost:1313/sv/</link><description>Recent content on Thanh Chu — Mjukvaruingenjörsstudent</description><generator>Hugo</generator><language>sv</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/sv/index.xml" rel="self" type="application/rss+xml"/><item><title>Övningsledare i Matematik</title><link>http://localhost:1313/sv/experience/job-3/</link><pubDate>Sat, 01 Aug 2026 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-3/</guid><description>&lt;h2 id="mathematics-exercise-leader--diskret-matematik--algoritmer"&gt;Mathematics Exercise Leader — Diskret matematik &amp;amp; Algoritmer&lt;/h2&gt;
-&lt;p&gt;Personligen rekommenderad av kursläraren till matematikavdelningens chef och utvald som en av endast 3 studenter som leder veckovisa övningssessioner för förstaårsstudenter.&lt;/p&gt;
-&lt;p&gt;Medverkar i att utforma övningskurrikulumet från grunden, anpassar det till föreläsningarna och formar det utifrån studentfeedback för att ge nybörjare den bästa möjliga introduktionen till ämnet.&lt;/p&gt;</description></item><item><title>Kontinuerligt prestandaövervakningsramverk</title><link>http://localhost:1313/sv/projects/swiss-fintech/</link><pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/projects/swiss-fintech/</guid><description>&lt;p&gt;&lt;strong&gt;Studentprojekt för Ericsson, Karlskrona&lt;/strong&gt; · Team om 5 · Feb – maj 2026 · &lt;strong&gt;Betyg A&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Ett återkopplingsbaserat ramverk för kontinuerlig prestandaövervakning — detekterar mättnadspunkter, spårar trender och visualiserar systemhälsa i realtid.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Byggde ett återkopplingsbaserat lasttestningsramverk i Python med Locust&lt;/li&gt;
-&lt;li&gt;Automatiserade mättnadsdetektering, trendrapportering och historiklagring i SQLite&lt;/li&gt;
-&lt;li&gt;Containeriserade systemet med Docker/Minikube; byggde live-dashboardar i Grafana och Prometheus&lt;/li&gt;
-&lt;li&gt;Agerade som projektägare under de första och sista sprintarna; bidrog med kod och granskningar i nästan alla moduler&lt;/li&gt;
-&lt;li&gt;Genomförde alla klient- och akademiska demos som huvudpresentatör&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Källkoden finns på Ericssons interna GitLab och kan inte delas offentligt enligt Ericssons sekretesspolicy.&lt;/p&gt;</description></item><item><title>Grafedigerare</title><link>http://localhost:1313/sv/projects/robo-advisor/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/projects/robo-advisor/</guid><description>&lt;p&gt;&lt;strong&gt;Individuellt projekt&lt;/strong&gt; · &lt;strong&gt;Betyg A&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;En interaktiv grafvisualiserare och -redigerare för att skapa, utforska och analysera nätverk som kunskapsgrafer, beroenden och sociala interaktioner.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Designade och byggde en interaktiv grafvisualiserare/-redigerare för kunskaps- och beroendegrafer&lt;/li&gt;
-&lt;li&gt;Implementerade ett TypeScript-gränssnitt med Neo4j-frågor i bakgrunden&lt;/li&gt;
-&lt;li&gt;Lärde sig Neo4j och TypeScript från grunden för detta projekt och levererade ett fullt fungerande verktyg&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; JavaScript, TypeScript, Neo4j&lt;/p&gt;</description></item><item><title>Kassör</title><link>http://localhost:1313/sv/experience/job-4/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-4/</guid><description>&lt;h2 id="kassör--lee-baguette"&gt;Kassör — Lee Baguette&lt;/h2&gt;
-&lt;p&gt;Hjälpte kunder med menyval och specialönskemål. Hanterade transaktioner noggrant och effektivt med ett välorganiserat kassaområde.&lt;/p&gt;
-&lt;p&gt;Upprätthöll snabb och pålitlig service under den hektiska lunchrushen på vardagar och under högsäsongen på sommaren.&lt;/p&gt;</description></item><item><title>Restaurangbeställningssystem &amp; Köksdashboard</title><link>http://localhost:1313/sv/projects/radity-finance-uikit/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/projects/radity-finance-uikit/</guid><description>&lt;p&gt;&lt;strong&gt;Team om 5 (förstaårsprojekt)&lt;/strong&gt; · &lt;strong&gt;Betyg A&lt;/strong&gt; (individuellt &amp;amp; team)&lt;/p&gt;
-&lt;p&gt;En liten beställningswebbplats för kunder, tillsammans med en köksdashboard för att spåra inkommande beställningar och markera dem som klara.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Byggde en Flask-beställningssajt och en realtidsköksdashboard för orderhantering&lt;/li&gt;
-&lt;li&gt;Testad med pytest och levererad i Docker&lt;/li&gt;
-&lt;li&gt;Ledde planering och rapportering och bidrog med kod i nästan varje del av projektet&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Python, Flask, SQLite, pytest, Docker&lt;/p&gt;</description></item><item><title>Blekinge Tekniska Högskola (BTH)</title><link>http://localhost:1313/sv/education/high-school/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/education/high-school/</guid><description/></item><item><title>Förskollärare</title><link>http://localhost:1313/sv/experience/job-2/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-2/</guid><description>&lt;h2 id="förskollärare--rödeby-förskola-tallbacken-sep-2022--aug-2024"&gt;Förskollärare — Rödeby Förskola Tallbacken (Sep 2022 – Aug 2024)&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thanh Chu — Mjukvaruingenjörsstudent</title><link>http://localhost:1313/sv/</link><description>Recent content on Thanh Chu — Mjukvaruingenjörsstudent</description><generator>Hugo</generator><language>sv</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/sv/index.xml" rel="self" type="application/rss+xml"/><item><title>Övningsledare i Matematik</title><link>http://localhost:1313/sv/experience/job-3/</link><pubDate>Sat, 01 Aug 2026 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-3/</guid><description>&lt;p&gt;Personligen rekommenderad av läraren i Diskret matematik &amp;amp; Algoritmer till matematikinstitutionens chef, och handplockad som en av endast 3 studenter som fick förtroendet att leda veckovisa övningspass för förstaårsstudenter.&lt;/p&gt;
+&lt;p&gt;Medverkar i att utforma övningskurrikulumet från grunden, anpassar det till föreläsningarna och formar det utifrån studentfeedback för att ge nybörjare bästa möjliga introduktion till ämnet.&lt;/p&gt;</description></item><item><title>Prestandaövervakningsramverk för Ericsson</title><link>http://localhost:1313/sv/projects/performance-monitoring-framework/</link><pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/projects/performance-monitoring-framework/</guid><description>Ett realtidsövervakningsramverk byggt för Ericssons utvecklingsteam — upptäcker prestandaproblem innan de blir incidenter.</description></item><item><title>Grafedigerare</title><link>http://localhost:1313/sv/projects/graph-editor/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/projects/graph-editor/</guid><description>En interaktiv grafvisualiserare, byggd på egen hand — tre nya tekniker lärda från grunden för att kunna leverera den.</description></item><item><title>Kassör</title><link>http://localhost:1313/sv/experience/job-4/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-4/</guid><description>&lt;p&gt;Hjälpte kunder med menyval och specialönskemål. Hanterade transaktioner noggrant och effektivt med ett välorganiserat kassaområde.&lt;/p&gt;
+&lt;p&gt;Upprätthöll snabb och pålitlig service under den hektiska lunchrushen på vardagar och under högsäsongen på sommaren.&lt;/p&gt;</description></item><item><title>Restaurangbeställningssystem &amp; Köksdashboard</title><link>http://localhost:1313/sv/projects/burger-order/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/projects/burger-order/</guid><description>En fullstack-beställningsplattform med en kökspanel i realtid — teamets första produktionslika leverans.</description></item><item><title>Blekinge Tekniska Högskola (BTH)</title><link>http://localhost:1313/sv/education/high-school/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/education/high-school/</guid><description/></item><item><title>Förskollärare</title><link>http://localhost:1313/sv/experience/job-2/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-2/</guid><description>&lt;p&gt;&lt;strong&gt;Förskollärare&lt;/strong&gt; · Rödeby Förskola Tallbacken · Sep 2022 – Aug 2024&lt;/p&gt;
 &lt;p&gt;Utformade engagerande lektionsplaner anpassade till olika inlärningsstilar och utvecklingsbehov. Ledde dagliga klassrumsaktiviteter för att bygga sociala färdigheter och samarbetsförmåga bland barnen. Samarbetade med föräldrar om barnens framsteg och stöttade kollegor med planering och klassrumshantering.&lt;/p&gt;
 &lt;p&gt;Anförtrodd ansvar utöver rollens räckvidd: skrev aktivitetsrapporter till anslagstavlan och skickade veckobrev och viktig information till föräldrar.&lt;/p&gt;
-&lt;p&gt;Vald av skolledningen för att sam-planera och leda sommarverksamheten under veckorna då tre förskolor slogs ihop till en på grund av lägre närvaro.&lt;/p&gt;</description></item><item><title>Vietnam Maritime Commercial Joint Stock Bank</title><link>http://localhost:1313/sv/experience/job-1/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-1/</guid><description>&lt;h2 id="vietnam-maritime-commercial-joint-stock-bank--8-år-20092019"&gt;Vietnam Maritime Commercial Joint Stock Bank — 8 år (2009–2019)&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Driftsprocessansvarig&lt;/strong&gt; · Sep 2017 – Okt 2019&lt;/p&gt;
+&lt;p&gt;Vald av skolledningen för att sam-planera och leda sommarverksamheten under veckorna då tre förskolor slogs ihop till en på grund av lägre närvaro.&lt;/p&gt;</description></item><item><title>Vietnam Maritime Commercial Joint Stock Bank</title><link>http://localhost:1313/sv/experience/job-1/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-1/</guid><description>&lt;p&gt;&lt;strong&gt;Driftsprocessansvarig&lt;/strong&gt; · Sep 2017 – Okt 2019&lt;/p&gt;
 &lt;p&gt;Utsedd till en av 2 ansvariga för att leda processdesign för en bankövergripande transformation som migrerade hela kundtjänstavdelningen från operativ drift till specialiserad privatbanksverksamhet — ansvarade för processkrivning, personalutbildning, avdelningsövergripande nyhetsbrev, tvärfunktionella procedurgranskningar och övertidspolicydiskussioner med HR.&lt;/p&gt;
-&lt;p&gt;Vald som en av 3 avdelningsrepresentanter i bankens kärnssystemsmigrationsprojekt, ansvarig för modulerna betalningskonton och sparkonton.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Controller&lt;/strong&gt; · Apr 2015 – Sep 2017&lt;/p&gt;</description></item><item><title>Finanshögskolan, Hanoi</title><link>http://localhost:1313/sv/education/university-of-life/</link><pubDate>Sun, 01 Aug 2010 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/education/university-of-life/</guid><description/></item><item><title>Redovisningsekonom</title><link>http://localhost:1313/sv/experience/job-5/</link><pubDate>Sat, 01 Aug 2009 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-5/</guid><description>&lt;h2 id="redovisningsekonom--198-trading--services-co-ltd"&gt;Redovisningsekonom — 19.8 Trading &amp;amp; Services Co., Ltd.&lt;/h2&gt;
-&lt;p&gt;Hanterade leverantörsskulder/kundfordringar och upprättade månadsresultaträkningar. Stämde av bankutdrag och genomförde bokslutsprocedurer vid månadsslut.&lt;/p&gt;</description></item><item><title>Högskolan för Arbete &amp; Sociala Frågor (ULSA2)</title><link>http://localhost:1313/sv/education/ulsa2/</link><pubDate>Mon, 01 Aug 2005 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/education/ulsa2/</guid><description/></item><item><title>Hem</title><link>http://localhost:1313/sv/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/sv/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+&lt;p&gt;Vald som en av 3 avdelningsrepresentanter i bankens kärnsystemsmigrationsprojekt, med ansvar för kvalitetskontroll i team på 5–10 medarbetare och strikt efterlevnad av interna riktlinjer för modulerna betalningskonton och sparkonton.&lt;/p&gt;</description></item><item><title>Finanshögskolan, Hanoi</title><link>http://localhost:1313/sv/education/university-of-life/</link><pubDate>Sun, 01 Aug 2010 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/education/university-of-life/</guid><description/></item><item><title>Redovisningsekonom</title><link>http://localhost:1313/sv/experience/job-5/</link><pubDate>Sat, 01 Aug 2009 00:00:00 +0100</pubDate><guid>http://localhost:1313/sv/experience/job-5/</guid><description>&lt;p&gt;Hanterade leverantörsskulder/kundfordringar och upprättade månadsresultaträkningar. Stämde av bankutdrag och genomförde bokslutsprocedurer vid månadsslut.&lt;/p&gt;</description></item><item><title>Högskolan för Arbete &amp; Sociala Frågor (ULSA2)</title><link>http://localhost:1313/sv/education/ulsa2/</link><pubDate>Mon, 01 Aug 2005 00:00:00 +0200</pubDate><guid>http://localhost:1313/sv/education/ulsa2/</guid><description/></item><item><title>Hem</title><link>http://localhost:1313/sv/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/sv/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
  &lt;div&gt;
  
 
@@ -45,10 +15,58 @@
  Thanh Chu
  &lt;/h1&gt;
  &lt;h2 class="display-5"&gt;
- &lt;span&gt;Mjukvaruingenjörsstudent — Bygger på 15+ Års Erfarenhet från Olika Branscher&lt;/span&gt;
+ &lt;span&gt;Mjukvaruingenjörsstudent — Bygger Vidare på 15+ Års Branschöverskridande Erfarenhet&lt;/span&gt;
  &lt;/h2&gt;
  &lt;div class="lead"&gt;
- Mjukvaruingenjörsstudent vid &lt;strong&gt;Blekinge Tekniska Högskola (BTH)&lt;/strong&gt;, Sverige, på väg in i teknikbranschen efter en karriär inom bankverksamhet, finans och förskoleundervisning. Bekväm med att arbeta i hela stacken — från backend-tjänster och databaser till CI/CD, övervakning och containeriserade driftsättningar.
+ Mjukvaruingenjörsstudent vid &lt;strong&gt;Blekinge Tekniska Högskola (BTH)&lt;/strong&gt;, Sverige, som levererar fungerande fullstack-applikationer från start till mål. Levererade ett produktionsnära övervakningsramverk åt Ericsson som fick direkt beröm från kundens team för teknisk kvalitet, initiativförmåga och professionalism — präglad av en karriär som redan spänner över både bank och förskoleundervisning.
+ &lt;/div&gt;
+ 
+ &lt;a
+ href="http://localhost:1313/cv/Thanh-Chu-CV-SV.pdf"
+ class="btn btn-primary"
+ target="_blank"
+ rel="noopener noreferrer"
+ &gt;
+ &lt;i class="icon-file-pdf"&gt;&lt;/i&gt;
+ Se Mitt CV
+ &lt;/a&gt;
+ 
+ &lt;div class="inner-content"&gt;
+ 
+
+
+
+
+
+&lt;div class="container"&gt;
+ &lt;div class="row platform-links shortcode"&gt;
+ &lt;div class="col-12"&gt;
+ 
+ 
+ &lt;a
+ href="https://www.linkedin.com/in/thanh-chu-06481b2ba"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="linkedin"
+ &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://github.com/Me-Bim-Bi"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-github"
+ &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
  &lt;/div&gt;
  
  &lt;/div&gt;
@@ -92,57 +110,10 @@
  /&gt;
  &lt;/picture&gt;
 
-
-
-
- &lt;/div&gt;
- &lt;div class="col-12 inner-content"&gt;
- 
-
-
-
-
-
-&lt;div class="container"&gt;
- &lt;div class="row platform-links shortcode"&gt;
- &lt;div class="col-12"&gt;
- 
- 
- &lt;a
- href="https://www.linkedin.com/in/thanh-chu-06481b2ba"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="linkedin"
- &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://github.com/Me-Bim-Bi"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="square-github"
- &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
-&lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-
-
-
- &lt;/div&gt;
- 
-
- &lt;/div&gt;
-
-
- &lt;div class="row platform-links"&gt;
- &lt;div class="col-12"&gt;&lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
- 
+
+ &lt;/div&gt;
 &lt;/section&gt;
 
 
@@ -188,14 +159,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_5ab8f0706d32817e.webp 1x, http://localhost:1313/images/about/user-picture_hu_d002c64a15dbdab1.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png 1x, http://localhost:1313/images/about/user-picture_hu_bd13866e68de8578.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_209e33b4bf860ac9.webp 1x, http://localhost:1313/images/about/user-picture_hu_334e8b6bfaa4ff98.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_feb6b6be87f5277a.png 1x, http://localhost:1313/images/about/user-picture_hu_14372bbf73bf3b1b.png 2x" type="image/png"&gt;
 
  &lt;img
- width="400"
- height="550"
+ width="509"
+ height="700"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png"
+ data-src="http://localhost:1313/images/about/user-picture_hu_feb6b6be87f5277a.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -207,7 +178,7 @@
  &lt;div class="col-12 col-md-6 my-auto"&gt;
  &lt;h2&gt;Om mig&lt;/h2&gt;
  &lt;div class="about-me content"&gt;
- Jag är mjukvaruingenjörsstudent vid BTH, Sverige, och byter bransch till teknik efter 15+ år inom bankverksamhet, finans och förskoleundervisning. Jag kombinerar praktiska kodningsfärdigheter, disciplinerat processtänkande och stark kommunikationsförmåga — bevisat genom att leverera ett studentprojekt för Ericsson, leda klientdemos och bli personligen utvald att leda övningssessioner för förstaårsstudenter.&lt;br/&gt;&lt;br/&gt;Bekväm med att arbeta i hela stacken: backend-tjänster, databaser, CI/CD, övervakning och containeriserade driftsättningar.
+ Min väg in i mjukvarubranschen var inte spikrak: åtta år inom bankverksamhet i Vietnam, två år som förskollärare i Sverige, och nu en utbildning i mjukvaruteknik vid BTH — varje steg har slipat en ny sida som jag tar med mig till ett utvecklarteam.&lt;br/&gt;&lt;br/&gt;Vad det innebär i praktiken: jag fick förtroendet att vara med och äga en bankomfattande systemmigrering innan jag någonsin skrivit en rad produktionskod, och jag tog med mig samma ägarskap in i mitt första riktiga ingenjörsprojekt — ett övervakningsramverk byggt åt Ericsson som fick direkt beröm från deras team för teknisk kvalitet och initiativförmåga. BTH:s matematikinstitution handplockade mig senare som en av bara tre studenter som fick leda övningspass för förstaårsstudenter.&lt;br/&gt;&lt;br/&gt;I vardagen betyder det backend-tjänster, databaser, CI/CD, övervakning och containeriserade driftsättningar — inlärt snabbt och ägt från start till mål.
  &lt;/div&gt;
  
  &lt;a href="http://localhost:1313/sv/skills" class="btn btn-primary mt-3"&gt;
@@ -219,287 +190,15 @@
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/section&gt;
-
-
-
-
-
-&lt;section
- id="education"
- class="section section--border-bottom rad-animation-group"
-&gt;
- &lt;div class="container-education"&gt;
- &lt;div class="row rad-fade-down"&gt;
- &lt;div class="col-12"&gt;
- &lt;h2&gt;Utbildning&lt;/h2&gt;
- &lt;div class="row pt-2 pt-md-4"&gt;
- &lt;div class="col-12 col-sm-6 mb-4"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;Aug 2024 – Nu&lt;/div&gt;
- &lt;div class="education__title"&gt;Blekinge Tekniska Högskola (BTH)&lt;/div&gt;
- &lt;div class="education__degree"&gt;Kandidatexamen, Mjukvaruteknik&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="col-12 col-sm-6 mb-4"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;Aug 2010 – Jun 2012&lt;/div&gt;
- &lt;div class="education__title"&gt;Finanshögskolan (Academy of Finance), Hanoi, Vietnam&lt;/div&gt;
- &lt;div class="education__degree"&gt;Masterexamen, Finans och Bankväsende&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="col-12 col-sm-6 mb-4"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;Aug 2005 – Jun 2009&lt;/div&gt;
- &lt;div class="education__title"&gt;Högskolan för Arbete &amp;amp; Sociala Frågor (ULSA2), Hanoi, Vietnam&lt;/div&gt;
- &lt;div class="education__degree"&gt;Kandidatexamen, Redovisning&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-
-
-
-
-
-
-
- 
- 
- 
- 
- 
-
-
-&lt;section id="experience-single" class="section-experience section section--border-bottom rad-animation-group flex-grow-1"&gt;
- &lt;div class="row flex-column-reverse flex-md-row rad-fade-down"&gt;
- &lt;div class="experience-list col-12 col-md-6"&gt;
- &lt;h2&gt;
- 
- Min erfarenhet
- 
- &lt;/h2&gt;
-
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/sv/experience/job-3/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;Höst 2026 – Nu&lt;/div&gt;
- &lt;div class="experience__title"&gt;Mathematics Exercise Leader&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Blekinge Tekniska Högskola (BTH).
- &lt;span class="experience__location"&gt;Karlskrona, Sverige&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Övningsledare i Matematik&lt;/h1&gt;
- Mathematics Exercise Leader — Diskret matematik &amp;amp; Algoritmer Personligen rekommenderad av kursläraren till matematikavdelningens chef och utvald som en av endast 3 studenter som leder veckovisa övningssessioner för förstaårsstudenter.
-Medverkar i att utforma övningskurrikulumet från grunden, anpassar det till föreläsningarna och formar det utifrån studentfeedback för att ge nybörjare den bästa möjliga introduktionen till ämnet.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/sv/experience/job-4/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;Jun 2025 – Aug 2025&lt;/div&gt;
- &lt;div class="experience__title"&gt;Kassör&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Lee Baguette.
- &lt;span class="experience__location"&gt;Karlskrona, Sverige&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Kassör&lt;/h1&gt;
- Kassör — Lee Baguette Hjälpte kunder med menyval och specialönskemål. Hanterade transaktioner noggrant och effektivt med ett välorganiserat kassaområde.
-Upprätthöll snabb och pålitlig service under den hektiska lunchrushen på vardagar och under högsäsongen på sommaren.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/sv/experience/job-2/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2022–2024&lt;/div&gt;
- &lt;div class="experience__title"&gt;Förskollärare&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Rödeby Förskola Tallbacken.
- &lt;span class="experience__location"&gt;Karlskrona, Sverige&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Förskollärare&lt;/h1&gt;
- Förskollärare — Rödeby Förskola Tallbacken (Sep 2022 – Aug 2024) Utformade engagerande lektionsplaner anpassade till olika inlärningsstilar och utvecklingsbehov. Ledde dagliga klassrumsaktiviteter för att bygga sociala färdigheter och samarbetsförmåga bland barnen. Samarbetade med föräldrar om barnens framsteg och stöttade kollegor med planering och klassrumshantering.
-Anförtrodd ansvar utöver rollens räckvidd: skrev aktivitetsrapporter till anslagstavlan och skickade veckobrev och viktig information till föräldrar.
-Vald av skolledningen för att sam-planera och leda sommarverksamheten under veckorna då tre förskolor slogs ihop till en på grund av lägre närvaro.
-Vikarie som förskollärare · Karlskrona Kommun · Maj 2022 – Aug 2022
-Täckte lärarfrånvaro på flera förskolor och utförde samma arbetsuppgifter som en heltidsanställd förskollärare med kort varsel. Omvandlades från ett tvåveckorsprov till ett direktkontrakt på Tallbackens Förskola.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/sv/experience/job-1/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2011–2019&lt;/div&gt;
- &lt;div class="experience__title"&gt;Bank Officer&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Vietnam Maritime Commercial Joint Stock Bank (MSB).
- &lt;span class="experience__location"&gt;Hanoi, Vietnam&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Vietnam Maritime Commercial Joint Stock Bank&lt;/h1&gt;
- Vietnam Maritime Commercial Joint Stock Bank — 8 år (2009–2019) Driftsprocessansvarig · Sep 2017 – Okt 2019
-Utsedd till en av 2 ansvariga för att leda processdesign för en bankövergripande transformation som migrerade hela kundtjänstavdelningen från operativ drift till specialiserad privatbanksverksamhet — ansvarade för processkrivning, personalutbildning, avdelningsövergripande nyhetsbrev, tvärfunktionella procedurgranskningar och övertidspolicydiskussioner med HR.
-Vald som en av 3 avdelningsrepresentanter i bankens kärnssystemsmigrationsprojekt, ansvarig för modulerna betalningskonton och sparkonton.
-Controller · Apr 2015 – Sep 2017
-Kontrollerade verksamheten för huvudkontorets transaktionscenter och Hùng Vương-filialen — bankens mest omsättningstäta anläggning och pilotplats för nya produktlanseringar, med stora företagskunder och finansiella institutioner.
-Rankad som bäst presterande Controller i regionen varje år med 150–200% produktivitet. Utbildade personal i uppdaterade rutiner och stöttade systemtestning vid programvaruuppdateringar.
-Bankkassör · Okt 2011 – Apr 2015
-Bäst presterande kassör i Cầu Giấy-regionen (2011–2012); anförtrodd bankens nyaste produktlinjer, inklusive obligationer och guldhandel. Hanterade insättningar, uttag och valutaväxling med daglig kassaavstämning.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/sv/experience/job-5/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;Aug 2009 – Okt 2011&lt;/div&gt;
- &lt;div class="experience__title"&gt;Redovisningsekonom&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- 19.8 Trading &amp;amp; Services Co., Ltd..
- &lt;span class="experience__location"&gt;Hanoi, Vietnam&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Redovisningsekonom&lt;/h1&gt;
- Redovisningsekonom — 19.8 Trading &amp;amp; Services Co., Ltd. Hanterade leverantörsskulder/kundfordringar och upprättade månadsresultaträkningar. Stämde av bankutdrag och genomförde bokslutsprocedurer vid månadsslut.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
-
- 
- &lt;/div&gt;
- &lt;div class="experience-description col-12 col-md-6"&gt;
- 
- 
-
-
-
-
-
-
-
-
-
-&lt;div class="container-experience"&gt;
- &lt;div class="row"&gt;
- &lt;h2&gt;15&amp;#43; Års Erfarenhet från Olika Branscher&lt;/h2&gt;
- &lt;div class="lead"&gt;Från bankverksamhet och finans i Vietnam till förskoleundervisning och mjukvaruutveckling i Sverige — jag bidrar med bred, praktisk erfarenhet till varje projekt.&lt;/div&gt;
- &lt;/div&gt;
-
- &lt;div class="row"&gt;
- 
- &lt;div class="col-12 col-lg-4"&gt;
- &lt;a
- href='https://www.linkedin.com/in/thanh-chu-06481b2ba'
- class="btn btn-primary btn-block w-100"
- target="_blank"
- rel="noopener noreferrer"
- &gt;
- &lt;i class="icon-linkedin"&gt;&lt;/i&gt;
- LinkedIn
- &lt;i class="icon-arrow-right"&gt;&lt;/i&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
-
- 
-
- 
- &lt;/div&gt;
-&lt;/div&gt;
-
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-
-
-
-
-
-&lt;section id="client-and-work-section" class="section section--border-bottom"&gt;
- &lt;div class="client-works-container"&gt;
- &lt;h2 class="rad-animation-group rad-fade-down"&gt;
- Utvalda projekt
- &lt;/h2&gt;
- &lt;div class="row row--padded rad-animation-group rad-fade-down"&gt;
- &lt;div class="col-12"&gt;
- &lt;div class="clients"&gt;
- 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- 
- 
- 
- 
- &lt;div
- class="row row--padded rad-animation-group rad-fade-down 
- flex-column-reverse flex-md-row even-row"
- &gt;
- 
- &lt;div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto even"&gt;
- &lt;h3&gt;Kontinuerligt prestandaövervakningsramverk&lt;/h3&gt;
- &lt;div class="lead"&gt;
- &lt;p&gt;&lt;strong&gt;Studentprojekt för Ericsson, Karlskrona&lt;/strong&gt; · Team om 5 · Feb – maj 2026 · &lt;strong&gt;Betyg A&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Sidfot</title><link>http://localhost:1313/sv/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/sv/footer/footer/</guid><description>&lt;section id="contact" class="section section--border-bottom rad-animation-group"&gt;
+&lt;section id="skills-teaser" class="section rad-animation-group pb-0"&gt;
+ &lt;div class="container text-center rad-fade-down"&gt;
+ &lt;h2&gt;Tekniska kompetenser&lt;/h2&gt;
+ &lt;p class="lead mb-4"&gt;Verktygen jag använder mest — självlärt, produktionstestat och växer varje sprint.&lt;/p&gt;</description></item><item><title>Sidfot</title><link>http://localhost:1313/sv/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/sv/footer/footer/</guid><description>&lt;section id="contact" class="section section--border-bottom rad-animation-group"&gt;
  &lt;div class="container"&gt;
  &lt;div class="row rad-fade-down"&gt;
  &lt;div class="col-12 text-center"&gt;
- &lt;h2&gt;Kontakta mig&lt;/h2&gt;
- &lt;p class="lead mb-4"&gt;Hör gärna av dig — jag är alltid öppen för nya möjligheter och samtal.&lt;/p&gt;
+ &lt;h2&gt;Låt oss bygga något tillsammans&lt;/h2&gt;
+ &lt;p class="lead mb-4"&gt;Öppen för praktikplatser inom mjukvaruutveckling och nya möjligheter — jag svarar snabbt och är lätt att prata med.&lt;/p&gt;
  &lt;div class="d-flex flex-wrap justify-content-center gap-3"&gt;
  &lt;a href="mailto:thanhhachu87@gmail.com" class="btn btn-primary"&gt;
  &lt;i class="icon-email"&gt;&lt;/i&gt;&amp;nbsp; Skicka e-post
@@ -511,7 +210,12 @@ Bäst presterande kassör i Cầu Giấy-regionen (2011–2012); anförtrodd ban
  &lt;i class="icon-square-github"&gt;&lt;/i&gt;&amp;nbsp; GitHub
  &lt;/a&gt;
  &lt;/div&gt;
+ &lt;p class="mt-3 mb-0 text-muted"&gt;
+ &lt;a href="tel:+46729473704" class="text-muted text-decoration-none"&gt;+46 72 947 37 04&lt;/a&gt;
+ &amp;nbsp;·&amp;nbsp; Karlskrona, Sverige
+ &lt;/p&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
-&lt;/section&gt;</description></item><item><title>Sök</title><link>http://localhost:1313/sv/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/sv/search/</guid><description/></item></channel></rss>
+&lt;/section&gt;</description></item><item><title>Sök</title><link>http://localhost:1313/sv/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/sv/search/</guid><description/></item><item><title>Utskrivbart CV — Thanh Chu</title><link>http://localhost:1313/sv/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/sv/cv/</guid><description>&lt;h3 id="om-mig"&gt;Om mig&lt;/h3&gt;
+&lt;p&gt;Målinriktad student inom mjukvaruteknik vid Blekinge Tekniska Högskola (BTH), Sverige, som levererar fungerande fullstack-applikationer — inte bara kursuppgifter. Levererade ett produktionsnära övervakningsramverk åt Ericsson som fick direkt beröm från kundens team för teknisk kvalitet, initiativförmåga och professionalism. Har med sig 15+ års tidigare yrkeserfarenhet — bland annat kvalitetsstyrning på en bank och undervisning i svenska klassrum — vilket ger ett snabbt, handfast arbetssätt när ny teknik ska läras in och problem ska ägas från start till mål.&lt;/p&gt;</description></item></channel></rss>

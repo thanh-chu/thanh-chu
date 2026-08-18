@@ -1,0 +1,25 @@
+{{/* Compact "Selected Projects" teaser for the homepage — shows up to 3
+     project preview cards and links out to the dedicated /projects page,
+     mirroring the skills-teaser / experience-section pattern. */}}
+<section id="projects-teaser" class="section rad-animation-group pb-0">
+  <div class="container text-center rad-fade-down">
+    <h2>{{ .Get "title" }}</h2>
+    <p class="lead mb-4">{{ .Get "description" }}</p>
+    <div class="row row-cols-1 row-cols-md-3 g-4 text-start">
+      {{ range first 3 (where .Site.RegularPages "Type" "projects").ByDate.Reverse }}
+      <div class="col">
+        <a href="{{ ($.Get "projectsUrl") | relLangURL }}#{{ .File.ContentBaseName }}" class="project-teaser-card h-100{{ if eq .Params.image.fit "contain" }} project-teaser-card--contain{{ end }}">
+          {{ partial "lazypicture" (dict "src" .Params.image.src "scale" .Params.image.scale "class" "project-teaser-card__img" "pictureclass" "project-teaser-card__media" "alt" .Title) }}
+          <div class="project-teaser-card__body">
+            <h3 class="project-teaser-card__title">{{ .Title }}</h3>
+            <p class="project-teaser-card__summary">{{ .Params.summary | default .Summary }}</p>
+          </div>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+    <a href="{{ (.Get "projectsUrl") | relLangURL }}" class="btn btn-primary btn-lg mt-4">
+      <i class="icon-circle-arrow-right" aria-hidden="true"></i>&nbsp; {{ .Get "buttonText" }}
+    </a>
+  </div>
+</section>

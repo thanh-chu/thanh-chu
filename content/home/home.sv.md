@@ -7,9 +7,11 @@ draft = false
 
 {{< showcase-section
     title="Thanh Chu"
-    subtitle="Mjukvaruingenjörsstudent — Bygger på 15+ Års Erfarenhet från Olika Branscher"
-    buttonText="Kontakt"
-    description="Mjukvaruingenjörsstudent vid <strong>Blekinge Tekniska Högskola (BTH)</strong>, Sverige, på väg in i teknikbranschen efter en karriär inom bankverksamhet, finans och förskoleundervisning. Bekväm med att arbeta i hela stacken — från backend-tjänster och databaser till CI/CD, övervakning och containeriserade driftsättningar."
+    subtitle="Mjukvaruingenjörsstudent — Bygger Vidare på 15+ Års Branschöverskridande Erfarenhet"
+    button_text="Se Mitt CV"
+    button_icon="icon-file-pdf"
+    button_url="/cv/Thanh-Chu-CV-SV.pdf"
+    description="Mjukvaruingenjörsstudent vid <strong>Blekinge Tekniska Högskola (BTH)</strong>, Sverige, som levererar fungerande fullstack-applikationer från start till mål. Levererade ett produktionsnära övervakningsramverk åt Ericsson som fick direkt beröm från kundens team för teknisk kvalitet, initiativförmåga och professionalism — präglad av en karriär som redan spänner över både bank och förskoleundervisning."
     imgSrc="images/showcase/showcase.png"
     imgScale="0.5"
  >}}
@@ -23,7 +25,7 @@ draft = false
 
 {{< about-section
     title="Om mig"
-    content="Jag är mjukvaruingenjörsstudent vid BTH, Sverige, och byter bransch till teknik efter 15+ år inom bankverksamhet, finans och förskoleundervisning. Jag kombinerar praktiska kodningsfärdigheter, disciplinerat processtänkande och stark kommunikationsförmåga — bevisat genom att leverera ett studentprojekt för Ericsson, leda klientdemos och bli personligen utvald att leda övningssessioner för förstaårsstudenter.<br/><br/>Bekväm med att arbeta i hela stacken: backend-tjänster, databaser, CI/CD, övervakning och containeriserade driftsättningar."
+    content="Min väg in i mjukvarubranschen var inte spikrak: åtta år inom bankverksamhet i Vietnam, två år som förskollärare i Sverige, och nu en utbildning i mjukvaruteknik vid BTH — varje steg har slipat en ny sida som jag tar med mig till ett utvecklarteam.<br/><br/>Vad det innebär i praktiken: jag fick förtroendet att vara med och äga en bankomfattande systemmigrering innan jag någonsin skrivit en rad produktionskod, och jag tog med mig samma ägarskap in i mitt första riktiga ingenjörsprojekt — ett övervakningsramverk byggt åt Ericsson som fick direkt beröm från deras team för teknisk kvalitet och initiativförmåga. BTH:s matematikinstitution handplockade mig senare som en av bara tre studenter som fick leda övningspass för förstaårsstudenter.<br/><br/>I vardagen betyder det backend-tjänster, databaser, CI/CD, övervakning och containeriserade driftsättningar — inlärt snabbt och ägt från start till mål."
     button_icon="icon-user"
     button_text="Se mina kompetenser"
     button_url="/sv/skills"
@@ -33,20 +35,46 @@ draft = false
     h_align="left"
  >}}
 
+<section id="skills-teaser" class="section rad-animation-group pb-0">
+  <div class="container text-center rad-fade-down">
+    <h2>Tekniska kompetenser</h2>
+    <p class="lead mb-4">Verktygen jag använder mest — självlärt, produktionstestat och växer varje sprint.</p>
+    <div class="d-flex flex-wrap justify-content-center gap-2 mb-4">
+      <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">🐍 Python</span>
+      <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">🧪 Flask</span>
+      <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">🟨 JavaScript / TypeScript</span>
+      <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">🕸️ SQL &amp; Neo4j</span>
+      <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">🐳 Docker &amp; Minikube</span>
+      <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">📈 Grafana &amp; Prometheus</span>
+      <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">✅ pytest &amp; Cypress</span>
+      <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">🔀 Git / CI/CD</span>
+    </div>
+    <a href="/sv/skills" class="btn btn-primary btn-lg">
+      <i class="icon-circle-arrow-right" aria-hidden="true"></i>&nbsp; Se Alla Kompetenser
+    </a>
+  </div>
+</section>
+
+{{< spacer size="large" >}}
+
 {{< education-list
     title="Utbildning" >}}
 
 {{< experience-section
     title="Min erfarenhet"
-    intro_title="15+ Års Erfarenhet från Olika Branscher"
-    intro_description="Från bankverksamhet och finans i Vietnam till förskoleundervisning och mjukvaruutveckling i Sverige — jag bidrar med bred, praktisk erfarenhet till varje projekt."
+    intro_title="En Karriär Byggd Över Tre Branscher"
+    intro_description="Från bankverksamhet och finans i Vietnam till förskoleundervisning och mjukvaruutveckling i Sverige — varje kapitel har slipat en ny sida jag tar med mig till varje projekt."
     button1_url="https://www.linkedin.com/in/thanh-chu-06481b2ba"
     button1_text="LinkedIn"
     button1_icon="icon-linkedin"
     hideViewAll="true"
 >}}
 
-{{< client-and-work-section
-    title="Utvalda projekt" >}} 
+{{< projects-teaser
+    title="Utvalda projekt"
+    description="Tre fullstackprojekt, levererade från start till mål — från en kunddeadline hos Ericsson till en självständig teknisk fördjupning."
+    buttonText="Se Alla Projekt"
+    projectsUrl="projects"
+>}}
 
 {{< spacer size="large" >}}

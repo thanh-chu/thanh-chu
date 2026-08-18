@@ -11,7 +11,7 @@
  &lt;span&gt;Software Engineering Student — Building on 15+ Years of Cross-Industry Experience&lt;/span&gt;
  &lt;/h2&gt;
  &lt;div class="lead"&gt;
- Software Engineering student at &lt;strong&gt;Blekinge Institute of Technology (BTH)&lt;/strong&gt;, Sweden, transitioning into tech after a career spanning banking operations, finance, and early childhood education. Comfortable working across the stack — from backend services and databases to CI/CD, monitoring, and containerised deployments.
+ Software Engineering student at &lt;strong&gt;Blekinge Institute of Technology (BTH)&lt;/strong&gt;, Sweden, who ships working full-stack applications end-to-end. Delivered a production-grade monitoring framework for Ericsson that earned direct praise from the client team for technical quality, initiative, and professionalism — backed by 15+ years of prior cross-industry discipline in banking and education.
  &lt;/div&gt;
  
  &lt;/div&gt;
@@ -151,14 +151,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_5ab8f0706d32817e.webp 1x, http://localhost:1313/images/about/user-picture_hu_d002c64a15dbdab1.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png 1x, http://localhost:1313/images/about/user-picture_hu_bd13866e68de8578.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_209e33b4bf860ac9.webp 1x, http://localhost:1313/images/about/user-picture_hu_334e8b6bfaa4ff98.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_feb6b6be87f5277a.png 1x, http://localhost:1313/images/about/user-picture_hu_14372bbf73bf3b1b.png 2x" type="image/png"&gt;
 
  &lt;img
- width="400"
- height="550"
+ width="509"
+ height="700"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/about/user-picture_hu_c6123c8480eb20f1.png"
+ data-src="http://localhost:1313/images/about/user-picture_hu_feb6b6be87f5277a.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -170,7 +170,7 @@
  &lt;div class="col-12 col-md-6 my-auto"&gt;
  &lt;h2&gt;About me&lt;/h2&gt;
  &lt;div class="about-me content"&gt;
- I am a Software Engineering student at BTH, Sweden, transitioning into tech after 15+ years in banking, finance, and early childhood education. I bring a rare combination of hands-on coding skills, disciplined process thinking, and strong communication ability — proven by delivering a student project for Ericsson, leading client demos, and being personally selected to lead exercise sessions for first-year students.&lt;br/&gt;&lt;br/&gt;Comfortable working across the stack: backend services, databases, CI/CD, monitoring, and containerised deployments.
+ My path into software wasn't a straight line: eight years in banking operations in Vietnam, two years teaching preschool in Sweden, and now a Software Engineering degree at BTH — each stage sharpening a different edge I bring to a dev team.&lt;br/&gt;&lt;br/&gt;What that looks like in practice: I was trusted to co-own a bank-wide system migration before I ever wrote a line of production code, and I carried that same ownership into my first real engineering project — a monitoring framework built for Ericsson that earned direct praise from their team for technical quality and initiative. BTH's Mathematics Department later hand-picked me as 1 of just 3 students to lead exercise sessions for first-year students.&lt;br/&gt;&lt;br/&gt;Day to day, that means backend services, databases, CI/CD, monitoring, and containerised deployments — learned fast, and owned end-to-end.
  &lt;/div&gt;
  
  &lt;a href="http://localhost:1313/skills" class="btn btn-primary mt-3"&gt;
@@ -182,282 +182,7 @@
  &lt;/div&gt;
  &lt;/div&gt;
 &lt;/section&gt;
-
-
-
-
-
-&lt;section
- id="education"
- class="section section--border-bottom rad-animation-group"
-&gt;
- &lt;div class="container-education"&gt;
- &lt;div class="row rad-fade-down"&gt;
- &lt;div class="col-12"&gt;
- &lt;h2&gt;Education&lt;/h2&gt;
- &lt;div class="row pt-2 pt-md-4"&gt;
- &lt;div class="col-12 col-sm-6 mb-4"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;Aug 2024 – Present&lt;/div&gt;
- &lt;div class="education__title"&gt;Blekinge Institute of Technology (BTH)&lt;/div&gt;
- &lt;div class="education__degree"&gt;Bachelor&amp;#39;s Degree, Software Engineering&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="col-12 col-sm-6 mb-4"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;Aug 2010 – Jun 2012&lt;/div&gt;
- &lt;div class="education__title"&gt;Academy of Finance, Hanoi, Vietnam&lt;/div&gt;
- &lt;div class="education__degree"&gt;Master&amp;#39;s Degree, Finance and Banking&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="col-12 col-sm-6 mb-4"&gt;
- &lt;div class="education"&gt;
- &lt;div class="education__date"&gt;Aug 2005 – Jun 2009&lt;/div&gt;
- &lt;div class="education__title"&gt;University of Labour &amp;amp; Social Affairs (ULSA2), Hanoi, Vietnam&lt;/div&gt;
- &lt;div class="education__degree"&gt;Bachelor&amp;#39;s Degree, Accounting&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-
-
-
-
-
-
-
- 
- 
- 
- 
- 
-
-
-&lt;section id="experience-single" class="section-experience section section--border-bottom rad-animation-group flex-grow-1"&gt;
- &lt;div class="row flex-column-reverse flex-md-row rad-fade-down"&gt;
- &lt;div class="experience-list col-12 col-md-6"&gt;
- &lt;h2&gt;
- 
- My experience
- 
- &lt;/h2&gt;
-
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-3/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;Autumn 2026 – Present&lt;/div&gt;
- &lt;div class="experience__title"&gt;Mathematics Exercise Leader&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Blekinge Institute of Technology (BTH).
- &lt;span class="experience__location"&gt;Karlskrona, Sweden&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Exercise Session Leader&lt;/h1&gt;
- Mathematics Exercise Leader — Discrete Mathematics &amp;amp; Algorithms Personally recommended by the course lecturer to the Head of the Mathematics Department and selected as 1 of only 3 students trusted to lead weekly exercise sessions for first-year students.
-Co-designing the exercise curriculum from scratch, pacing it to the lectures and shaping it around student feedback to give first-years the best possible route into the subject.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-4/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;Jun 2025 – Aug 2025&lt;/div&gt;
- &lt;div class="experience__title"&gt;Cashier&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Lee Baguette.
- &lt;span class="experience__location"&gt;Karlskrona, Sweden&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Cashier&lt;/h1&gt;
- Cashier — Lee Baguette Assisted customers with menu selections and special requests. Processed transactions accurately and efficiently while maintaining a clean, organised checkout area.
-Kept service fast and reliable through the busy weekday lunch rush and peak summer tourist season, when customers needed to be served quickly to get back to work on time.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-2/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2022–2024&lt;/div&gt;
- &lt;div class="experience__title"&gt;Preschool Teacher&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Rödeby Förskola Tallbacken.
- &lt;span class="experience__location"&gt;Karlskrona, Sweden&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Preschool Teacher&lt;/h1&gt;
- Preschool Teacher — Rödeby Förskola Tallbacken, Sweden (Sep 2022 – Aug 2024) Designed engaging lesson plans tailored to diverse learning styles and developmental needs. Facilitated daily classroom activities to build social skills and cooperation among children. Collaborated with parents on child progress and supported fellow teachers with planning and classroom management.
-Trusted with responsibilities beyond the role&amp;rsquo;s scope: writing classroom activity reports for the bulletin board and sending weekly newsletters and important updates to parents.
-Selected by school leadership to co-plan and manage summer operations during the weeks when three preschools merged into one due to lower attendance.
-Substitute Preschool Teacher · Karlskrona Kommun · May 2022 – Aug 2022
-Covered teacher absences across multiple kindergartens, delivering the same responsibilities as a full-time preschool teacher on short notice.
-Converted from a two-week trial to a direct contract at Tallbackens Förskola, going on to work there for two years as a permanent Preschool Teacher.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-1/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;2011–2019&lt;/div&gt;
- &lt;div class="experience__title"&gt;Bank Officer&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- Vietnam Maritime Commercial Joint Stock Bank (MSB).
- &lt;span class="experience__location"&gt;Hanoi, Vietnam&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;Vietnam Maritime Commercial Joint Stock Bank&lt;/h1&gt;
- Vietnam Maritime Commercial Joint Stock Bank — 8 Years (2011–2019) Operations Process Officer · Sep 2017 – Oct 2019
-Selected as 1 of 2 officers to lead process design for a bank-wide transformation migrating the entire customer service division from operations to specialised retail banking — owned procedure writing, staff training, department-wide newsletters, cross-department procedure reviews, and overtime-policy negotiations with HR.
-Chosen as 1 of 3 department representatives on the bank&amp;rsquo;s core-system migration project, responsible for the payment account and savings account modules.
-Controller · Apr 2015 – Sep 2017
-Controlled operations for the Head Office Transaction Center and Hùng Vương branch — the bank&amp;rsquo;s highest-volume site and pilot location for new product launches, serving major corporate clients and financial institutions.
-Ranked top-performing Controller in the region every year, sustaining 150–200% productivity, and served as the right hand to the Regional Customer Service Director.
-Trained staff on updated procedures and supported system testing during software updates and server restarts.
-Bank Teller · Oct 2011 – Apr 2015
-Top-performing Teller in the Cầu Giấy region (2011–2012); entrusted with the bank&amp;rsquo;s newest product lines, including bonds and gold trading.
-Passed the competitive Controller examination in 2013. Processed deposits, withdrawals, and foreign currency exchange; maintained cash drawer accuracy through daily reconciliation.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
- &lt;div class="experience"&gt;
- &lt;a href="http://localhost:1313/experience/job-5/" class="experience__link"&gt;
- &lt;div class="experience__header"&gt;
- 
- 
- &lt;div class="experience__meta"&gt;
- &lt;div class="experience__date"&gt;Aug 2009 – Oct 2011&lt;/div&gt;
- &lt;div class="experience__title"&gt;General Accountant&lt;/div&gt;
- &lt;div class="experience__company"&gt;
- 19.8 Trading &amp;amp; Services Co., Ltd..
- &lt;span class="experience__location"&gt;Hanoi, Vietnam&lt;/span&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="experience__description d-none d-print-block"&gt;
- &lt;h1&gt;General Accountant&lt;/h1&gt;
- General Accountant — 19.8 Trading &amp;amp; Services Co., Ltd. Managed accounts payable/receivable and prepared monthly financial statements. Reconciled bank statements and performed month-end closing procedures.
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
-
- 
- &lt;/div&gt;
- &lt;div class="experience-description col-12 col-md-6"&gt;
- 
- 
-
-
-
-
-
-
-
-
-
-&lt;div class="container-experience"&gt;
- &lt;div class="row"&gt;
- &lt;h2&gt;15&amp;#43; Years of Cross-Industry Experience&lt;/h2&gt;
- &lt;div class="lead"&gt;From banking operations and finance in Vietnam to early childhood education and software engineering in Sweden — I bring diverse, real-world experience to every project.&lt;/div&gt;
- &lt;/div&gt;
-
- &lt;div class="row"&gt;
- 
- &lt;div class="col-12 col-lg-4"&gt;
- &lt;a
- href='https://www.linkedin.com/in/thanh-chu-06481b2ba'
- class="btn btn-primary btn-block w-100"
- target="_blank"
- rel="noopener noreferrer"
- &gt;
- &lt;i class="icon-linkedin"&gt;&lt;/i&gt;
- LinkedIn
- &lt;i class="icon-arrow-right"&gt;&lt;/i&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- 
-
- 
-
- 
- &lt;/div&gt;
-&lt;/div&gt;
-
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-
-
-
-
-
-&lt;section id="client-and-work-section" class="section section--border-bottom"&gt;
- &lt;div class="client-works-container"&gt;
- &lt;h2 class="rad-animation-group rad-fade-down"&gt;
- Selected Projects
- &lt;/h2&gt;
- &lt;div class="row row--padded rad-animation-group rad-fade-down"&gt;
- &lt;div class="col-12"&gt;
- &lt;div class="clients"&gt;
- 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- 
- 
- 
- 
- &lt;div
- class="row row--padded rad-animation-group rad-fade-down 
- flex-column-reverse flex-md-row even-row"
- &gt;
- 
- &lt;div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto even"&gt;
- &lt;h3&gt;Continuous Performance Monitoring Framework&lt;/h3&gt;
- &lt;div class="lead"&gt;
- &lt;p&gt;&lt;strong&gt;Student project for Ericsson, Karlskrona&lt;/strong&gt; · Team of 5 · Feb – May 2026 · &lt;strong&gt;Grade A&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;section id="skills-teaser" class="section rad-animation-group pb-0"&gt;
+ &lt;div class="container text-center rad-fade-down"&gt;
+ &lt;h2&gt;Technical Skills&lt;/h2&gt;
+ &lt;p class="lead mb-4"&gt;The tools I reach for most — self-taught, production-tested, and growing every sprint.&lt;/p&gt;</description></item></channel></rss>

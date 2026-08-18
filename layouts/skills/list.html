@@ -1,0 +1,41 @@
+{{ define "main" }}
+<section id="main-content" tabindex="-1" class="site-skills-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="site-skills-title">{{ .Title }}</h1>
+                <div class="site-skills-description">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+
+        {{ range .Params.skill_categories }}
+        <div class="row mt-5 skill-category">
+            <div class="col-12">
+                <h2 class="mb-4 skill-category__title">
+                    <span class="skill-category__icon" aria-hidden="true">{{ .icon | default "🔹" }}</span>
+                    {{ .name }}
+                </h2>
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+                    {{ range .skills }}
+                    <div class="col">
+                        <div class="skill-card h-100">
+                            <div class="skill-card__icon" aria-hidden="true">{{ .icon | default "▹" }}</div>
+                            <div class="skill-card__body">
+                                <div class="skill-card__header">
+                                    <h3 class="skill-card__name">{{ .name }}</h3>
+                                    {{ with .years }}<span class="skill-card__years">{{ . }} yrs</span>{{ end }}
+                                </div>
+                                <p class="skill-card__description">{{ .description }}</p>
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}

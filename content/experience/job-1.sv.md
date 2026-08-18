@@ -2,19 +2,17 @@
 date: 2017-09-01T00:00:00+01:00
 draft: false
 title: "Vietnam Maritime Commercial Joint Stock Bank"
-jobTitle: "Bank Officer"
+jobTitle: "Driftsansvarig & Controller"
 company: "Vietnam Maritime Commercial Joint Stock Bank (MSB)"
 location: "Hanoi, Vietnam"
 duration: "2011–2019"
 
 ---
-## Vietnam Maritime Commercial Joint Stock Bank — 8 år (2009–2019)
-
 **Driftsprocessansvarig** · Sep 2017 – Okt 2019
 
 Utsedd till en av 2 ansvariga för att leda processdesign för en bankövergripande transformation som migrerade hela kundtjänstavdelningen från operativ drift till specialiserad privatbanksverksamhet — ansvarade för processkrivning, personalutbildning, avdelningsövergripande nyhetsbrev, tvärfunktionella procedurgranskningar och övertidspolicydiskussioner med HR.
 
-Vald som en av 3 avdelningsrepresentanter i bankens kärnssystemsmigrationsprojekt, ansvarig för modulerna betalningskonton och sparkonton.
+Vald som en av 3 avdelningsrepresentanter i bankens kärnsystemsmigrationsprojekt, med ansvar för kvalitetskontroll i team på 5–10 medarbetare och strikt efterlevnad av interna riktlinjer för modulerna betalningskonton och sparkonton.
 
 ---
 

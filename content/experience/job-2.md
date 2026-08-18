@@ -8,7 +8,7 @@ location: "Karlskrona, Sweden"
 duration: "2022–2024"
 
 ---
-## Preschool Teacher — Rödeby Förskola Tallbacken, Sweden (Sep 2022 – Aug 2024)
+**Preschool Teacher** · Rödeby Förskola Tallbacken · Sep 2022 – Aug 2024
 
 Designed engaging lesson plans tailored to diverse learning styles and developmental needs. Facilitated daily classroom activities to build social skills and cooperation among children. Collaborated with parents on child progress and supported fellow teachers with planning and classroom management.
 

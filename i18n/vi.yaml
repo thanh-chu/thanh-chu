@@ -1,0 +1,302 @@
+## Meta tags
+- id: "meta_title"
+  translation: "Thanh Chu — Sinh viên Kỹ thuật Phần mềm tại BTH, Thụy Điển"
+- id: "meta_description"
+  translation: "Sinh viên Kỹ thuật Phần mềm tại Đại học Công nghệ Blekinge, Thụy Điển. Hơn 15 năm kinh nghiệm đa ngành trong lĩnh vực ngân hàng, tài chính và giáo dục."
+- id: "meta_keywords"
+  translation: "kỹ thuật phần mềm, BTH, Blekinge, sinh viên, portfolio, lập trình, Python, Docker"
+- id: "meta_author"
+  translation: "Thanh Chu"
+- id: "meta_image"
+  translation: "/img/general/og-image.jpg"
+
+## Header
+- id: "logo_alt"
+  translation: "Logo Thanh Chu"
+
+- id: "logo_text1"
+  translation: "Thanh Chu"
+
+- id: "logo_text2"
+  translation: ""
+
+## General
+- id: "skipToMainContent"
+  translation: "Chuyển đến nội dung chính"
+
+- id: "toggle_navigation"
+  translation: "Bật/tắt menu điều hướng"
+
+## Footer
+- id: "footer_notice"
+  translation: "Xây dựng bằng cả tâm huyết — Thanh Chu"
+
+- id: "language"
+  translation: "Ngôn ngữ"
+
+- id: "toggle_theme"
+  translation: "Chuyển giao diện"
+
+- id: "theme_light"
+  translation: "☀️ Sáng"
+- id: "theme_dark"
+  translation: "🌑 Tối"
+- id: "theme_auto"
+  translation: "✨ Tự động"
+
+## Search
+- id: "search_tags_label"
+  translation: "Thẻ"
+- id: "search_categories_label"
+  translation: "Danh mục"
+- id: "search_filter_by_tag"
+  translation: "Lọc kết quả theo thẻ"
+- id: "search_filter_by_category"
+  translation: "Lọc kết quả theo danh mục"
+- id: "search_title"
+  translation: "Tìm kiếm trên trang"
+- id: "search_placeholder"
+  translation: "Nhập để tìm kiếm..."
+- id: "search_results_heading"
+  translation: "Kết quả phù hợp"
+- id: "search_min_chars"
+  translation: "Vui lòng nhập ít nhất 2 ký tự để tìm kiếm"
+- id: "search_no_matches"
+  translation: "Không tìm thấy kết quả phù hợp"
+- id: "search_loading"
+  translation: "Đang tải..."
+- id: "search_error_generic"
+  translation: "Đã xảy ra lỗi khi tìm kiếm. Vui lòng thử lại sau."
+- id: "search_untitled"
+  translation: "Không có tiêu đề"
+- id: "search_no_preview"
+  translation: "Không có bản xem trước"
+
+## Homepage head title
+- id: "head_title"
+  translation: "Thanh Chu — Sinh viên Kỹ thuật Phần mềm tại BTH, Thụy Điển"
+
+- id: "head_description"
+  translation: "Sinh viên Kỹ thuật Phần mềm tại Đại học Công nghệ Blekinge, Thụy Điển. Hơn 15 năm kinh nghiệm đa ngành trong lĩnh vực ngân hàng, tài chính và giáo dục."
+
+## Homepage showcase
+- id: "showcase_title"
+  translation: "Thanh Chu"
+
+- id: "showcase_subtitle"
+  translation: "Kỹ sư Phần mềm — Xây dựng hệ thống chuẩn sản xuất, không chỉ là bài tập trên lớp"
+
+- id: "showcase_description"
+  translation: "Sinh viên Kỹ thuật Phần mềm tại <strong>Đại học Công nghệ Blekinge (BTH)</strong>, Thụy Điển, trực tiếp xây dựng và triển khai các ứng dụng full-stack hoàn chỉnh từ đầu đến cuối, cùng hơn 15 năm kinh nghiệm làm việc kỷ luật trong ngành ngân hàng và giáo dục."
+
+- id: "showcase_button"
+  translation: "Liên hệ"
+
+- id: "showcase_image_alt"
+  translation: "Ảnh của Thanh Chu"
+
+## Homepage about
+- id: "about_title"
+  translation: "Giới thiệu"
+
+- id: "about_content"
+  translation: '<p class="lead">Sinh viên Kỹ thuật Phần mềm tại <strong>BTH</strong>, Thụy Điển, theo hướng kết quả thực tế — trực tiếp xây dựng và triển khai các ứng dụng full-stack hoàn chỉnh.</p><p>Đã triển khai thành công một framework giám sát hiệu năng cho Ericsson, được chính đội ngũ khách hàng đánh giá cao về chất lượng kỹ thuật, tinh thần chủ động và thái độ chuyên nghiệp.</p><p>Mang theo hơn 15 năm kỷ luật nghề nghiệp trước đó vào backend, cơ sở dữ liệu, CI/CD, giám sát hệ thống và triển khai containerised.</p>'
+
+- id: "about_button"
+  translation: "Xem kỹ năng của tôi"
+
+## Homepage education
+- id: "education_title"
+  translation: "Học vấn"
+
+## Homepage experience
+- id: "experience_button"
+  translation: "LinkedIn"
+
+- id: "experience_button_url"
+  translation: "https://www.linkedin.com/in/thanh-chu-06481b2ba"
+
+- id: "experience_button2"
+  translation: "GitHub"
+
+- id: "experience_button2_url"
+  translation: "https://github.com/Me-Bim-Bi"
+
+- id: "experience_button3"
+  translation: "Xem tất cả"
+
+- id: "experience_button3_url"
+  translation: "/vi/experience"
+
+## Homepage client & work
+- id: "client_work_title"
+  translation: "Dự án tiêu biểu"
+
+## Homepage newsletter
+- id: "newsletter_title"
+  translation: "Bản tin"
+
+- id: "newsletter_button"
+  translation: "Đăng ký"
+
+- id: "newsletter_placeholder"
+  translation: "Email của bạn"
+
+- id: "newsletter_success_message"
+  translation: "Cảm ơn bạn đã đăng ký nhận bản tin của tôi!"
+
+- id: "newsletter_error_message"
+  translation: "Đã xảy ra lỗi. Vui lòng thử lại."
+
+- id: "newsletter_note"
+  translation: "Chúng tôi sẽ không bao giờ chia sẻ email của bạn với bất kỳ ai khác."
+
+## Homepage testimonials
+- id: "testimonials_title"
+  translation: "Đánh giá"
+
+## Homepage contact
+- id: "contact_title"
+  translation: "Liên hệ"
+
+- id: "contact_button"
+  translation: "Gửi tin nhắn"
+
+- id: "contact_form_name"
+  translation: "Họ và tên"
+
+- id: "contact_form_email"
+  translation: "Địa chỉ email"
+
+- id: "contact_form_message"
+  translation: "Nhập nội dung tin nhắn tại đây"
+
+- id: "contact_phone_title"
+  translation: "Số điện thoại"
+
+- id: "contact_phone_number"
+  translation: "+46 72 947 37 04"
+
+- id: "contact_email_title"
+  translation: "Email"
+
+- id: "contact_email_email"
+  translation: "<a href='mailto:thanhhachu87@gmail.com'>thanhhachu87@gmail.com</a>"
+
+- id: "contact_address_title"
+  translation: "Địa điểm"
+
+- id: "contact_address_address"
+  translation: "🇸🇪 Karlskrona, Thụy Điển"
+
+## Blog
+- id: "read_more"
+  translation: "Đọc thêm"
+
+- id: "published_on"
+  translation: "Đăng ngày "
+
+- id: "continue_reading"
+  translation: "Đọc tiếp"
+
+## Blog Stats (for list-cards layout)
+- id: "blog_stats_posts"
+  translation: "Bài viết"
+
+- id: "blog_stats_last_updated"
+  translation: "Cập nhật lần cuối"
+
+- id: "blog_stats_first_post"
+  translation: "Bài viết đầu tiên"
+
+- id: "blog_stats_topics"
+  translation: "Chủ đề"
+
+- id: "blog_stats_latest_post"
+  translation: "Bài viết mới nhất"
+
+## 404 Page
+- id: "404_title"
+  translation: "Không tìm thấy trang"
+- id: "404_description"
+  translation: "Rất tiếc, không tìm thấy trang bạn đang tìm kiếm."
+- id: "404_button"
+  translation: "Về trang chủ"
+
+## Related Posts
+- id: "related_posts"
+  translation: "Bài viết liên quan"
+
+## Social Sharing
+- id: "share_this_post"
+  translation: "Chia sẻ bài viết này"
+- id: "share_on_twitter"
+  translation: "Chia sẻ trên Twitter"
+- id: "share_on_linkedin"
+  translation: "Chia sẻ trên LinkedIn"
+- id: "share_on_facebook"
+  translation: "Chia sẻ trên Facebook"
+- id: "share_via_email"
+  translation: "Chia sẻ qua email"
+- id: "share_twitter_label"
+  translation: "Twitter"
+- id: "share_linkedin_label"
+  translation: "LinkedIn"
+- id: "share_facebook_label"
+  translation: "Facebook"
+- id: "share_email_label"
+  translation: "Email"
+- id: "share_on_bluesky"
+  translation: "Chia sẻ trên Bluesky"
+- id: "share_bluesky_label"
+  translation: "Bluesky"
+- id: "share_on_mastodon"
+  translation: "Chia sẻ trên Mastodon"
+- id: "share_mastodon_label"
+  translation: "Mastodon"
+
+## Table of Contents
+- id: "table_of_contents"
+  translation: "Mục lục"
+
+## Comments
+- id: "comments"
+  translation: "Bình luận"
+
+## Reading time and metadata
+- id: "min_read"
+  translation: "phút đọc"
+- id: "last_updated"
+  translation: "Cập nhật"
+
+## Taxonomy
+- id: "categories"
+  translation: "Danh mục"
+- id: "post_singular"
+  translation: "bài viết"
+- id: "post_plural"
+  translation: "bài viết"
+- id: "tags"
+  translation: "Thẻ"
+- id: "authors"
+  translation: "Tác giả"
+- id: "series"
+  translation: "Chuỗi bài viết"
+- id: "author_posts"
+  translation: "Bài viết của tác giả này"
+- id: "series_posts"
+  translation: "Bài viết trong chuỗi"
+- id: "series_part"
+  translation: "Phần"
+- id: "recent_posts"
+  translation: "Bài viết gần đây"
+- id: "popular_tags"
+  translation: "Thẻ phổ biến"
+- id: "view_all_tags"
+  translation: "Xem tất cả thẻ"
+
+- id: "primary_navigation"
+  translation: "Điều hướng chính"
+
+- id: "footer_navigation"
+  translation: "Điều hướng chân trang"

@@ -8,6 +8,4 @@ location: "Hanoi, Vietnam"
 duration: "Aug 2009 – Oct 2011"
 
 ---
-## General Accountant — 19.8 Trading & Services Co., Ltd.
-
 Managed accounts payable/receivable and prepared monthly financial statements. Reconciled bank statements and performed month-end closing procedures.

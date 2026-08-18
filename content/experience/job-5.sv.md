@@ -8,6 +8,4 @@ location: "Hanoi, Vietnam"
 duration: "Aug 2009 – Okt 2011"
 
 ---
-## Redovisningsekonom — 19.8 Trading & Services Co., Ltd.
-
 Hanterade leverantörsskulder/kundfordringar och upprättade månadsresultaträkningar. Stämde av bankutdrag och genomförde bokslutsprocedurer vid månadsslut.

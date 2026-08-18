@@ -8,7 +8,7 @@ location: "Karlskrona, Sverige"
 duration: "2022–2024"
 
 ---
-## Förskollärare — Rödeby Förskola Tallbacken (Sep 2022 – Aug 2024)
+**Förskollärare** · Rödeby Förskola Tallbacken · Sep 2022 – Aug 2024
 
 Utformade engagerande lektionsplaner anpassade till olika inlärningsstilar och utvecklingsbehov. Ledde dagliga klassrumsaktiviteter för att bygga sociala färdigheter och samarbetsförmåga bland barnen. Samarbetade med föräldrar om barnens framsteg och stöttade kollegor med planering och klassrumshantering.
 

@@ -8,8 +8,6 @@ location: "Karlskrona, Sverige"
 duration: "Jun 2025 – Aug 2025"
 
 ---
-## Kassör — Lee Baguette
-
 Hjälpte kunder med menyval och specialönskemål. Hanterade transaktioner noggrant och effektivt med ett välorganiserat kassaområde.
 
 Upprätthöll snabb och pålitlig service under den hektiska lunchrushen på vardagar och under högsäsongen på sommaren.
