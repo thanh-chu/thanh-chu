@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Thanh Chu — Mjukvaruingenjörsstudent</title><link>http://localhost:1313/sv/home/</link><description>Recent content in Homes on Thanh Chu — Mjukvaruingenjörsstudent</description><generator>Hugo</generator><language>sv</language><atom:link href="http://localhost:1313/sv/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Hem</title><link>http://localhost:1313/sv/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/sv/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Thanh Chu — Mjukvaruingenjörsstudent</title><link>http://localhost:1313/thanhchu.github.io/sv/home/</link><description>Recent content in Homes on Thanh Chu — Mjukvaruingenjörsstudent</description><generator>Hugo</generator><language>sv</language><atom:link href="http://localhost:1313/thanhchu.github.io/sv/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Hem</title><link>http://localhost:1313/thanhchu.github.io/sv/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/thanhchu.github.io/sv/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
  &lt;div&gt;
  
 
@@ -8,10 +8,58 @@
  Thanh Chu
  &lt;/h1&gt;
  &lt;h2 class="display-5"&gt;
- &lt;span&gt;Mjukvaruingenjörsstudent — Bygger på 15+ Års Erfarenhet&lt;/span&gt;
+ &lt;span&gt;Mjukvaruingenjörsstudent — Bygger Vidare på 15+ Års Branschöverskridande Erfarenhet&lt;/span&gt;
  &lt;/h2&gt;
  &lt;div class="lead"&gt;
- Mjukvaruingenjörsstudent vid &lt;strong&gt;Blekinge Tekniska Högskola (BTH)&lt;/strong&gt;, Sverige, som levererar fungerande fullstack-applikationer från start till mål. Levererade ett produktionsnära övervakningsramverk åt Ericsson som fick direkt beröm från kundens team för teknisk kvalitet, initiativförmåga och professionalism — med 15+ års tidigare yrkesdisciplin från bank och undervisning i grunden.
+ Mjukvaruingenjörsstudent vid &lt;strong&gt;Blekinge Tekniska Högskola (BTH)&lt;/strong&gt;, Sverige, som levererar fungerande fullstack-applikationer från start till mål. Levererade ett produktionsnära övervakningsramverk åt Ericsson som fick direkt beröm från kundens team för teknisk kvalitet, initiativförmåga och professionalism — präglad av en karriär som redan spänner över både bank och förskoleundervisning.
+ &lt;/div&gt;
+ 
+ &lt;a
+ href="http://localhost:1313/thanhchu.github.io/cv/Thanh-Chu-CV-SV.pdf"
+ class="btn btn-primary"
+ target="_blank"
+ rel="noopener noreferrer"
+ &gt;
+ &lt;i class="icon-file-pdf"&gt;&lt;/i&gt;
+ Se Mitt CV
+ &lt;/a&gt;
+ 
+ &lt;div class="inner-content"&gt;
+ 
+
+
+
+
+
+&lt;div class="container"&gt;
+ &lt;div class="row platform-links shortcode"&gt;
+ &lt;div class="col-12"&gt;
+ 
+ 
+ &lt;a
+ href="https://www.linkedin.com/in/thanh-chu-06481b2ba"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="linkedin"
+ &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://github.com/thanh-chu"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-github"
+ &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
  &lt;/div&gt;
  
  &lt;/div&gt;
@@ -40,14 +88,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:1313/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:1313/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
 
  &lt;img
  width="790"
  height="768"
  class="lozad img-responsive "
- data-src="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png"
+ data-src="http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_3f0255b2c18af728.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -55,57 +103,10 @@
  /&gt;
  &lt;/picture&gt;
 
-
-
-
- &lt;/div&gt;
- &lt;div class="col-12 inner-content"&gt;
- 
-
-
-
-
-
-&lt;div class="container"&gt;
- &lt;div class="row platform-links shortcode"&gt;
- &lt;div class="col-12"&gt;
- 
- 
- &lt;a
- href="https://www.linkedin.com/in/thanh-chu-06481b2ba"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="linkedin"
- &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://github.com/Me-Bim-Bi"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="square-github"
- &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
-&lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-
-
-
- &lt;/div&gt;
- 
-
- &lt;/div&gt;
-
-
- &lt;div class="row platform-links"&gt;
- &lt;div class="col-12"&gt;&lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
- 
+
+ &lt;/div&gt;
 &lt;/section&gt;
 
 
@@ -151,14 +152,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_209e33b4bf860ac9.webp 1x, http://localhost:1313/images/about/user-picture_hu_334e8b6bfaa4ff98.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_feb6b6be87f5277a.png 1x, http://localhost:1313/images/about/user-picture_hu_14372bbf73bf3b1b.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_209e33b4bf860ac9.webp 1x, http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_334e8b6bfaa4ff98.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_feb6b6be87f5277a.png 1x, http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_14372bbf73bf3b1b.png 2x" type="image/png"&gt;
 
  &lt;img
  width="509"
  height="700"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/about/user-picture_hu_feb6b6be87f5277a.png"
+ data-src="http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_feb6b6be87f5277a.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -173,7 +174,7 @@
  Min väg in i mjukvarubranschen var inte spikrak: åtta år inom bankverksamhet i Vietnam, två år som förskollärare i Sverige, och nu en utbildning i mjukvaruteknik vid BTH — varje steg har slipat en ny sida som jag tar med mig till ett utvecklarteam.&lt;br/&gt;&lt;br/&gt;Vad det innebär i praktiken: jag fick förtroendet att vara med och äga en bankomfattande systemmigrering innan jag någonsin skrivit en rad produktionskod, och jag tog med mig samma ägarskap in i mitt första riktiga ingenjörsprojekt — ett övervakningsramverk byggt åt Ericsson som fick direkt beröm från deras team för teknisk kvalitet och initiativförmåga. BTH:s matematikinstitution handplockade mig senare som en av bara tre studenter som fick leda övningspass för förstaårsstudenter.&lt;br/&gt;&lt;br/&gt;I vardagen betyder det backend-tjänster, databaser, CI/CD, övervakning och containeriserade driftsättningar — inlärt snabbt och ägt från start till mål.
  &lt;/div&gt;
  
- &lt;a href="http://localhost:1313/sv/skills" class="btn btn-primary mt-3"&gt;
+ &lt;a href="http://localhost:1313/thanhchu.github.io/sv/skills" class="btn btn-primary mt-3"&gt;
  &lt;i class="icon-user"&gt;&lt;/i&gt;
  Se mina kompetenser
  &lt;/a&gt;

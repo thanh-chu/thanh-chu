@@ -1,23 +1,25 @@
 ---
 date: 2022-09-01T00:00:00+01:00
 draft: false
-title: "Förskollärare"
-jobTitle: "Förskollärare"
+title: "Barnskötare"
+jobTitle: "Barnskötare"
 company: "Rödeby Förskola Tallbacken"
 location: "Karlskrona, Sverige"
 duration: "2022–2024"
 
 ---
-**Förskollärare** · Rödeby Förskola Tallbacken · Sep 2022 – Aug 2024
+**Barnskötare** · Rödeby Förskola Tallbacken · Sep 2022 – Aug 2024
 
-Utformade engagerande lektionsplaner anpassade till olika inlärningsstilar och utvecklingsbehov. Ledde dagliga klassrumsaktiviteter för att bygga sociala färdigheter och samarbetsförmåga bland barnen. Samarbetade med föräldrar om barnens framsteg och stöttade kollegor med planering och klassrumshantering.
-
-Anförtrodd ansvar utöver rollens räckvidd: skrev aktivitetsrapporter till anslagstavlan och skickade veckobrev och viktig information till föräldrar.
-
-Vald av skolledningen för att sam-planera och leda sommarverksamheten under veckorna då tre förskolor slogs ihop till en på grund av lägre närvaro.
+- Huvudsakliga arbetsuppgifter:
+    - Planerade och genomförde dagliga aktiviteter för barngruppen med fokus på barnens fysiska och emotionella välbefinnande samt utveckling av sociala färdigheter och samarbetsförmåga.
+    - Samarbetade med arbetslaget för att planera och genomföra pedagogiska aktiviteter anpassade efter varje barns individuella behov, förmågor och utvecklingsnivå.
+    - Följde upp, dokumenterade och uppdaterade information om barnens utveckling i individuella dokumentationer.
+    - Vann kollegornas förtroende att självständigt planera och genomföra aktiviteter för barngruppen, skriva aktivitetsrapporter och kommunicera viktig information till vårdnadshavare genom veckobrev.
+    - Samarbetade med vårdnadshavare kring barnens utveckling och framsteg samt stöttade kollegor i planering och ledning av barngruppen.
+- Utöver de ordinarie arbetsuppgifterna valdes jag av förskolans ledning att delta i planeringen och organiseringen av sommarverksamheten under en period då tre förskolor slogs samman till en på grund av minskat barnantal.
 
 ---
 
-**Vikarie som förskollärare** · Karlskrona Kommun · Maj 2022 – Aug 2022
-
-Täckte lärarfrånvaro på flera förskolor och utförde samma arbetsuppgifter som en heltidsanställd förskollärare med kort varsel. Omvandlades från ett tvåveckorsprov till ett direktkontrakt på Tallbackens Förskola.
+**Vikarierande barnskötare** · Karlskrona Kommun · Maj 2022 – Aug 2022
+- Arbetade som vikarie på flera förskolor, anpassade mig snabbt till olika arbetsmiljöer och tog på kort tid ansvar för de dagliga arbetsuppgifterna i barngruppen.
+- Efter två veckors arbete på Tallbackens förskola blev jag rekommenderad av kollegor och erbjöds en direkt anställning på förskolan. Fortsatte därefter att arbeta där i två år som barnskötare.

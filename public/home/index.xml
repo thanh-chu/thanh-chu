@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Thanh Chu — Software Engineering Student</title><link>http://localhost:1313/home/</link><description>Recent content in Homes on Thanh Chu — Software Engineering Student</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>http://localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Thanh Chu — Software Engineering Student</title><link>http://localhost:1313/thanhchu.github.io/home/</link><description>Recent content in Homes on Thanh Chu — Software Engineering Student</description><generator>Hugo</generator><language>en</language><atom:link href="http://localhost:1313/thanhchu.github.io/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>http://localhost:1313/thanhchu.github.io/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/thanhchu.github.io/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
  &lt;div&gt;
  
 
@@ -11,7 +11,55 @@
  &lt;span&gt;Software Engineering Student — Building on 15+ Years of Cross-Industry Experience&lt;/span&gt;
  &lt;/h2&gt;
  &lt;div class="lead"&gt;
- Software Engineering student at &lt;strong&gt;Blekinge Institute of Technology (BTH)&lt;/strong&gt;, Sweden, who ships working full-stack applications end-to-end. Delivered a production-grade monitoring framework for Ericsson that earned direct praise from the client team for technical quality, initiative, and professionalism — backed by 15+ years of prior cross-industry discipline in banking and education.
+ Software Engineering student at &lt;strong&gt;Blekinge Institute of Technology (BTH)&lt;/strong&gt;, Sweden, who ships working full-stack applications end-to-end. Delivered a production-grade monitoring framework for Ericsson that earned direct praise from the client team for technical quality, initiative, and professionalism — shaped by a career that already spans banking operations and early-childhood education.
+ &lt;/div&gt;
+ 
+ &lt;a
+ href="http://localhost:1313/thanhchu.github.io/cv/Thanh-Chu-CV-EN.pdf"
+ class="btn btn-primary"
+ target="_blank"
+ rel="noopener noreferrer"
+ &gt;
+ &lt;i class="icon-file-pdf"&gt;&lt;/i&gt;
+ See My CV
+ &lt;/a&gt;
+ 
+ &lt;div class="inner-content"&gt;
+ 
+
+
+
+
+
+&lt;div class="container"&gt;
+ &lt;div class="row platform-links shortcode"&gt;
+ &lt;div class="col-12"&gt;
+ 
+ 
+ &lt;a
+ href="https://www.linkedin.com/in/thanh-chu-06481b2ba"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="linkedin"
+ &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://github.com/thanh-chu"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-github"
+ &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
  &lt;/div&gt;
  
  &lt;/div&gt;
@@ -40,14 +88,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:1313/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:1313/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
 
  &lt;img
  width="790"
  height="768"
  class="lozad img-responsive "
- data-src="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png"
+ data-src="http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_3f0255b2c18af728.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -55,57 +103,10 @@
  /&gt;
  &lt;/picture&gt;
 
-
-
-
- &lt;/div&gt;
- &lt;div class="col-12 inner-content"&gt;
- 
-
-
-
-
-
-&lt;div class="container"&gt;
- &lt;div class="row platform-links shortcode"&gt;
- &lt;div class="col-12"&gt;
- 
- 
- &lt;a
- href="https://www.linkedin.com/in/thanh-chu-06481b2ba"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="linkedin"
- &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://github.com/Me-Bim-Bi"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="square-github"
- &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
-&lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-
-
-
- &lt;/div&gt;
- 
-
- &lt;/div&gt;
-
-
- &lt;div class="row platform-links"&gt;
- &lt;div class="col-12"&gt;&lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
- 
+
+ &lt;/div&gt;
 &lt;/section&gt;
 
 
@@ -151,14 +152,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_209e33b4bf860ac9.webp 1x, http://localhost:1313/images/about/user-picture_hu_334e8b6bfaa4ff98.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_feb6b6be87f5277a.png 1x, http://localhost:1313/images/about/user-picture_hu_14372bbf73bf3b1b.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_209e33b4bf860ac9.webp 1x, http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_334e8b6bfaa4ff98.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_feb6b6be87f5277a.png 1x, http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_14372bbf73bf3b1b.png 2x" type="image/png"&gt;
 
  &lt;img
  width="509"
  height="700"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/about/user-picture_hu_feb6b6be87f5277a.png"
+ data-src="http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_feb6b6be87f5277a.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -173,7 +174,7 @@
  My path into software wasn't a straight line: eight years in banking operations in Vietnam, two years teaching preschool in Sweden, and now a Software Engineering degree at BTH — each stage sharpening a different edge I bring to a dev team.&lt;br/&gt;&lt;br/&gt;What that looks like in practice: I was trusted to co-own a bank-wide system migration before I ever wrote a line of production code, and I carried that same ownership into my first real engineering project — a monitoring framework built for Ericsson that earned direct praise from their team for technical quality and initiative. BTH's Mathematics Department later hand-picked me as 1 of just 3 students to lead exercise sessions for first-year students.&lt;br/&gt;&lt;br/&gt;Day to day, that means backend services, databases, CI/CD, monitoring, and containerised deployments — learned fast, and owned end-to-end.
  &lt;/div&gt;
  
- &lt;a href="http://localhost:1313/skills" class="btn btn-primary mt-3"&gt;
+ &lt;a href="http://localhost:1313/thanhchu.github.io/skills" class="btn btn-primary mt-3"&gt;
  &lt;i class="icon-user"&gt;&lt;/i&gt;
  Check my skills
  &lt;/a&gt;

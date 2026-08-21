@@ -10,6 +10,6 @@ button2_icon: icon-square-github
 
 ---
 
-15+ års erfarenhet från olika branscher — bankverksamhet i Vietnam, förskoleundervisning i Sverige och nu mjukvaruutveckling vid BTH, där jag redan levererat ett produktionsnära övervakningsramverk åt Ericsson. Varje steg har skärpt en ny sida av mig: processdisciplin och kvalitetskontroll från bankvärlden, tydlig kommunikation och empati från undervisningen, och teknisk noggrannhet från ingenjörskonsten.
+Över 15 års erfarenhet från flera branscher – från bankverksamhet i Vietnam, förskoleverksamhet i Sverige till mjukvaruutveckling vid BTH, där jag framgångsrikt utvecklade ett ramverk för prestandaövervakning för Ericsson. Varje steg i min karriär har vässat en särskild styrka: procesdisciplin och kvalitetskontroll från banksektorn, tydlig kommunikation och empati från utbildningsområdet samt ett strukturerat och noggrant tekniskt tänkande från mjukvaruutveckling.
 
-Erfarenheten nedan spänner hela bågen — från bankkassör till driftsprocessansvarig med förtroende för bankomfattande systemmigreringar, från förskollärare till övningsledare i matematik handplockad för förstaårsstudenter, och från redovisning till att bygga produktionsfärdiga mjukvarusystem som riktiga kunder litar på.
+Min erfarenhet sträcker sig genom hela denna resa – från företagsredovisning och bankverksamhet till förskoleverksamhet och rollen som Räkneövningsledare, där jag särskilt valdes ut för att stödja förstaårsstudenter; från medverkan i ett bankövergripande projekt för transformation av core banking-system till utveckling av tillförlitliga mjukvarusystem som vunnit kundernas förtroende.

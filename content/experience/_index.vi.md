@@ -10,6 +10,6 @@ button2_icon: icon-square-github
 
 ---
 
-Hơn 15 năm kinh nghiệm đa ngành — từ nghiệp vụ ngân hàng tại Việt Nam, giáo dục mầm non tại Thụy Điển, đến kỹ thuật phần mềm tại BTH, nơi tôi đã triển khai thành công một framework giám sát hiệu năng cho Ericsson. Mỗi chặng đường đều mài giũa thêm một thế mạnh: kỷ luật quy trình và kiểm soát chất lượng từ ngân hàng, giao tiếp rõ ràng và sự thấu cảm từ giảng dạy, và sự chặt chẽ kỹ thuật từ ngành kỹ sư.
+Hơn 15 năm kinh nghiệm đa ngành — từ nghiệp vụ ngân hàng tại Việt Nam, giáo dục mầm non tại Thụy Điển, đến kỹ thuật phần mềm tại BTH, nơi tôi đã phát triển thành công một framework giám sát hiệu năng cho Ericsson. Mỗi chặng đường đều mài giũa thêm cho tôi một thế mạnh: kỷ luật quy trình và kiểm soát chất lượng từ ngân hàng, giao tiếp rõ ràng và sự thấu cảm từ giáo dục, cùng tư duy kỹ thuật chặt chẽ từ ngành phần mềm.
 
-Kinh nghiệm dưới đây trải dài toàn bộ hành trình — từ Giao dịch viên ngân hàng đến Chuyên viên Vận hành phụ trách các dự án chuyển đổi hệ thống toàn ngân hàng, từ Giáo viên Mầm non đến Trợ giảng Toán học được lựa chọn riêng cho sinh viên năm nhất, và từ kế toán đến xây dựng các hệ thống phần mềm chuẩn sản xuất được khách hàng thực tế tin tưởng.
+Kinh nghiệm dưới đây trải dài toàn bộ hành trình — từ kế toán doanh nghiệp và nghiệp vụ ngân hàng đến giáo dục mầm non và vai trò Người hướng dẫn buổi bài tập Toán học được lựa chọn để hỗ trợ sinh viên năm nhất; từ việc tham gia dự án chuyển đổi hệ thống core banking quy mô toàn ngân hàng đến xây dựng các hệ thống phần mềm đáng tin cậy và được khách hàng tin tưởng.

@@ -1,0 +1,7 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $img := resources.Get (printf "images/experience/%s" $src) }}
+{{ with $img }}
+{{ $imgWebp := $img.Resize (printf "%dx%d webp q75 Lanczos picture" $img.Width $img.Height) }}
+<img src="{{ $imgWebp.RelPermalink }}" alt="{{ $alt }}" class="img-fluid rounded mb-4" loading="lazy">
+{{ end }}

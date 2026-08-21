@@ -10,6 +10,6 @@ button2_icon: icon-square-github
 
 ---
 
-15+ years of cross-industry experience spanning banking operations in Vietnam, early childhood education in Sweden, and now software engineering at BTH — where I've already delivered a production-grade monitoring framework for Ericsson. Each step has sharpened a different edge: process discipline and quality control from banking, clear communication and empathy from teaching, and technical rigour from engineering.
+15+ years of cross-industry experience — spanning banking in Vietnam, early childhood education in Sweden, and software engineering at BTH, where I successfully developed a performance monitoring framework for Ericsson. Each stage of my career has sharpened a distinct strength: process discipline and quality control from banking, clear communication and empathy from education, and rigorous technical thinking from software engineering.
 
-The experience below covers the full arc — from Bank Teller to Operations Process Officer trusted with bank-wide system migrations, from Preschool Teacher to Mathematics Exercise Session Leader hand-picked for first-year students, and from accounting to building production-grade software systems trusted by real clients.
+My experience spans the full journey — from corporate accounting and banking operations to early childhood education and a Mathematics Exercise Session Leader role, specifically selected to support first-year students; from contributing to a bank-wide core banking transformation project to building reliable software systems trusted by clients.

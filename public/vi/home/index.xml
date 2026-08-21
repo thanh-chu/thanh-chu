@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Thanh Chu — Sinh viên Kỹ thuật Phần mềm</title><link>http://localhost:1313/vi/home/</link><description>Recent content in Homes on Thanh Chu — Sinh viên Kỹ thuật Phần mềm</description><generator>Hugo</generator><language>vi</language><atom:link href="http://localhost:1313/vi/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Trang chủ</title><link>http://localhost:1313/vi/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/vi/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Thanh Chu — Sinh viên Kỹ thuật Phần mềm</title><link>http://localhost:1313/thanhchu.github.io/vi/home/</link><description>Recent content in Homes on Thanh Chu — Sinh viên Kỹ thuật Phần mềm</description><generator>Hugo</generator><language>vi</language><atom:link href="http://localhost:1313/thanhchu.github.io/vi/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Trang chủ</title><link>http://localhost:1313/thanhchu.github.io/vi/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/thanhchu.github.io/vi/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
  &lt;div&gt;
  
 
@@ -8,10 +8,58 @@
  Thanh Chu
  &lt;/h1&gt;
  &lt;h2 class="display-5"&gt;
- &lt;span&gt;Kỹ sư Phần mềm — Xây dựng hệ thống chuẩn sản xuất, không chỉ là bài tập trên lớp&lt;/span&gt;
+ &lt;span&gt;Sinh viên Kỹ thuật Phần mềm — Tiếp nối hơn 15 năm kinh nghiệm đa ngành&lt;/span&gt;
  &lt;/h2&gt;
  &lt;div class="lead"&gt;
- Sinh viên Kỹ thuật Phần mềm tại &lt;strong&gt;Đại học Công nghệ Blekinge (BTH)&lt;/strong&gt;, Thụy Điển, trực tiếp xây dựng và triển khai các ứng dụng full-stack hoàn chỉnh từ đầu đến cuối. Đã triển khai thành công một framework giám sát hiệu năng cho Ericsson, được chính đội ngũ khách hàng đánh giá cao về chất lượng kỹ thuật, tinh thần chủ động và thái độ chuyên nghiệp — cùng hơn 15 năm kinh nghiệm làm việc kỷ luật trong ngành ngân hàng và giáo dục.
+ Sinh viên Kỹ thuật Phần mềm tại &lt;strong&gt;Đại học Công nghệ Blekinge (BTH)&lt;/strong&gt;, Thụy Điển, trực tiếp xây dựng và triển khai các ứng dụng full-stack hoàn chỉnh từ đầu đến cuối. Đã triển khai thành công một framework giám sát hiệu năng cho Ericsson, được chính đội ngũ khách hàng đánh giá cao về chất lượng kỹ thuật, tinh thần chủ động và thái độ chuyên nghiệp — được định hình bởi một hành trình sự nghiệp đã trải qua cả ngân hàng lẫn giáo dục mầm non.
+ &lt;/div&gt;
+ 
+ &lt;a
+ href="http://localhost:1313/thanhchu.github.io/cv/Thanh-Chu-CV-VI.pdf"
+ class="btn btn-primary"
+ target="_blank"
+ rel="noopener noreferrer"
+ &gt;
+ &lt;i class="icon-file-pdf"&gt;&lt;/i&gt;
+ Xem CV của tôi
+ &lt;/a&gt;
+ 
+ &lt;div class="inner-content"&gt;
+ 
+
+
+
+
+
+&lt;div class="container"&gt;
+ &lt;div class="row platform-links shortcode"&gt;
+ &lt;div class="col-12"&gt;
+ 
+ 
+ &lt;a
+ href="https://www.linkedin.com/in/thanh-chu-06481b2ba"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="linkedin"
+ &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+ 
+ 
+ &lt;a
+ href="https://github.com/thanh-chu"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-github"
+ &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+
+&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+
+
  &lt;/div&gt;
  
  &lt;/div&gt;
@@ -40,14 +88,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:1313/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:1313/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_1754ec880e5f2b8.webp 1x, http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_4c33d8ae0e5d490b.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_3f0255b2c18af728.png 1x, http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_121c64b1f1f719de.png 2x" type="image/png"&gt;
 
  &lt;img
  width="790"
  height="768"
  class="lozad img-responsive "
- data-src="http://localhost:1313/images/showcase/showcase_hu_3f0255b2c18af728.png"
+ data-src="http://localhost:1313/thanhchu.github.io/images/showcase/showcase_hu_3f0255b2c18af728.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -55,57 +103,10 @@
  /&gt;
  &lt;/picture&gt;
 
-
-
-
- &lt;/div&gt;
- &lt;div class="col-12 inner-content"&gt;
- 
-
-
-
-
-
-&lt;div class="container"&gt;
- &lt;div class="row platform-links shortcode"&gt;
- &lt;div class="col-12"&gt;
- 
- 
- &lt;a
- href="https://www.linkedin.com/in/thanh-chu-06481b2ba"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="linkedin"
- &gt;&lt;i class="icon-linkedin"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
- 
- 
- &lt;a
- href="https://github.com/Me-Bim-Bi"
- target="_blank"
- rel="noopener noreferrer"
- aria-label="square-github"
- &gt;&lt;i class="icon-square-github"&gt;&lt;/i&gt;
- &lt;/a&gt;
-
-&lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-
-
-
- &lt;/div&gt;
- 
-
- &lt;/div&gt;
-
-
- &lt;div class="row platform-links"&gt;
- &lt;div class="col-12"&gt;&lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
- 
+
+ &lt;/div&gt;
 &lt;/section&gt;
 
 
@@ -151,14 +152,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_209e33b4bf860ac9.webp 1x, http://localhost:1313/images/about/user-picture_hu_334e8b6bfaa4ff98.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/images/about/user-picture_hu_feb6b6be87f5277a.png 1x, http://localhost:1313/images/about/user-picture_hu_14372bbf73bf3b1b.png 2x" type="image/png"&gt;
+ &lt;source srcset="http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_209e33b4bf860ac9.webp 1x, http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_334e8b6bfaa4ff98.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_feb6b6be87f5277a.png 1x, http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_14372bbf73bf3b1b.png 2x" type="image/png"&gt;
 
  &lt;img
  width="509"
  height="700"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/about/user-picture_hu_feb6b6be87f5277a.png"
+ data-src="http://localhost:1313/thanhchu.github.io/images/about/user-picture_hu_feb6b6be87f5277a.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -173,7 +174,7 @@
  Con đường của tôi đến với ngành phần mềm không hề bằng phẳng: tám năm làm nghiệp vụ ngân hàng tại Việt Nam, hai năm giảng dạy mầm non tại Thụy Điển, và giờ đây là chương trình Kỹ thuật Phần mềm tại BTH — mỗi giai đoạn đều mài giũa thêm một thế mạnh mà tôi mang đến cho một đội ngũ phát triển phần mềm.&lt;br/&gt;&lt;br/&gt;Điều đó thể hiện cụ thể như sau: tôi được tin tưởng đồng phụ trách một dự án chuyển đổi hệ thống toàn ngân hàng trước cả khi viết dòng code sản xuất đầu tiên, và tôi mang tinh thần làm chủ đó vào dự án kỹ thuật thực sự đầu tiên của mình — một framework giám sát xây dựng cho Ericsson, được chính đội ngũ của họ đánh giá cao về chất lượng kỹ thuật và tinh thần chủ động. Sau đó, Khoa Toán của BTH đã trực tiếp lựa chọn tôi là 1 trong 3 sinh viên duy nhất để phụ trách các buổi bài tập cho sinh viên năm nhất.&lt;br/&gt;&lt;br/&gt;Trong công việc hàng ngày, điều đó có nghĩa là backend, cơ sở dữ liệu, CI/CD, giám sát hệ thống và triển khai containerised — học nhanh, và làm chủ từ đầu đến cuối.
  &lt;/div&gt;
  
- &lt;a href="http://localhost:1313/vi/skills" class="btn btn-primary mt-3"&gt;
+ &lt;a href="http://localhost:1313/thanhchu.github.io/vi/skills" class="btn btn-primary mt-3"&gt;
  &lt;i class="icon-user"&gt;&lt;/i&gt;
  Xem kỹ năng của tôi
  &lt;/a&gt;
