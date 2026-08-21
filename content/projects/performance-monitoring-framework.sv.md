@@ -9,7 +9,7 @@ highlights:
   - "Levererade ett fullstack-ramverk i Python end-to-end — ansvarade för både frontend-dashboards och backend-datapipelines"
   - "Lärde sig Locust, Prometheus och Grafana från grunden — verktyg som kunden rekommenderade — och byggde realtidsdashboards som visualiserar prestanda, följer trender och exporterar rapporter till intressenterna"
   - "Containeriserade systemet med Docker/Minikube och automatiserade mättnadsdetektering, trendrapportering och historiklagring i SQLite"
-  - "Agerade som projektägare under de första och sista sprintarna; bidrog med kod och granskningar i nästan alla moduler"
+  - "Hade rollen som Scrum Master under den första och sista sprinten och bidrog samtidigt med kod och kodgranskningar i nästan alla projektets moduler."
   - "Ansvarade för teknisk dokumentation och genomförde alla klient- och akademiska demos som huvudpresentatör"
 
 testimonial:

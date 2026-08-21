@@ -9,7 +9,7 @@ highlights:
   - "Delivered a full-stack Python monitoring framework end-to-end, covering both front-end dashboards and back-end data pipelines"
   - "Self-taught Locust, Prometheus, and Grafana from scratch — tools recommended by the client — and used them to build real-time dashboards that visualise performance, track trends, and export reports for stakeholders"
   - "Containerised the system with Docker/Minikube and automated saturation detection, trend reporting, and history storage in SQLite"
-  - "Acted as Project Owner for the first and last sprints; contributed code and reviews across nearly every module"
+  - "Served as Scrum Master for the first and final sprints, while contributing code and reviews across nearly every module of the project."
   - "Owned technical documentation and presented every client and academic demo as lead presenter"
 
 testimonial:

@@ -9,7 +9,7 @@ highlights:
   - "Trực tiếp xây dựng và triển khai hoàn chỉnh một framework giám sát bằng Python, đảm nhận cả phần front-end (dashboard) lẫn back-end (xử lý dữ liệu)"
   - "Tự học và áp dụng Locust, Prometheus và Grafana từ con số 0 — các công cụ do khách hàng gợi ý — xây dựng dashboard trực quan hoá theo thời gian thực, theo dõi xu hướng và xuất báo cáo cho các bên liên quan"
   - "Container hoá hệ thống bằng Docker/Minikube và tự động hoá việc phát hiện điểm bão hoà, báo cáo xu hướng và lưu trữ lịch sử trong SQLite"
-  - "Đảm nhận vai trò Project Owner trong sprint đầu và cuối; đóng góp code và review trên hầu hết các module"
+  - "Đảm nhiệm vai trò Scrum Master trong sprint đầu tiên và sprint cuối cùng, đồng thời tham gia lập trình và review code ở gần như tất cả các module của dự án."
   - "Chịu trách nhiệm về tài liệu kỹ thuật và trực tiếp trình bày tất cả các buổi demo với khách hàng và học thuật"
 
 testimonial:
