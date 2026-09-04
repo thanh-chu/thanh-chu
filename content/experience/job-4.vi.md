@@ -5,7 +5,7 @@ title: "Thu ngân"
 jobTitle: "Thu ngân"
 company: "Lee Baguette"
 location: "Karlskrona, Thụy Điển"
-duration: "Th6 2025 – Th8 2025"
+duration: "Th6 2025 – Th8 2025 (Bán thời gian)"
 
 ---
 - Làm việc bán thời gian tại một trong những cửa hàng có lượng khách cao và được đánh giá tốt tại Karlskrona, chủ yếu hỗ trợ vào giờ cao điểm buổi trưa, khi cần duy trì tốc độ phục vụ nhanh và ổn định.

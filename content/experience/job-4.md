@@ -5,7 +5,7 @@ title: "Cashier"
 jobTitle: "Cashier"
 company: "Lee Baguette"
 location: "Karlskrona, Sweden"
-duration: "Jun 2025 – Aug 2025"
+duration: "Jun 2025 – Aug 2025 (Part-time)"
 
 ---
 - Worked part-time at one of Karlskrona’s busy and well-reviewed locations, primarily supporting the lunch rush, when maintaining fast and consistent service was essential.

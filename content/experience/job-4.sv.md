@@ -5,7 +5,7 @@ title: "Kassör"
 jobTitle: "Kassör"
 company: "Lee Baguette"
 location: "Karlskrona, Sverige"
-duration: "Juni 2025 – Aug 2025"
+duration: "Juni 2025 – Aug 2025 (Deltid)"
 
 ---
 - Arbetade deltid på en av Karlskronas välbesökta och välrecenserade butiker, främst under lunchrusningen, då det var viktigt att upprätthålla en snabb och jämn service.
