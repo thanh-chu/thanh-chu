@@ -30,7 +30,7 @@
     {{- $languages := slice }}
     {{ with .Rotate "language" }}
       {{- range . }}
-        {{- if ne .Site.Language "sv" }}
+        {{- if ne .Site.Language.Lang "sv" }}
           {{- $languages = $languages | append .Lang }}
         {{- end }}
       {{- end }}

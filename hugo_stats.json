@@ -344,6 +344,7 @@
       "skill-card__header",
       "skill-card__icon",
       "skill-card__name",
+      "skill-card__years",
       "skill-category",
       "skill-category__icon",
       "skill-category__title",
