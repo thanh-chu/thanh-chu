@@ -1,18 +1,18 @@
 ---
-title: 'Printable CV — Thanh Chu'
+title: 'Utskrivbart CV — Thanh Chu'
 hideTitle: true
 ---
 
-### About me
+### Om mig
 
-Results-driven Software Engineering student at Blekinge Institute of Technology (BTH), Sweden, who ships working full-stack applications, not just coursework. Delivered a production-grade monitoring framework for Ericsson that earned direct praise from the client team for technical quality, initiative, and professionalism. Brings 15+ years of prior professional discipline — leading quality control at a bank and instructing in Swedish classrooms — into a fast, hands-on approach to learning new technologies and owning problems end-to-end.
+Målinriktad student inom mjukvaruteknik vid Blekinge Tekniska Högskola (BTH), Sverige, som levererar fungerande fullstack-applikationer — inte bara kursuppgifter. Levererade ett produktionsnära övervakningsramverk åt Ericsson som fick direkt beröm från kundens team för teknisk kvalitet, initiativförmåga och professionalism. Har med sig 15+ års tidigare yrkeserfarenhet — bland annat kvalitetsstyrning på en bank och undervisning i svenska klassrum — vilket ger ett snabbt, handfast arbetssätt när ny teknik ska läras in och problem ska ägas från start till mål.
 
-**Core strengths:** Problem Solving · Analytical Thinking · Fast Learner · Agile Teamwork · Attention to Detail · Clear Communication · Cross-Cultural Collaboration
+**Kärnstyrkor:** Problemlösning · Analytiskt tänkande · Snabb inlärningsförmåga · Agilt teamarbete · Noggrannhet · Tydlig kommunikation · Interkulturellt samarbete
 
-**Languages:** Vietnamese (Native) · English (Professional) · Swedish (Professional)
+**Språk:** Vietnamesiska (Modersmål) · Engelska (Professionell nivå) · Svenska (Professionell nivå)
 
-### Experience
+### Erfarenhet
 
 {{< experience-list >}}
 
-{{< education-list title="Education" >}}
+{{< education-list title="Utbildning" >}}

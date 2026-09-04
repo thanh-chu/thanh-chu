@@ -1,19 +1,19 @@
 ---
 
-date: 2026-08-01T00:00:00+01:00
+date: 2026-09-01T00:00:00+01:00
 draft: false
 title: "Office Assistant"
 jobTitle: "Office Assistant"
 company: "Outpost24 Karlskrona"
-location: "Karlskrona, Sweden"
-duration: "September 2026 – Present (Part-time)"
+location: "Karlskrona, Sverige"
+duration: "September 2026 – Pågående (Deltid)"
 
 ---
 
-Support the day-to-day operations of the Karlskrona office, creating a welcoming, organized, and well-functioning workplace for employees and visitors.
+Stöttar den dagliga driften av Karlskontoret och bidrar till en välorganiserad, trivsam och välfungerande arbetsmiljö för medarbetare och besökare.
 
-* Coordinate and prepare weekly breakfasts, team gatherings, and company events.
-* Monitor office inventory and proactively manage the ordering and restocking of supplies.
-* Maintain a clean, organized, and fully prepared office environment.
-* Identify operational needs and take initiative to ensure the office runs smoothly.
-* Support a positive workplace experience through attention to detail, organization, and reliable day-to-day coordination.
+* Planerar och förbereder veckofrukostar, teamaktiviteter och företagsevenemang.
+* Ansvarar för att följa upp lagernivåer samt beställa och fylla på kontorsmaterial och förbrukningsvaror.
+* Säkerställer att kontoret är rent, välorganiserat och alltid redo för medarbetare och besökare.
+* Identifierar löpande behov och tar initiativ för att säkerställa att kontorets dagliga verksamhet fungerar smidigt.
+* Bidrar till en positiv arbetsplatsupplevelse genom struktur, noggrannhet och proaktiv koordinering.

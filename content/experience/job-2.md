@@ -1,25 +1,25 @@
 ---
-date: 2022-09-01T00:00:00+01:00
+date: 2022-09-02T00:00:00+01:00
 draft: false
-title: "Preschool Childcare Worker"
-jobTitle: "Preschool Childcare Worker"
+title: "Barnskötare"
+jobTitle: "Barnskötare"
 company: "Rödeby Förskola Tallbacken"
-location: "Karlskrona, Sweden"
+location: "Karlskrona, Sverige"
 duration: "2022–2024"
 
 ---
-**Preschool Childcare Worker** · Rödeby Förskola Tallbacken · Sep 2022 – Aug 2024
+**Barnskötare** · Rödeby Förskola Tallbacken · Sep 2022 – Aug 2024
 
-- Key responsibilities:
-    - Planned and delivered daily activities for the children, supporting their physical and emotional well-being while developing social skills and cooperation
-    - Collaborated with the team to plan and implement educational activities adapted to each child’s individual needs, abilities, and developmental stage.
-    - Monitored, documented, and updated information on children’s development in individual records.
-    - Earned colleagues’ trust to independently plan and organize activities for the group, prepare activity reports, and communicate important updates to parents through weekly newsletters.
-    - Communicated with parents regarding children’s development and progress, while supporting colleagues with planning and group management.
-- In addition to regular responsibilities, was selected by the school management to participate in planning and managing summer operations during the consolidation of three preschools into one due to a decline in the number of children.
+- Huvudsakliga arbetsuppgifter:
+    - Planerade och genomförde dagliga aktiviteter för barngruppen med fokus på barnens fysiska och emotionella välbefinnande samt utveckling av sociala färdigheter och samarbetsförmåga.
+    - Samarbetade med arbetslaget för att planera och genomföra pedagogiska aktiviteter anpassade efter varje barns individuella behov, förmågor och utvecklingsnivå.
+    - Följde upp, dokumenterade och uppdaterade information om barnens utveckling i individuella dokumentationer.
+    - Vann kollegornas förtroende att självständigt planera och genomföra aktiviteter för barngruppen, skriva aktivitetsrapporter och kommunicera viktig information till vårdnadshavare genom veckobrev.
+    - Samarbetade med vårdnadshavare kring barnens utveckling och framsteg samt stöttade kollegor i planering och ledning av barngruppen.
+- Utöver de ordinarie arbetsuppgifterna valdes jag av förskolans ledning att delta i planeringen och organiseringen av sommarverksamheten under en period då tre förskolor slogs samman till en på grund av minskat barnantal.
+
 ---
 
-**Substitute Preschool Childcare Worker** · Karlskrona Kommun · May 2022 – Aug 2022
-
-- Worked as a substitute across several preschools, quickly adapting to different working environments and taking responsibility for the daily activities and care of the children.
-- After two weeks of working at Tallbackens Förskola, was recommended by colleagues and offered a direct position at the preschool. Continued working there for two years as a Preschool Childcare Worker.
+**Vikarierande barnskötare** · Karlskrona Kommun · Maj 2022 – Aug 2022
+- Arbetade som vikarie på flera förskolor, anpassade mig snabbt till olika arbetsmiljöer och tog på kort tid ansvar för de dagliga arbetsuppgifterna i barngruppen.
+- Efter två veckors arbete på Tallbackens förskola blev jag rekommenderad av kollegor och erbjöds en direkt anställning på förskolan. Fortsatte därefter att arbeta där i två år som barnskötare.

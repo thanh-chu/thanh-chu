@@ -1,6 +1,6 @@
 ---
 
-date: 2026-08-01T00:00:00+01:00
+date: 2026-09-01T00:00:00+01:00
 draft: false
 title: "Trợ lý Văn phòng"
 jobTitle: "Trợ lý Văn phòng"

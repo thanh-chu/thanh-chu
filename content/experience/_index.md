@@ -1,5 +1,5 @@
 ---
-title: Experience
+title: Erfarenhet
 button1_text: "LinkedIn"
 button1_url: "https://www.linkedin.com/in/thanh-chu-06481b2ba"
 button1_icon: icon-linkedin
@@ -10,6 +10,6 @@ button2_icon: icon-square-github
 
 ---
 
-15+ years of cross-industry experience — spanning banking in Vietnam, early childhood education in Sweden, and software engineering at BTH, where I successfully developed a performance monitoring framework for Ericsson. Each stage of my career has sharpened a distinct strength: process discipline and quality control from banking, clear communication and empathy from education, and rigorous technical thinking from software engineering.
+Över 15 års erfarenhet från flera branscher – från bankverksamhet i Vietnam, förskoleverksamhet i Sverige till mjukvaruutveckling vid BTH, där jag framgångsrikt utvecklade ett ramverk för prestandaövervakning för Ericsson. Varje steg i min karriär har vässat en särskild styrka: procesdisciplin och kvalitetskontroll från banksektorn, tydlig kommunikation och empati från utbildningsområdet samt ett strukturerat och noggrant tekniskt tänkande från mjukvaruutveckling.
 
-My experience spans the full journey — from corporate accounting and banking operations to early childhood education and a Mathematics Exercise Session Leader role, specifically selected to support first-year students; from contributing to a bank-wide core banking transformation project to building reliable software systems trusted by clients.
+Min erfarenhet sträcker sig genom hela denna resa – från företagsredovisning och bankverksamhet till förskoleverksamhet och rollen som Räkneövningsledare, där jag särskilt valdes ut för att stödja förstaårsstudenter; från medverkan i ett bankövergripande projekt för transformation av core banking-system till utveckling av tillförlitliga mjukvarusystem som vunnit kundernas förtroende.

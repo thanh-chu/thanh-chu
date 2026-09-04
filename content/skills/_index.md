@@ -1,67 +1,67 @@
 ---
-title: "Technical Skills"
+title: "Tekniska kompetenser"
 date: 2025-05-19T14:56:00+01:00
 draft: false
-description: "Technical skills and expertise built through hands-on projects and academic coursework at BTH, including a monitoring framework delivered for Ericsson."
+description: "Tekniska kunskaper och färdigheter byggda genom praktiska projekt och kurser vid BTH, inklusive ett övervakningsramverk levererat till Ericsson."
 skill_categories:
-  - name: "Programming Languages"
+  - name: "Programmeringsspråk"
     icon: "💻"
     skills:
       - name: "Python"
         icon: "🐍"
-        description: "Flask, pytest, scripting, automation"
+        description: "Flask, pytest, skript, automatisering"
       - name: "JavaScript / TypeScript"
         icon: "🟨"
-        description: "Frontend scripting, TypeScript for graph editor project"
+        description: "Frontend, TypeScript för grafedigerare"
       - name: "C / C++"
         icon: "⚙️"
-        description: "Systems programming coursework at BTH"
+        description: "Systemprogrammering vid BTH"
       - name: "SQL (MySQL)"
         icon: "🗄️"
-        description: "Relational databases, queries, schema design"
+        description: "Relationsdatabaser, frågor, schemadesign"
       - name: "Cypher (Neo4j)"
         icon: "🕸️"
-        description: "Graph database queries for graph editor project"
-  - name: "Frameworks & Tools"
+        description: "Grafdatabasfrågor för grafedigerareprojektet"
+  - name: "Ramverk & verktyg"
     icon: "🧰"
     skills:
       - name: "Flask"
         icon: "🧪"
-        description: "Python web framework for REST APIs and web apps"
+        description: "Python-webbramverk för REST-API:er och webbappar"
       - name: "Next.js"
         icon: "▲"
-        description: "React framework for modern front-end applications"
+        description: "React-ramverk för moderna frontend-applikationer"
       - name: "Docker / Minikube"
         icon: "🐳"
-        description: "Containerisation and local Kubernetes orchestration"
+        description: "Containerisering och lokal Kubernetes-orkestrering"
       - name: "Grafana / Prometheus"
         icon: "📈"
-        description: "Monitoring dashboards and metrics collection — built for Ericsson"
+        description: "Övervakningsdashboardar och mätinsamling — byggt åt Ericsson"
       - name: "Git / GitHub / GitLab"
         icon: "🔀"
-        description: "Version control, CI/CD pipelines, code reviews"
-  - name: "Testing & QA"
+        description: "Versionshantering, CI/CD-pipelines, kodgranskningar"
+  - name: "Testning & QA"
     icon: "✅"
     skills:
       - name: "pytest"
         icon: "✅"
-        description: "Unit and integration testing in Python"
+        description: "Enhets- och integrationstestning i Python"
       - name: "Cypress"
         icon: "🌲"
-        description: "End-to-end browser testing"
+        description: "End-to-end-testning i webbläsare"
       - name: "Locust"
         icon: "🦗"
-        description: "Load testing and performance benchmarking"
+        description: "Lasttestning och prestandamätning"
 ---
 
-I build technical skill through shipped, production-style work — not just coursework. That includes a performance monitoring framework delivered for Ericsson and praised by their team, and a graph editor built from scratch in technologies I taught myself specifically for the project.
+Jag bygger teknisk kompetens genom levererat, produktionsnära arbete — inte bara kursuppgifter. Det inkluderar ett prestandaövervakningsramverk levererat till Ericsson och berömt av deras team, samt en grafedigerare byggd från grunden med tekniker jag lärde mig själv specifikt för projektet.
 
 <div class="d-flex flex-wrap justify-content-center gap-2 my-4">
-  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Problem Solving</span>
-  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Analytical Thinking</span>
-  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Fast Learner</span>
-  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Agile Teamwork</span>
-  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Attention to Detail</span>
-  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Clear Communication</span>
-  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Cross-Cultural Collaboration</span>
+  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Problemlösning</span>
+  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Analytiskt tänkande</span>
+  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Snabb inlärningsförmåga</span>
+  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Agilt teamarbete</span>
+  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Noggrannhet</span>
+  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Tydlig kommunikation</span>
+  <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">Interkulturellt samarbete</span>
 </div>

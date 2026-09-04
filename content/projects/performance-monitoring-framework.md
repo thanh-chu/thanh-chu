@@ -1,32 +1,32 @@
 ---
 date: '2026-05-01T00:00:00+02:00'
-title: 'Performance Monitoring Framework for Ericsson'
+title: 'Prestandaövervakningsramverk för Ericsson'
 draft: false
-summary: "A real-time monitoring framework built for Ericsson's engineering team — detects performance saturation before it becomes an incident."
-meta: "Team of 5 · Delivered for Ericsson, Karlskrona · Feb – May 2026"
+summary: "Ett realtidsövervakningsramverk byggt för Ericssons utvecklingsteam — upptäcker prestandaproblem innan de blir incidenter."
+meta: "Team om 5 · Levererat till Ericsson, Karlskrona · Feb – maj 2026"
 
 highlights:
-  - "Delivered a full-stack Python monitoring framework end-to-end, covering both front-end dashboards and back-end data pipelines."
-  - "Self-taught Locust, Prometheus, and Grafana from scratch — tools recommended by the client — and used them to build real-time dashboards that visualise performance, track trends, and export reports for stakeholders."
-  - "Containerised the system with Docker/Minikube and automated saturation detection, trend reporting, and history storage in SQLite."
-  - "Served as Scrum Master for the first and final sprints, while contributing code and reviews across nearly every module of the project."
-  - "Owned technical documentation and presented every client and academic demo as lead presenter."
+  - "Levererade ett fullstack-ramverk i Python end-to-end — ansvarade för både frontend-dashboards och backend-datapipelines"
+  - "Lärde sig Locust, Prometheus och Grafana från grunden — verktyg som kunden rekommenderade — och byggde realtidsdashboards som visualiserar prestanda, följer trender och exporterar rapporter till intressenterna"
+  - "Containeriserade systemet med Docker/Minikube och automatiserade mättnadsdetektering, trendrapportering och historiklagring i SQLite"
+  - "Hade rollen som Scrum Master under den första och sista sprinten och bidrog samtidigt med kod och kodgranskningar i nästan alla projektets moduler."
+  - "Ansvarade för teknisk dokumentation och genomförde alla klient- och akademiska demos som huvudpresentatör"
 
 testimonial:
-  quote: "The Ericsson team praised the group's collaboration, initiative, and growth mindset, and noted the final product was a solid, well-rounded application across front end and back end."
-  attribution: "Client feedback"
+  quote: "Ericssons team berömde gruppens samarbete, initiativförmåga och förmåga att snabbt lära sig nytt, och lyfte fram att slutresultatet blev en gedigen och välbalanserad applikation på både frontend och backend."
+  attribution: "Kundfeedback"
 
 stack: ["Python", "Locust", "Grafana", "Prometheus", "SQLite", "Docker", "Minikube", "pytest", "Cypress", "GitLab"]
 
 params:
     button:
         icon: "icon-circle-info"
-        btnText: "Ericsson GitLab (internal)"
-        URL: "cv#ericsson-code-policy"
+        btnText: "Ericsson GitLab (intern)"
+        URL: "sv/cv#ericsson-code-policy"
     image:
         src: "images/works/load-testing.jpg"
         scale: 0.5
 
 ---
 
-A feedback-controlled framework for continuous performance monitoring, delivered directly to Ericsson's engineering team — it detects saturation points before they become incidents, tracks performance trends over time, and visualises system health in real time.
+Ett återkopplingsbaserat ramverk för kontinuerlig prestandaövervakning, levererat direkt till Ericssons utvecklingsteam — det upptäcker mättnadspunkter innan de blir incidenter, spårar prestandatrender över tid och visualiserar systemhälsa i realtid.

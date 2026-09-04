@@ -1,8 +1,8 @@
 ---
-title: "Selected Projects"
+title: "Utvalda Projekt"
 date: 2025-05-19T14:56:00+01:00
 draft: false
-description: "Full-stack projects delivered end-to-end — a production monitoring framework built for Ericsson, an independently-built graph editor, and a full-stack ordering platform."
+description: "Fullstackprojekt levererade från start till mål — ett övervakningsramverk byggt för Ericsson, en självständigt utvecklad grafredigerare och en fullstack-beställningsplattform."
 ---
 
-Three projects, three different pressures: a real client deadline, a solo technical deep-dive, and a first team delivery under scrutiny. Each one shipped a working product, not just a prototype — built, tested, and handed over.
+Tre projekt, tre olika typer av press: en verklig kunddeadline, en självständig teknisk fördjupning och teamets första leverans under granskning. Alla tre resulterade i en fungerande produkt, inte bara en prototyp — byggd, testad och överlämnad.

@@ -2,73 +2,71 @@
 date: 2017-09-01T00:00:00+01:00
 draft: false
 title: "Vietnam Maritime Commercial Joint Stock Bank"
-jobTitle: "Operations Officer & Controller"
+jobTitle: "Driftsansvarig & Controller"
 company: "Vietnam Maritime Commercial Joint Stock Bank (MSB)"
 location: "Hanoi, Vietnam"
 duration: "2011–2019"
 
 ---
-**Banking Operations Specialist** · Sep 2017 – Oct 2019
+**Specialist inom bankverksamhet och processer** · Sep 2017 – Okt 2019
 
-{{< exp-image src="team-du-an.jpg" alt="Banking Operations Specialist project team" >}}
+{{< exp-image src="team-du-an.jpg" alt="Projektteam" >}}
 
-- Key responsibilities:
-    - Advised, supported, and handled operational queries from tellers and controllers across the bank via email, phone, and the Operation Service Desk.
-    - Drafted and developed process descriptions and governing documents for the bank’s operational activities.
-    - Reviewed process descriptions and governing documents prepared by other departments and provided feedback and suggestions for improvement.
-    - Designed training materials and delivered training sessions on banking procedures and operations.
+- Huvudsakliga arbetsuppgifter:
+    - Rådgav, stöttade och besvarade frågor om bankens operativa processer från kassapersonal och kontrollanter i hela banken via e-post, telefon och Operation Service Desk.
+    - Skrev och utformade processbeskrivningar och styrande dokument för bankens operativa verksamhet.
+    - Granskade processbeskrivningar och styrande dokument som tagits fram av andra avdelningar och lämnade synpunkter och förbättringsförslag.
+    - Utformade utbildningsmaterial och höll utbildningar inom bankens processer och operativa verksamhet.
+    
+- Jag valdes ut som en av två specialister från vårt team för att ansvara för processarbetet i ett bankövergripande transformationsprojekt, där hela kundservicefunktionen flyttades från Operations till Retail Banking. Jag ansvarade för att skriva och utforma processbeskrivningar och styrande dokument samt deltog i utbildningar för att säkerställa en smidig och heltäckande övergång. Jag fick även huvudansvaret för att utforma och sammanställa ett månatligt nyhetsbrev om bankens processer och viktiga operativa uppdateringar, som distribuerades i hela banken. Därutöver fick jag i uppdrag att sammanställa dokumentation och delta i diskussioner om hur arbetstiderna för kundservicefunktionen kunde utformas mer effektivt för att maximera verksamhetens effektivitet.
 
-- In addition, I was selected as one of two specialists from our team to be responsible for the process work in a bank-wide transformation project, which involved moving the entire Customer Service function from Operations to Retail Banking. I was responsible for drafting and developing process descriptions and governing documents, as well as participating in training to ensure a smooth and comprehensive transition. I also took full responsibility for designing and preparing a monthly newsletter covering the bank’s processes and important operational updates, which was distributed across the bank. Furthermore, I was assigned to consolidate documentation and participate in discussions on designing more effective working hours for the Customer Service function to maximize operational efficiency.
-
-- When the bank launched a core banking system transformation project, I was selected, together with two other colleagues from our department, to represent our department in the project. I was responsible for the current accounts and savings accounts modules.
-
-
----
-
-**Banking Operations Controller** · Apr 2015 – Sep 2017
-
-{{< exp-image src="kiem-soat-vien.jpg" alt="Banking Operations Controller" >}}
-{{< exp-image src="ksv-xuat-sac.jpg" alt="Banking Operations Controller at Hùng Vương" >}}
-
-- Worked as a Banking Operations Controller at Sở Giao dịch and Hùng Vương Transaction Office. These were two high-volume locations with complex operational processes. They also served as pilot sites for new banking products and primarily served internal bank customers, large corporate clients, and financial institutions.
-
-- Key responsibilities:
-    - Monitored operational activities and ensured that transactions were carried out in accordance with applicable processes, procedures, and regulations.
-    - Reviewed transaction documents, supporting documentation, and customer files.
-    - Managed staffing at the teller counter and ensured that daily operations ran smoothly, efficiently, and without unnecessary delays.
-    - Took responsibility for the quality of service at the teller counter.
-
-- In addition:
-    - Designed an Excel-based solution to track and report outstanding transaction documents, replacing a completely manual process. This was particularly important at Sở Giao dịch, where a large volume of daily transactions involved documents received by fax, telephone-based approvals, and special approvals. Previously, tellers had to manually record and track these documents, which inevitably led to errors, omissions, and inconsistent reporting. The tool I designed significantly reduced the time required to record outstanding documents and standardized the reporting format, making the information much easier to track and consolidate.
-    - Supported system testing when the bank launched new products or migrated systems to new servers.
-    - Supported the rollout of new products and provided feedback to the product development team and other relevant departments. This was particularly relevant at Hùng Vương Transaction Office, where the bank’s Head Office was located and where many of the bank’s newest products were piloted. The feedback covered areas such as product delivery processes, potential improvements, and possible legal or regulatory gaps.
-
-- Named the region’s best-performing Banking Operations Controller in 2015 and 2016, consistently achieving 150–200% of performance targets, and became a trusted support to the Regional Customer Service Director.
-
-- I was recommended by the head of the Operational Procedures team and directly recruited to join the Operations Management Department. This marked the beginning of my transition from front office to back office within banking.
+- När banken genomförde ett projekt för byte av core banking-system utsågs jag, tillsammans med två andra medarbetare från vår avdelning, till representant för avdelningen i projektet. Jag ansvarade för modulerna för transaktionskonton och sparkonton.
 
 ---
 
-**Bank Teller** · Oct 2011 – Apr 2015
+**Kontrollant inom bankverksamhet** · Apr 2015 – Sep 2017
 
-{{< exp-image src="gdv-xuat-sac.jpg" alt="Outstanding Bank Teller award" >}}
+{{< exp-image src="kiem-soat-vien.jpg" alt="Kontrollant inom bankverksamhet" >}}
+{{< exp-image src="ksv-xuat-sac.jpg" alt="Kontrollant inom bankverksamhet i HUV" >}}
 
-- Key responsibilities:
-    - Advised customers and provided financial solutions based on their needs.
-    - Reviewed customer documents and supporting documentation and processed transactions accurately and efficiently in accordance with applicable processes, procedures, and service quality standards.
-    - Managed the cash holdings.
-    - Prepared reports.
-    - Managed customer files and documentation.
+- Arbetade som kontrollant vid Sở Giao dịch och Hùng Vương Transaction Office. Dessa var två verksamheter med mycket stora transaktionsvolymer och komplexa arbetsprocesser. De fungerade även som pilotkontor för nya bankprodukter och betjänade främst interna bankkunder, stora företagskunder och finansiella institutioner.
 
-- In addition to my regular responsibilities as a Bank Teller, I was responsible for:
-    - Managing, monitoring, and ordering office supplies and transaction documents for the teller counter.
-    - Handling and processing the bank’s new and specialized products, including bond products and gold trading and safekeeping services.
-    - Providing service and maintaining ongoing relationships with a large number of VIP customers.
+- Huvudsakliga arbetsuppgifter:
+    - Kontrollerade den operativa verksamheten och säkerställde att transaktioner genomfördes enligt gällande processer, rutiner och regelverk.
+    - Granskade transaktionsunderlag, dokumentation och kundakter.
+    - Ansvarade för bemanningen vid kassadisken och säkerställde att det dagliga arbetet fungerade smidigt, effektivt och utan onödiga förseningar.
+    - Ansvarade för servicekvaliteten vid kassadisken.
 
-- Named the best-performing Bank Teller in the Cau Giay area in 2012 and 2013.
+- Utöver detta:
+    - Utformade en Excel-baserad lösning för att följa upp och rapportera utestående transaktionsdokument, vilket ersatte en helt manuell process. Detta var särskilt viktigt vid Sở Giao dịch, där stora mängder transaktioner varje dag innefattade dokument som mottogs via fax, telefonbaserade godkännanden och särskilda godkännanden. Tidigare behövde kassapersonalen registrera och följa upp dessa dokument manuellt, vilket ofrånkomligen ledde till fel, missade dokument och inkonsekventa rapporter. Verktyget jag utformade minskade den tid som behövdes för registrering av utestående dokument avsevärt och standardiserade rapporteringen, vilket gjorde informationen mycket enklare att följa upp och sammanställa.
+    - Stöttade systemtester när banken lanserade nya produkter eller migrerade system till nya servrar.
+    - Stöttade införandet av nya produkter och gav återkoppling till produktutvecklingsteamet och andra berörda avdelningar. Detta var särskilt relevant för Hùng Vương Transaction Office, där bankens huvudkontor låg och där många av bankens nyaste produkter testades. Återkopplingen gällde bland annat processerna för att leverera nya produkter, områden som behövde förbättras samt potentiella legala eller regulatoriska brister.
 
-- In 2013, I was nominated by the Customer Service Director to participate in the selection process for the Banking Operations Controller position and was assigned responsibility for My Dinh Transaction Office while the regular controller was on parental leave.
+- Utsågs till regionens bäst presterande kontrollant 2015 och 2016, uppnådde konsekvent 150–200 % av prestationsmålen och blev ett viktigt stöd för Regional Customer Service Director.
 
-- After six months as a controller at My Dinh Transaction Office, I returned to my role as a Bank Teller at Cau Giay Branch because the region had reached its required number of controllers. I continued in this role until taking parental leave.
+- Jag rekommenderades av chefen för teamet för operativa processer och rekryterades direkt till Operations Management Department. Detta blev början på min övergång från front office till back office inom bankverksamheten.
+---
 
-- After my maternity leave, I was nominated by the Customer Service Directors for both the Cau Giay area and Sở Giao dịch to participate in the Banking Operations Controller selection process. I passed the selection process and became a Banking Operations Controller at Sở Giao dịch.
+**Bankkassör** · Okt 2011 – Apr 2015
+
+{{< exp-image src="gdv-xuat-sac.jpg" alt="Utmärkelse för bästa bankkassör" >}}
+
+- Huvudsakliga arbetsuppgifter:
+    - Rådgav kunder och erbjöd finansiella lösningar utifrån deras behov.
+    - Granskade kundhandlingar och underlag samt genomförde transaktioner noggrant och effektivt i enlighet med gällande processer, rutiner och krav på servicekvalitet.
+    - Ansvarade för kontantkassan.
+    - Tog fram rapporter.
+    - Ansvarade för kundakter och kunddokumentation.
+
+- Utöver mina ordinarie arbetsuppgifter som bankkassör ansvarade jag för:
+    - Hantering, uppföljning och beställning av kontorsmaterial och transaktionsdokument för kassadisken.
+    - Hantering och genomförande av bankens nya och specialiserade produkter, bland annat obligationsprodukter samt handel med och förvaring av guld.
+    - Service och löpande kontakt med ett stort antal VIP-kunder.
+
+- Utsågs till bäst presterande bankkassör i Cau Giay-området 2012 och 2013.
+
+- År 2013 nominerades jag av Customer Service Director till att delta i urvalet för kontrollanttjänsten och fick ansvar för My Dinh Transaction Office under den ordinarie kontrollantens föräldraledighet.
+
+- Efter sex månader som kontrollant vid My Dinh Transaction Office återgick jag till rollen som bankkassör vid Cau Giay Branch eftersom regionen hade uppnått sitt behov av kontrollanter. Jag fortsatte i denna roll fram till min föräldraledighet.
+
+- Efter min föräldraledighet nominerades jag av Customer Service Directors för både Cau Giay-området och Sở Giao dịch till att delta i urvalet för kontrollanttjänsten. Jag klarade urvalet och blev kontrollant vid Sở Giao dịch.

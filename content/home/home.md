@@ -1,5 +1,5 @@
 +++
-title =  "Home"
+title =  "Hem"
 type = "home"
 draft = false
 +++
@@ -7,11 +7,11 @@ draft = false
 
 {{< showcase-section
     title="Thanh Chu"
-    subtitle="Software Engineering Student — Building on 15+ Years of Cross-Industry Experience"
-    button_text="See My CV"
+    subtitle="Mjukvaruingenjörsstudent — Bygger Vidare på 15+ Års Branschöverskridande Erfarenhet"
+    button_text="Se Mitt CV"
     button_icon="icon-file-pdf"
-    button_url="cv/Thanh-Chu-CV-EN.pdf"
-    description="Software Engineering student at <strong>Blekinge Institute of Technology (BTH)</strong>, Sweden, who ships working full-stack applications end-to-end. Delivered a production-grade monitoring framework for Ericsson that earned direct praise from the client team for technical quality, initiative, and professionalism — shaped by a career that already spans banking operations and early-childhood education."
+    button_url="cv/Thanh-Chu-CV-SV.pdf"
+    description="Mjukvaruingenjörsstudent vid <strong>Blekinge Tekniska Högskola (BTH)</strong>, Sverige, som levererar fungerande fullstack-applikationer från start till mål. Levererade ett produktionsnära övervakningsramverk åt Ericsson som fick direkt beröm från kundens team för teknisk kvalitet, initiativförmåga och professionalism — präglad av en karriär som redan spänner över både bank och förskoleundervisning."
     imgSrc="images/showcase/showcase.png"
     imgScale="0.5"
  >}}
@@ -24,10 +24,10 @@ draft = false
 {{< /showcase-section >}}
 
 {{< about-section
-    title="About me"
-    content="My path into software wasn't a straight line: eight years in banking operations in Vietnam, two years teaching preschool in Sweden, and now a Software Engineering degree at BTH — each stage sharpening a different edge I bring to a dev team.<br/><br/>What that looks like in practice: I was trusted to co-own a bank-wide system migration before I ever wrote a line of production code, and I carried that same ownership into my first real engineering project — a monitoring framework built for Ericsson that earned direct praise from their team for technical quality and initiative. BTH's Mathematics Department later hand-picked me as 1 of just 3 students to lead exercise sessions for first-year students.<br/><br/>Day to day, that means backend services, databases, CI/CD, monitoring, and containerised deployments — learned fast, and owned end-to-end."
+    title="Om mig"
+    content="Min väg in i mjukvarubranschen var inte spikrak: åtta år inom bankverksamhet i Vietnam, två år som förskollärare i Sverige, och nu en utbildning i mjukvaruteknik vid BTH — varje steg har slipat en ny sida som jag tar med mig till ett utvecklarteam.<br/><br/>Vad det innebär i praktiken: jag fick förtroendet att vara med och äga en bankomfattande systemmigrering innan jag någonsin skrivit en rad produktionskod, och jag tog med mig samma ägarskap in i mitt första riktiga ingenjörsprojekt — ett övervakningsramverk byggt åt Ericsson som fick direkt beröm från deras team för teknisk kvalitet och initiativförmåga. BTH:s matematikinstitution handplockade mig senare som en av bara tre studenter som fick leda övningspass för förstaårsstudenter.<br/><br/>I vardagen betyder det backend-tjänster, databaser, CI/CD, övervakning och containeriserade driftsättningar — inlärt snabbt och ägt från start till mål."
     button_icon="icon-user"
-    button_text="Check my skills"
+    button_text="Se mina kompetenser"
     button_url="skills"
     imgSrc="images/about/user-picture.png"
     imgScale="0.5"
@@ -37,8 +37,8 @@ draft = false
 
 <section id="skills-teaser" class="section rad-animation-group pb-0">
   <div class="container text-center rad-fade-down">
-    <h2>Technical Skills</h2>
-    <p class="lead mb-4">The tools I reach for most — self-taught, production-tested, and growing every sprint.</p>
+    <h2>Tekniska kompetenser</h2>
+    <p class="lead mb-4">Verktygen jag använder mest — självlärt, produktionstestat och växer varje sprint.</p>
     <div class="d-flex flex-wrap justify-content-center gap-2 mb-4">
       <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">🐍 Python</span>
       <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">🧪 Flask</span>
@@ -50,7 +50,7 @@ draft = false
       <span class="badge rounded-pill bg-primary-subtle text-primary-emphasis px-3 py-2">🔀 Git / CI/CD</span>
     </div>
     <a href="skills" class="btn btn-primary btn-lg">
-      <i class="icon-circle-arrow-right" aria-hidden="true"></i>&nbsp; View Full Skill Breakdown
+      <i class="icon-circle-arrow-right" aria-hidden="true"></i>&nbsp; Se Alla Kompetenser
     </a>
   </div>
 </section>
@@ -58,12 +58,12 @@ draft = false
 {{< spacer size="large" >}}
 
 {{< education-list
-    title="Education" >}}
+    title="Utbildning" >}}
 
 {{< experience-section
-    title="My experience"
-    intro_title="A Career Built Across Three Industries"
-    intro_description="From banking operations and finance in Vietnam to early childhood education and software engineering in Sweden — each chapter sharpened a different professional edge I bring to every project."
+    title="Min erfarenhet"
+    intro_title="En Karriär Byggd Över Tre Branscher"
+    intro_description="Från bankverksamhet och finans i Vietnam till förskoleundervisning och mjukvaruutveckling i Sverige — varje kapitel har slipat en ny sida jag tar med mig till varje projekt."
     button1_url="https://www.linkedin.com/in/thanh-chu-06481b2ba"
     button1_text="LinkedIn"
     button1_icon="icon-linkedin"
@@ -71,9 +71,9 @@ draft = false
 >}}
 
 {{< projects-teaser
-    title="Selected Projects"
-    description="Three full-stack builds, shipped end-to-end — from a client deadline at Ericsson to a solo technical deep-dive."
-    buttonText="View All Projects"
+    title="Utvalda projekt"
+    description="Tre fullstackprojekt, levererade från start till mål — från en kunddeadline hos Ericsson till en självständig teknisk fördjupning."
+    buttonText="Se Alla Projekt"
     projectsUrl="projects"
 >}}
 

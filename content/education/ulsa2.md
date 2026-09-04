@@ -1,9 +1,11 @@
 ---
 date: '2005-08-01T00:00:00+02:00'
-title: 'University of Labour & Social Affairs (ULSA2)'
+title: 'Högskolan för Arbete & Sociala Frågor (ULSA2)'
 draft: false
 
-university: "University of Labour & Social Affairs (ULSA2), Hanoi, Vietnam"
+university: "Högskolan för Arbete & Sociala Frågor (ULSA2), Hanoi, Vietnam"
 year: "Aug 2005 – Jun 2009"
-degree: "Bachelor's Degree, Accounting"
+degree: "Kandidatexamen, Redovisning"
+logo: "images/education/ulsa2-logo.svg"
+
 ---

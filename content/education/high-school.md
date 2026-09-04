@@ -1,9 +1,11 @@
 ---
 date: '2024-08-01T00:00:00+02:00'
-title: 'Blekinge Institute of Technology (BTH)'
+title: 'Blekinge Tekniska Högskola (BTH)'
 draft: false
 
-university: "Blekinge Institute of Technology (BTH)"
-year: "Aug 2024 – Present"
-degree: "Bachelor's Degree, Software Engineering"
+university: "Blekinge Tekniska Högskola (BTH)"
+year: "Aug 2024 – Nu"
+degree: "Kandidatexamen, Mjukvaruteknik"
+logo: "images/education/bth-logo.svg"
+
 ---

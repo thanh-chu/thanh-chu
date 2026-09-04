@@ -1,6 +1,12 @@
 baseURL = "https://thanh-chu.github.io/thanhchu.github.io/"
-title = "Thanh Chu — Software Engineering Student"
-languageCode = "en"
+title = "Thanh Chu — Mjukvaruingenjörsstudent"
+languageCode = "sv"
+
+# Swedish is served at the site root (no URL prefix) as the default
+# language; English and Vietnamese are only served under their own
+# /en/ and /vi/ prefixes.
+defaultContentLanguage = "sv"
+defaultContentLanguageInSubdir = false
 
 [pagination]
 pagerSize = 3
@@ -166,38 +172,38 @@ languageCode = 'en'
 languageDirection = 'ltr'
 languageName = 'English'
 title = 'Thanh Chu — Software Engineering Student'
-weight = 0
+weight = 1
 
 [languages.en.menus]
 [[languages.en.menus.header]]
 name = "Home"
-URL = "/"
+URL = "/en/"
 weight = 1
 [[languages.en.menus.header]]
 name = 'About'
-URL = '#about'
+URL = '/en/#about'
 weight = 2
 [[languages.en.menus.header]]
 name = 'Skills'
-URL = '/skills'
+URL = '/en/skills'
 weight = 3
 [[languages.en.menus.header]]
 name = 'Projects'
-URL = '/projects'
+URL = '/en/projects'
 weight = 4
 [[languages.en.menus.header]]
 name = "Experience"
-URL = "/experience"
+URL = "/en/experience"
 weight = 5
 [[languages.en.menus.header]]
 pre = "email"
 name = "Contact"
-URL = "#contact"
+URL = "/en/#contact"
 weight = 6
 [[languages.en.menus.header]]
 pre = "search"
 name = "Search"
-URL = "/search"
+URL = "/en/search"
 weight = 7
 
 
@@ -239,7 +245,7 @@ weight = 6
 [[languages.vi.menus.header]]
 pre = "search"
 name = "Tìm kiếm"
-URL = "/search"
+URL = "/vi/search"
 weight = 7
 
 
@@ -249,33 +255,33 @@ languageCode = 'sv'
 languageDirection = 'ltr'
 languageName = 'Svenska'
 title = 'Thanh Chu — Mjukvaruingenjörsstudent'
-weight = 1
+weight = 0
 
 [languages.sv.menus]
 [[languages.sv.menus.header]]
 name = "Hem"
-URL = "/sv/"
+URL = "/"
 weight = 1
 [[languages.sv.menus.header]]
 name = "Om mig"
-URL = "/sv/#about"
+URL = "/#about"
 weight = 2
 [[languages.sv.menus.header]]
 name = "Kompetenser"
-URL = "/sv/skills"
+URL = "/skills"
 weight = 3
 [[languages.sv.menus.header]]
 name = "Projekt"
-URL = "/sv/projects"
+URL = "/projects"
 weight = 4
 [[languages.sv.menus.header]]
 name = "Erfarenhet"
-URL = "/sv/experience"
+URL = "/experience"
 weight = 5
 [[languages.sv.menus.header]]
 pre = "email"
 name = "Kontakt"
-URL = "/sv/#contact"
+URL = "/#contact"
 weight = 6
 [[languages.sv.menus.header]]
 pre = "search"
